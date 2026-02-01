@@ -1,0 +1,151 @@
+contract_start_dt,region_cd,health_score_val,company_size,acct_nm,acct_mgr_nm,created_at,account_status,svc_mgr_nm,exp_mrr_amt,contract_end_dt,updated_at,lifecycle_cd,signup_src_cd,country,industry,acct_type_cd,acct_id
+2022-03-24,EU,100.0,Mid,Apex Dynamics,David Andersen,2023-02-17,inactive,,999.0,,2024-02-22,trial,sales,DE,Healthcare,SMB,AC001
+2020-09-18,,60.0,,RedOak Digital,John Nowak,2019-07-11,active,Anna Nowak,199.0,,2024-04-21,customer,,US,Tech,Enterprise,AC002
+,LATAM,80.0,Mid,Vertex Solutions,Anna Müller,2020-03-27,Active,Sophie Müller,,,2024-08-17,customer,organic,usa,Education,Startup,AC003
+2020-06-11,LATAM,100.0,Mid,Lighthouse Data,Anna Brown,2020-11-27,Active,,199.0,,2024-05-22,trial,paid_ads,usa,Tech,Startup,AC004
+2020-11-15,APAC,80.0,SMB,Ironclad Tech,Michael Nowak,2019-07-18,Active,Mark Müller,499.0,2025-06-14,2024-07-02,trial,partner,US,Healthcare,,AC005
+2021-07-26,APAC,100.0,SMB,Skyward Systems,Sophie Andersen,2022-01-03,Active,Sophie Kowalski,199.0,,2024-03-04,,paid_ads,usa,,,AC006
+2023-10-15,NA,40.0,Enterprise,NovaWorks,Laura Taylor,2022-03-28,suspended,Michael Kowalski,999.0,,2024-04-08,customer,,usa,Education,,AC007
+,APAC,100.0,Enterprise,Skyward Systems,Michael Nowak,2023-11-10,inactive,Michael Taylor,999.0,,2024-02-21,churned,,US,Finance,Enterprise,AC008
+2023-10-06,APAC,40.0,Enterprise,,John Smith,2020-12-28,suspended,Laura Smith,999.0,,2024-04-17,trial,sales,DE,,Enterprise,AC009
+,NA,100.0,SMB,Vertex Solutions,Michael Smith,2021-12-29,inactive,Mark Nowak,,2025-12-02,2024-05-05,trial,paid_ads,,,Enterprise,AC010
+2023-10-31,LATAM,60.0,Mid,Apex Dynamics,Sophie Brown,2023-09-23,suspended,Mark Nowak,499.0,2024-04-08,2024-01-29,,sales,usa,,,AC011
+2023-08-09,LATAM,,,Vertex Solutions,Anna Nowak,2020-03-08,active,David Nowak,999.0,2024-07-15,2024-10-17,lead,referral,PL,Healthcare,Enterprise,AC012
+2023-05-13,EU,20.0,,RedOak Digital,Mark Andersen,2019-10-20,Active,Mark Andersen,,2025-03-03,2024-05-15,lead,,UK,,Enterprise,AC013
+2020-05-27,LATAM,,Enterprise,BluePeak Solutions,Sophie Smith,2022-04-10,Active,Kate Taylor,499.0,2024-09-13,2024-07-23,,,usa,Education,Mid-Market,AC014
+2020-09-02,NA,80.0,,Ironclad Tech,David Andersen,2023-10-30,active,,,2025-04-20,2024-02-26,customer,paid_ads,US,Finance,Mid-Market,AC015
+2023-07-02,LATAM,60.0,,CloudNest,,2021-02-27,active,Kate Andersen,,2025-03-05,2024-07-14,lead,partner,,,,AC016
+2020-03-31,EU,60.0,SMB,BluePeak Solutions,,2022-10-28,active,Laura Brown,99.0,,2024-10-01,lead,sales,usa,Healthcare,Enterprise,AC017
+2023-01-15,APAC,40.0,SMB,BrightRiver,Laura Andersen,2019-11-20,Active,Mark Müller,999.0,2025-12-06,2024-08-20,customer,,PL,Healthcare,,AC018
+,,80.0,Enterprise,RedOak Digital,Laura Brown,2021-11-05,inactive,Laura Andersen,999.0,2024-08-08,2024-02-24,trial,partner,,,Mid-Market,AC019
+2023-10-08,NA,80.0,Mid,,Michael Brown,2023-04-11,suspended,Laura Andersen,99.0,,2024-03-23,customer,organic,DE,,,AC020
+2023-01-06,EU,40.0,SMB,Silverline Group,Laura Kowalski,2021-09-27,suspended,,,2024-03-25,2024-01-10,trial,sales,,Education,SMB,AC021
+2023-01-24,LATAM,40.0,Enterprise,NovaWorks,David Andersen,2020-05-08,active,Sophie Smith,999.0,,2024-10-17,,paid_ads,DE,,Startup,AC022
+2020-12-20,,100.0,SMB,Lighthouse Data,Laura Brown,2019-09-20,inactive,,199.0,,2024-12-03,lead,paid_ads,,Retail,Enterprise,AC023
+2021-10-13,LATAM,,,Lighthouse Data,Anna Kowalski,2022-12-31,inactive,,99.0,,2024-06-08,lead,organic,DE,Healthcare,Mid-Market,AC024
+2022-01-14,EU,100.0,,,Mark Kowalski,2019-09-05,Active,Michael Brown,499.0,,2024-05-06,trial,referral,,Healthcare,Mid-Market,AC025
+2022-08-21,,,Mid,Apex Dynamics,Laura Andersen,2019-01-15,inactive,,499.0,2025-05-04,2024-02-06,lead,referral,,Education,Mid-Market,AC026
+2020-06-27,LATAM,100.0,SMB,Everstone Systems,Sophie Brown,2021-11-18,active,,,2024-07-26,2024-05-01,lead,paid_ads,PL,Tech,Startup,AC027
+,APAC,40.0,Mid,,Anna Taylor,2020-05-12,Active,,199.0,2025-01-20,2024-08-30,trial,organic,usa,Education,SMB,AC028
+2023-06-27,NA,60.0,,,,2021-04-21,Active,Laura Taylor,499.0,2025-09-16,2024-08-27,customer,referral,PL,Tech,Startup,AC029
+2023-08-31,APAC,40.0,SMB,RedOak Digital,David Taylor,2023-01-31,Active,Kate Brown,199.0,,2024-06-22,customer,partner,US,,Startup,AC030
+2020-02-19,APAC,20.0,Mid,Skyward Systems,Kate Nowak,2019-10-15,Active,Kate Kowalski,999.0,,2024-08-04,,organic,,Finance,Mid-Market,AC031
+2021-02-28,,20.0,SMB,CloudNest,,2019-04-14,active,,99.0,2024-10-16,2024-11-29,trial,paid_ads,UK,,,AC032
+2023-01-29,LATAM,,Mid,Apex Dynamics,Mark Kowalski,2021-09-21,Active,Anna Smith,199.0,,2024-09-03,customer,partner,DE,Tech,Enterprise,AC033
+2021-07-23,APAC,80.0,Mid,Skyward Systems,Sophie Müller,2021-03-10,active,Laura Smith,199.0,2025-09-06,2024-05-15,customer,organic,UK,Tech,,AC034
+,NA,100.0,,,Sophie Smith,2019-11-14,Active,Kate Nowak,199.0,2024-11-27,2024-04-07,,referral,usa,Healthcare,Startup,AC035
+2021-08-20,,80.0,SMB,Lighthouse Data,Michael Andersen,2019-04-28,suspended,,,2025-04-13,2024-01-26,,organic,usa,Education,Enterprise,AC036
+2021-06-07,EU,40.0,Mid,CloudNest,,2023-10-10,active,Sophie Taylor,499.0,,2024-04-05,churned,referral,US,,Enterprise,AC037
+2021-11-01,,40.0,Mid,Nordic Labs,,2023-12-29,active,Laura Smith,199.0,2024-05-16,2024-10-18,lead,sales,UK,,Enterprise,AC038
+,EU,20.0,SMB,Greenfield Analytics,Laura Kowalski,2020-06-18,suspended,Sophie Taylor,99.0,,2024-04-14,lead,,UK,Education,Mid-Market,AC039
+2021-08-31,APAC,20.0,,NovaWorks,Laura Brown,2021-07-25,suspended,Sophie Nowak,99.0,2025-02-18,2024-06-10,,,DE,Healthcare,SMB,AC040
+2020-10-17,,80.0,,Apex Dynamics,Michael Kowalski,2019-05-31,active,,499.0,2025-02-11,2024-10-02,trial,organic,,Tech,,AC041
+2020-03-03,,40.0,SMB,Everstone Systems,John Brown,2020-08-06,suspended,Mark Müller,199.0,,2024-03-21,,partner,DE,Healthcare,,AC042
+2020-11-20,,80.0,SMB,RedOak Digital,,2022-09-20,suspended,,,,2024-02-23,trial,sales,usa,Healthcare,Startup,AC043
+2022-03-22,EU,40.0,SMB,BluePeak Solutions,John Smith,2020-07-11,inactive,John Müller,999.0,,2024-05-24,trial,sales,usa,Tech,Enterprise,AC044
+,LATAM,,Enterprise,PolarSoft,Kate Taylor,2020-05-29,Active,Sophie Nowak,199.0,,2024-01-27,lead,paid_ads,,Finance,SMB,AC045
+2023-03-05,LATAM,,SMB,Nordic Labs,Laura Taylor,2023-04-29,suspended,Mark Brown,499.0,,2024-03-07,customer,partner,US,Healthcare,,AC046
+2023-03-19,,100.0,,NovaWorks,Michael Müller,2022-02-22,Active,Mark Kowalski,,2024-10-21,2024-01-05,,sales,,,Startup,AC047
+2023-07-05,NA,40.0,Mid,Vertex Solutions,John Brown,2023-09-06,active,,,2024-05-24,2024-07-08,,,,,Startup,AC048
+,LATAM,,SMB,NovaWorks,Kate Taylor,2023-06-19,suspended,Anna Müller,99.0,2025-09-23,2024-01-21,lead,paid_ads,PL,Finance,Mid-Market,AC049
+,,80.0,SMB,Apex Dynamics,Kate Müller,2022-06-25,Active,Sophie Kowalski,199.0,,2024-03-20,,organic,PL,Finance,Enterprise,AC050
+2021-09-10,LATAM,20.0,Mid,,Michael Nowak,2020-01-03,active,,999.0,,2024-06-19,lead,referral,UK,Finance,Enterprise,AC051
+2023-03-31,LATAM,,Mid,BrightRiver,David Andersen,2023-06-01,inactive,Kate Taylor,999.0,2025-10-17,2024-12-25,trial,organic,PL,,SMB,AC052
+2023-11-04,LATAM,80.0,,Greenfield Analytics,Sophie Andersen,2023-07-31,inactive,,499.0,2025-04-20,2024-08-23,lead,referral,DE,,,AC053
+2023-10-01,LATAM,80.0,Mid,BluePeak Solutions,Kate Brown,2022-09-13,active,Mark Andersen,199.0,,2024-04-08,lead,organic,DE,,Mid-Market,AC054
+2021-06-21,,100.0,Enterprise,Lighthouse Data,John Smith,2022-10-23,Active,,499.0,2025-09-03,2024-10-01,churned,organic,PL,Tech,Mid-Market,AC055
+2020-08-27,APAC,40.0,Mid,Lighthouse Data,David Smith,2019-03-20,suspended,Mark Kowalski,999.0,,2024-02-25,,,,Healthcare,SMB,AC056
+2021-07-30,EU,100.0,Enterprise,Skyward Systems,,2021-02-27,active,Mark Taylor,999.0,2025-06-26,2024-10-22,trial,referral,UK,,Mid-Market,AC057
+2020-03-25,EU,40.0,SMB,PolarSoft,David Nowak,2021-01-15,inactive,Mark Smith,99.0,2024-10-10,2024-08-08,trial,sales,,Retail,SMB,AC058
+2022-09-10,LATAM,60.0,Enterprise,Apex Dynamics,Anna Smith,2023-01-14,active,Mark Müller,199.0,,2024-06-02,churned,organic,usa,Healthcare,SMB,AC059
+2023-12-24,APAC,60.0,,Skyward Systems,Sophie Müller,2022-02-09,suspended,Sophie Andersen,99.0,,2024-03-06,,paid_ads,usa,Healthcare,Enterprise,AC060
+2020-06-12,NA,100.0,Mid,PolarSoft,Mark Smith,2021-04-11,suspended,Kate Andersen,999.0,2025-07-01,2024-10-07,lead,,,Retail,,AC061
+,NA,100.0,,RedOak Digital,Michael Brown,2021-08-10,suspended,Sophie Müller,999.0,,2024-08-14,lead,,,Finance,Mid-Market,AC062
+2021-11-09,NA,20.0,Mid,Greenfield Analytics,Sophie Kowalski,2020-08-04,active,David Smith,199.0,2024-01-25,2024-09-20,lead,referral,usa,Retail,SMB,AC063
+2020-07-19,NA,20.0,Mid,Silverline Group,,2020-04-05,suspended,,999.0,2025-10-31,2024-04-11,lead,partner,usa,Tech,Enterprise,AC064
+2021-01-21,EU,100.0,SMB,BrightRiver,John Kowalski,2023-12-20,Active,Sophie Müller,199.0,2025-05-10,2024-11-18,churned,sales,UK,Retail,Mid-Market,AC065
+2022-03-23,,40.0,,CloudNest,Michael Nowak,2019-10-30,inactive,Mark Brown,199.0,,2024-12-01,churned,referral,UK,Retail,,AC066
+2020-02-24,EU,80.0,SMB,NovaWorks,,2019-12-27,inactive,Michael Brown,,2024-10-04,2024-12-22,customer,referral,UK,,SMB,AC067
+2020-05-23,LATAM,20.0,SMB,Lighthouse Data,Mark Brown,2023-06-30,inactive,Mark Andersen,199.0,,2024-08-25,lead,paid_ads,UK,Finance,Startup,AC068
+2022-11-18,LATAM,40.0,Enterprise,RedOak Digital,Anna Müller,2023-08-29,Active,John Taylor,999.0,2024-12-08,2024-10-07,trial,organic,UK,Education,Mid-Market,AC069
+2022-11-30,EU,60.0,,Greenfield Analytics,Laura Andersen,2023-03-20,suspended,Kate Kowalski,,2025-09-08,2024-05-06,trial,organic,UK,,,AC070
+2020-01-05,NA,80.0,,Greenfield Analytics,David Müller,2020-07-16,inactive,,99.0,2024-05-29,2024-08-13,churned,,usa,,,AC071
+,APAC,40.0,Enterprise,Vertex Solutions,Anna Taylor,2019-10-11,active,David Nowak,499.0,2024-07-20,2024-03-18,,referral,PL,Healthcare,,AC072
+2020-05-04,APAC,40.0,Mid,Lighthouse Data,Mark Taylor,2021-04-14,Active,Michael Smith,99.0,,2024-06-18,customer,paid_ads,US,,Enterprise,AC073
+,EU,100.0,,CloudNest,Michael Nowak,2023-10-21,active,Kate Brown,199.0,2025-12-04,2024-10-21,trial,,UK,Finance,Mid-Market,AC074
+2020-08-27,NA,80.0,Enterprise,RedOak Digital,Sophie Müller,2022-01-07,Active,Laura Andersen,499.0,,2024-10-06,,partner,UK,Healthcare,Mid-Market,AC075
+2021-07-25,LATAM,40.0,Mid,Nordic Labs,Mark Müller,2021-09-21,Active,David Nowak,,,2024-01-15,customer,sales,PL,Retail,Startup,AC076
+2020-07-20,NA,80.0,,Lighthouse Data,Michael Taylor,2023-09-18,inactive,Mark Kowalski,999.0,2024-06-25,2024-08-27,trial,paid_ads,usa,,,AC077
+,LATAM,100.0,SMB,Everstone Systems,David Nowak,2019-06-21,active,John Nowak,,2025-06-17,2024-11-25,churned,,UK,Education,Startup,AC078
+2020-11-22,,80.0,SMB,Lighthouse Data,Anna Nowak,2020-11-01,Active,John Müller,,,2024-04-18,customer,referral,PL,Finance,Enterprise,AC079
+2021-09-14,APAC,80.0,Enterprise,NovaWorks,John Smith,2023-09-06,suspended,Michael Taylor,99.0,2024-07-10,2024-02-11,lead,referral,UK,Retail,Enterprise,AC080
+2020-03-29,APAC,40.0,Enterprise,NovaWorks,Sophie Brown,2023-05-19,active,Anna Kowalski,499.0,2025-05-23,2024-11-29,customer,organic,DE,Tech,SMB,AC081
+,APAC,100.0,Mid,NovaWorks,Michael Kowalski,2020-05-03,inactive,Kate Smith,199.0,,2024-03-05,lead,organic,US,Finance,,AC082
+2023-05-12,,60.0,,Apex Dynamics,Laura Taylor,2023-04-20,suspended,Mark Müller,,,2024-07-07,churned,partner,usa,Finance,Enterprise,AC083
+,,60.0,SMB,Ironclad Tech,Laura Brown,2019-08-10,suspended,Laura Kowalski,999.0,2024-04-10,2024-10-23,customer,paid_ads,DE,,Startup,AC084
+,LATAM,80.0,,,Mark Taylor,2019-06-05,inactive,,499.0,2025-05-04,2024-10-30,lead,partner,UK,,SMB,AC085
+,NA,,Enterprise,Greenfield Analytics,Laura Andersen,2023-06-19,active,Laura Brown,999.0,,2024-10-16,,referral,usa,Tech,SMB,AC086
+2020-04-10,EU,,Enterprise,Apex Dynamics,David Nowak,2019-01-26,suspended,Sophie Nowak,99.0,2025-08-31,2024-08-03,customer,partner,US,Retail,,AC087
+2021-12-15,LATAM,20.0,,Greenfield Analytics,Anna Smith,2021-06-10,inactive,,199.0,2024-08-04,2024-03-31,,partner,usa,Healthcare,SMB,AC088
+,EU,,,Silverline Group,Mark Andersen,2023-08-19,Active,John Müller,,,2024-10-30,churned,,UK,Healthcare,SMB,AC089
+2020-03-08,LATAM,100.0,SMB,Nordic Labs,Mark Nowak,2020-05-14,Active,,499.0,2024-07-05,2024-08-25,customer,paid_ads,PL,,Startup,AC090
+2021-08-15,LATAM,20.0,SMB,RedOak Digital,Michael Andersen,2020-01-08,suspended,John Nowak,199.0,2025-04-09,2024-09-06,trial,referral,UK,Healthcare,Mid-Market,AC091
+2022-11-21,NA,100.0,Enterprise,Skyward Systems,Anna Taylor,2022-02-12,suspended,Sophie Kowalski,99.0,,2024-01-06,customer,organic,,Healthcare,SMB,AC092
+2022-02-07,LATAM,40.0,,NovaWorks,Mark Müller,2022-11-15,inactive,,199.0,2024-09-01,2024-08-31,,paid_ads,UK,Finance,Mid-Market,AC093
+2020-09-30,APAC,100.0,SMB,Apex Dynamics,Kate Taylor,2020-03-29,suspended,John Smith,199.0,,2024-07-26,customer,partner,US,,Startup,AC094
+2022-12-31,EU,60.0,Enterprise,,Anna Müller,2021-05-21,suspended,David Taylor,99.0,2024-05-10,2024-10-08,churned,sales,UK,Education,Enterprise,AC095
+2023-05-28,,100.0,Enterprise,Ironclad Tech,John Nowak,2019-09-05,inactive,Anna Smith,,,2024-04-08,,organic,PL,Healthcare,SMB,AC096
+,APAC,,Mid,BrightRiver,Anna Andersen,2023-02-21,inactive,Laura Smith,199.0,2025-03-18,2024-09-04,trial,paid_ads,DE,,SMB,AC097
+2021-12-10,,60.0,Enterprise,PolarSoft,Anna Smith,2020-08-29,inactive,Sophie Smith,,,2024-04-26,customer,partner,US,,SMB,AC098
+2022-10-07,EU,20.0,Mid,Lighthouse Data,Sophie Taylor,2019-04-22,active,John Müller,499.0,2024-03-08,2024-10-10,lead,paid_ads,PL,,Startup,AC099
+,NA,40.0,,PolarSoft,Laura Taylor,2022-03-21,active,,999.0,2024-03-24,2024-05-25,trial,sales,US,,,AC100
+,LATAM,20.0,SMB,Nordic Labs,,2019-08-22,Active,Laura Brown,199.0,,2024-02-03,churned,organic,PL,Finance,SMB,AC101
+2023-09-25,NA,100.0,SMB,BluePeak Solutions,John Taylor,2023-07-20,inactive,Mark Nowak,499.0,2025-01-02,2024-10-15,,sales,DE,,Startup,AC102
+2020-07-06,EU,100.0,SMB,BluePeak Solutions,,2022-05-26,Active,Michael Taylor,499.0,,2024-11-01,customer,partner,,Finance,Mid-Market,AC103
+2020-07-07,APAC,20.0,,BluePeak Solutions,,2020-08-31,Active,,199.0,2025-09-07,2024-10-28,customer,paid_ads,UK,Education,Enterprise,AC104
+2023-10-28,NA,100.0,SMB,Skyward Systems,David Brown,2023-04-12,active,Laura Smith,99.0,,2024-04-16,trial,,,Education,Enterprise,AC105
+2023-12-22,NA,100.0,Mid,PolarSoft,,2022-02-04,inactive,Sophie Smith,,2024-10-16,2024-02-08,trial,sales,DE,Tech,SMB,AC106
+2022-12-09,EU,60.0,,BrightRiver,Mark Smith,2020-04-19,active,,,,2024-05-27,,,PL,,SMB,AC107
+2020-02-26,APAC,,SMB,Nordic Labs,David Kowalski,2020-06-25,inactive,John Andersen,499.0,,2024-11-16,,referral,usa,Retail,Mid-Market,AC108
+2021-02-13,EU,,,Vertex Solutions,Mark Smith,2022-08-19,inactive,,999.0,,2024-03-17,churned,paid_ads,US,Finance,,AC109
+2020-03-23,NA,,SMB,Everstone Systems,David Smith,2022-05-03,suspended,Laura Müller,,2024-01-23,2024-10-18,churned,partner,DE,Tech,Enterprise,AC110
+2020-06-16,NA,,Enterprise,,Michael Andersen,2020-07-11,Active,Anna Smith,499.0,2025-11-10,2024-09-13,churned,,usa,Retail,Enterprise,AC111
+2021-09-21,LATAM,,SMB,Nordic Labs,,2022-05-21,suspended,John Nowak,999.0,,2024-05-08,churned,paid_ads,UK,Education,Enterprise,AC112
+,EU,40.0,SMB,NovaWorks,Sophie Smith,2022-03-26,suspended,Anna Kowalski,199.0,,2024-01-21,lead,,usa,,SMB,AC113
+2022-12-22,APAC,100.0,,BluePeak Solutions,John Kowalski,2022-04-13,inactive,John Brown,,,2024-08-11,churned,partner,PL,Education,,AC114
+2021-02-23,NA,80.0,,PolarSoft,Laura Andersen,2020-11-13,Active,,999.0,2024-08-16,2024-06-13,lead,paid_ads,PL,Tech,SMB,AC115
+,EU,20.0,,CloudNest,Michael Smith,2020-08-13,Active,Sophie Nowak,199.0,,2024-12-05,lead,organic,usa,Healthcare,Enterprise,AC116
+2023-05-07,NA,20.0,SMB,BrightRiver,,2020-10-06,active,,499.0,,2024-05-09,lead,organic,UK,Education,SMB,AC117
+2021-05-08,LATAM,100.0,SMB,BluePeak Solutions,John Andersen,2021-04-26,Active,Mark Müller,99.0,,2024-01-28,lead,referral,usa,Retail,,AC118
+2023-04-03,APAC,20.0,,BluePeak Solutions,Michael Taylor,2023-04-06,Active,Michael Nowak,499.0,2024-07-01,2024-01-27,lead,sales,usa,,Startup,AC119
+,,100.0,,BluePeak Solutions,John Kowalski,2019-09-06,Active,Sophie Taylor,199.0,2024-01-29,2024-01-15,trial,paid_ads,usa,Healthcare,Mid-Market,AC120
+2021-06-14,EU,100.0,Mid,RedOak Digital,Sophie Müller,2022-02-05,active,,,,2024-07-27,lead,partner,PL,Finance,SMB,AC121
+2020-05-29,,20.0,,CloudNest,David Kowalski,2021-10-17,inactive,Sophie Nowak,999.0,2025-01-12,2025-01-01,customer,paid_ads,US,Tech,Mid-Market,AC122
+2020-03-01,EU,40.0,,BrightRiver,John Taylor,2021-07-24,inactive,John Taylor,999.0,,2024-10-09,trial,,UK,Retail,Mid-Market,AC123
+2023-11-13,APAC,100.0,Mid,RedOak Digital,Michael Smith,2023-05-02,suspended,Mark Kowalski,999.0,,2024-07-31,churned,organic,US,Education,Enterprise,AC124
+2022-12-18,APAC,,SMB,Skyward Systems,Kate Taylor,2023-09-12,suspended,Michael Andersen,,2025-01-24,2024-10-27,lead,organic,PL,Healthcare,Mid-Market,AC125
+2023-03-11,EU,,Mid,CloudNest,Sophie Taylor,2020-12-07,Active,Michael Andersen,499.0,,2024-06-19,churned,sales,UK,,,AC126
+2020-03-01,,,Enterprise,Lighthouse Data,David Taylor,2022-03-17,inactive,Michael Taylor,499.0,,2024-07-15,customer,referral,DE,Retail,SMB,AC127
+2021-10-04,APAC,60.0,Enterprise,Greenfield Analytics,Michael Müller,2022-12-15,Active,Michael Müller,999.0,,2024-07-14,trial,partner,usa,Tech,Startup,AC128
+2020-09-26,EU,100.0,Mid,Greenfield Analytics,,2019-09-16,active,,999.0,2024-08-16,2024-09-14,,partner,UK,,Mid-Market,AC129
+2021-04-01,NA,80.0,,Lighthouse Data,Laura Smith,2019-02-01,Active,Laura Brown,199.0,2025-10-23,2024-03-14,trial,paid_ads,US,Tech,Enterprise,AC130
+2020-05-29,LATAM,100.0,SMB,Nordic Labs,John Kowalski,2020-11-24,suspended,David Taylor,499.0,2024-10-27,2024-11-15,customer,sales,UK,Finance,Mid-Market,AC131
+2023-04-19,APAC,20.0,Enterprise,CloudNest,David Smith,2020-10-10,Active,David Smith,499.0,2025-08-21,2024-11-16,churned,sales,usa,,SMB,AC132
+2022-02-18,NA,,SMB,,David Nowak,2020-04-25,active,John Taylor,999.0,,2024-11-19,churned,referral,,,Startup,AC133
+2022-02-08,LATAM,60.0,SMB,Silverline Group,Kate Taylor,2023-04-07,active,John Müller,99.0,2024-06-10,2024-11-20,lead,referral,UK,Finance,Enterprise,AC134
+2022-10-03,,60.0,Enterprise,Vertex Solutions,Mark Andersen,2020-10-26,active,,,,2024-01-29,,organic,US,Finance,Startup,AC135
+2020-04-07,APAC,60.0,Mid,Lighthouse Data,Michael Smith,2022-03-05,Active,Michael Nowak,199.0,2025-05-13,2024-12-15,,sales,,Finance,SMB,AC136
+2020-10-03,EU,40.0,,Vertex Solutions,Anna Müller,2021-10-16,inactive,,199.0,2024-08-27,2024-10-25,customer,sales,,Tech,Startup,AC137
+2020-12-09,EU,100.0,,Nordic Labs,Sophie Nowak,2023-07-06,active,Kate Taylor,199.0,2025-05-11,2024-08-26,lead,referral,PL,Healthcare,,AC138
+2022-12-24,EU,,SMB,,,2022-04-18,suspended,Michael Kowalski,99.0,2024-10-17,2024-06-02,lead,,UK,Finance,,AC139
+2021-02-21,NA,40.0,,BluePeak Solutions,Michael Taylor,2021-02-26,inactive,Michael Nowak,99.0,,2024-09-04,lead,,PL,Healthcare,Mid-Market,AC140
+2020-04-10,LATAM,20.0,Enterprise,Vertex Solutions,John Müller,2019-02-14,suspended,Sophie Taylor,499.0,2025-05-25,2024-12-03,,partner,usa,Healthcare,Startup,AC141
+2021-08-27,NA,40.0,SMB,Skyward Systems,Kate Taylor,2023-09-02,Active,Kate Andersen,499.0,2025-05-03,2024-05-26,churned,referral,,,Mid-Market,AC142
+2022-08-14,LATAM,,Enterprise,BluePeak Solutions,Sophie Smith,2022-06-25,inactive,David Brown,99.0,2025-07-03,2024-05-08,trial,,DE,,Enterprise,AC143
+2022-10-04,LATAM,,Mid,Greenfield Analytics,Laura Nowak,2022-07-09,active,Michael Brown,99.0,,2024-11-26,,,usa,,,AC144
+2022-04-19,EU,20.0,Enterprise,Ironclad Tech,Kate Müller,2019-07-04,inactive,Laura Müller,199.0,2024-06-06,2024-05-31,trial,,usa,Tech,Mid-Market,AC145
+2020-03-14,LATAM,80.0,Mid,Greenfield Analytics,Mark Nowak,2021-12-23,suspended,David Müller,99.0,2025-08-19,2024-09-13,trial,partner,,Finance,Startup,AC146
+,NA,100.0,,,Kate Müller,2023-07-06,suspended,David Brown,499.0,2025-01-03,2024-02-28,trial,,PL,Healthcare,,AC147
+2021-11-16,NA,60.0,Mid,Lighthouse Data,Michael Brown,2023-09-29,Active,David Brown,999.0,,2024-10-12,,paid_ads,usa,,Startup,AC148
+2023-06-18,NA,80.0,Enterprise,BrightRiver,Michael Nowak,2021-07-20,active,Sophie Nowak,199.0,,2024-07-07,churned,sales,,Tech,Startup,AC149
+2022-04-19,EU,60.0,,CloudNest,Laura Kowalski,2019-08-10,suspended,Anna Brown,499.0,,2024-12-11,customer,sales,usa,Education,SMB,AC150

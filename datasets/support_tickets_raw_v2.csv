@@ -1,0 +1,1101 @@
+tckt_id,acct_ref,sub_ref,tckt_cat,prio_cd,tckt_stat,opened_ts,first_resp_ts,resolved_ts,assigned_agent,contact_channel,sla_hrs,csat_score,internal_note
+TCK00001,AC164,,technical,high,resolved ,2024-01-18 00:00:00,2024-01-20 06:00:00,2024-01-21 18:00:00,John Miller,chat,,5.0,billing escalation
+TCK00002,AC029,SUB00921,account,medium,reopened,2024-01-09 00:00:00,2024-01-09 03:00:00,2024-01-16 04:00:00,,chat,48.0,3.0,customer angry
+TCK00003,AC007,SUB00465,technical,urgent,resolved ,2024-03-13 00:00:00,2024-03-14 06:00:00,2024-03-15 11:00:00,John Miller,EMAIL,4.0,3.0,
+TCK00004,AC071,SUB00482,,medium,closed,2022-05-16 00:00:00,2022-05-19 00:00:00,2022-05-24 20:00:00,John Miller,email,,1.0,customer angry
+TCK00005,AC063,SUB00631,other,high,resolved ,2022-09-26 00:00:00,2022-09-26 07:00:00,2022-09-30 13:00:00,,web,48.0,,
+TCK00006,AC058,SUB01196,billing,high,open,2022-03-26 00:00:00,2022-03-28 20:00:00,2022-03-31 20:00:00,,chat,8.0,5.0,
+TCK00007,AC036,SUB01120,,medium,open,2023-02-05 00:00:00,2023-02-05 08:00:00,2023-02-10 00:00:00,Marek Nowak,email,48.0,1.0,
+TCK00008,AC027,SUB01977,,medium,open,2023-09-19 00:00:00,2023-09-20 15:00:00,2023-09-27 16:00:00,Anna Kowalska,,8.0,,customer angry
+TCK00009,AC174,SUB00999,,high,pending,2022-06-17 00:00:00,2022-06-18 20:00:00,2022-06-27 05:00:00,Tom Wilson,chat,24.0,,customer angry
+TCK00010,AC140,SUB00593,other,low,resolved,2024-02-29 00:00:00,2024-03-01 18:00:00,2024-03-04 16:00:00,John Miller,web,48.0,5.0,
+TCK00011,AC023,SUB02456,technical,high,open,2022-02-26 00:00:00,2022-03-01 00:00:00,,John Miller,chat,,1.0,customer angry
+TCK00012,AC152,SUB00560,account,urgent,pending,2024-05-29 00:00:00,2024-05-30 07:00:00,,Sarah Brown,email,,,
+TCK00013,AC109,SUB01132,account,low,reopened,2022-08-18 00:00:00,2022-08-20 05:00:00,2022-08-23 15:00:00,Tom Wilson,email,,,customer angry
+TCK00014,AC009,SUB01700,billing,urgent,resolved,2022-07-03 00:00:00,2022-07-05 18:00:00,2022-07-10 01:00:00,Emily Davis,phone,4.0,5.0,
+TCK00015,AC008,SUB02080,,,pending,2022-01-09 00:00:00,2022-01-10 13:00:00,2022-01-13 19:00:00,,phone,,4.0,follow up needed
+TCK00016,AC024,SUB00011,feature_request,low,pending,2024-01-21 00:00:00,2024-01-22 07:00:00,,,phone,4.0,3.0,customer angry
+TCK00017,AC056,SUB01223,other,medium,closed,2024-02-17 00:00:00,2024-02-18 15:00:00,,,email,8.0,,
+TCK00018,AC060,SUB02376,technical,,closed,2022-04-06 00:00:00,,,Tom Wilson,web,4.0,5.0,customer angry
+TCK00019,AC130,SUB02006,other,low,closed,2023-06-02 00:00:00,2023-06-04 02:00:00,,Sarah Brown,chat,24.0,3.0,
+TCK00020,AC155,SUB01830,technical,low,pending,2024-03-31 00:00:00,2024-04-01 17:00:00,2024-04-04 15:00:00,Sarah Brown,EMAIL,4.0,2.0,customer angry
+TCK00021,AC007,SUB01414,account,medium,closed,2022-06-18 00:00:00,2022-06-19 16:00:00,2022-06-25 10:00:00,Emily Davis,web,24.0,1.0,customer angry
+TCK00022,AC144,SUB02226,other,low,pending,2022-06-11 00:00:00,2022-06-12 14:00:00,2022-06-20 01:00:00,Tom Wilson,chat,4.0,,follow up needed
+TCK00023,AC051,SUB01319,technical,low,closed,2022-12-31 00:00:00,2022-12-31 06:00:00,2023-01-03 01:00:00,,EMAIL,,2.0,customer angry
+TCK00024,AC167,SUB00979,billing,medium,pending,2023-04-19 00:00:00,2023-04-19 17:00:00,,Marek Nowak,web,24.0,,customer angry
+TCK00025,AC180,SUB00957,billing,medium,resolved ,2023-08-20 00:00:00,2023-08-20 09:00:00,,,chat,4.0,3.0,customer angry
+TCK00026,AC140,SUB01683,other,urgent,resolved ,2022-02-13 00:00:00,2022-02-13 06:00:00,,A. Kowalska,web,4.0,4.0,
+TCK00027,AC108,,technical,low,reopened,2022-06-26 00:00:00,2022-06-26 23:00:00,2022-07-01 18:00:00,Marek Nowak,,24.0,4.0,
+TCK00028,AC057,SUB01562,feature_request,medium,resolved ,2023-07-18 00:00:00,2023-07-18 11:00:00,2023-07-19 23:00:00,,chat,,1.0,
+TCK00029,AC115,SUB00624,account,,reopened,2024-03-11 00:00:00,2024-03-13 13:00:00,2024-03-18 18:00:00,Tom Wilson,web,24.0,2.0,customer angry
+TCK00030,AC151,SUB00152,account,low,closed,2022-11-23 00:00:00,2022-11-23 03:00:00,2022-12-01 11:00:00,,phone,,2.0,follow up needed
+TCK00031,AC072,,,low,pending,2022-04-13 00:00:00,2022-04-14 06:00:00,2022-04-22 23:00:00,A. Kowalska,phone,8.0,2.0,follow up needed
+TCK00032,AC002,SUB01360,,high,reopened,2023-08-30 00:00:00,2023-08-31 21:00:00,2023-09-01 05:00:00,Sarah Brown,EMAIL,8.0,4.0,billing escalation
+TCK00033,AC041,SUB01804,technical,,pending,2022-11-13 00:00:00,2022-11-13 04:00:00,,Anna Kowalska,EMAIL,48.0,1.0,
+TCK00034,AC179,,account,low,open,2023-09-21 00:00:00,2023-09-21 16:00:00,2023-09-23 14:00:00,Sarah Brown,EMAIL,8.0,1.0,billing escalation
+TCK00035,AC109,SUB00063,feature_request,,open,2024-05-31 00:00:00,2024-05-31 09:00:00,2024-06-07 11:00:00,Tom Wilson,phone,24.0,2.0,follow up needed
+TCK00036,AC088,SUB01680,,,resolved ,2024-01-20 00:00:00,2024-01-22 14:00:00,2024-01-24 11:00:00,Tom Wilson,chat,,2.0,
+TCK00037,AC072,SUB00633,,low,resolved ,2022-11-11 00:00:00,2022-11-12 13:00:00,,A. Kowalska,EMAIL,4.0,2.0,billing escalation
+TCK00038,AC040,,feature_request,medium,resolved,2022-11-22 00:00:00,2022-11-23 04:00:00,2022-11-24 07:00:00,John Miller,chat,24.0,3.0,follow up needed
+TCK00039,AC056,SUB01086,,high,closed,2023-10-14 00:00:00,2023-10-14 11:00:00,2023-10-21 15:00:00,Anna Kowalska,phone,8.0,2.0,customer angry
+TCK00040,AC087,SUB01629,feature_request,urgent,resolved ,2022-12-25 00:00:00,2022-12-25 13:00:00,2022-12-26 02:00:00,A. Kowalska,chat,48.0,4.0,
+TCK00041,AC027,SUB01346,other,medium,pending,2022-12-26 00:00:00,2022-12-26 12:00:00,2023-01-03 22:00:00,,email,4.0,3.0,customer angry
+TCK00042,AC024,SUB02186,technical,urgent,pending,2022-11-23 00:00:00,2022-11-23 13:00:00,,John Miller,EMAIL,4.0,3.0,billing escalation
+TCK00043,AC098,SUB01298,technical,,closed,2023-09-21 00:00:00,2023-09-21 03:00:00,2023-09-28 03:00:00,Sarah Brown,email,4.0,3.0,follow up needed
+TCK00044,AC025,SUB01999,other,high,resolved ,2022-07-14 00:00:00,2022-07-16 22:00:00,2022-07-24 17:00:00,Emily Davis,phone,8.0,1.0,customer angry
+TCK00045,AC092,SUB00148,account,low,closed,2023-02-07 00:00:00,2023-02-09 14:00:00,,John Miller,phone,,4.0,follow up needed
+TCK00046,AC089,SUB00962,technical,high,open,2022-04-10 00:00:00,,,,email,24.0,4.0,
+TCK00047,AC155,SUB01178,other,urgent,pending,2023-05-16 00:00:00,2023-05-17 09:00:00,,Tom Wilson,web,24.0,2.0,
+TCK00048,AC068,SUB00371,account,,open,2022-02-15 00:00:00,2022-02-17 11:00:00,2022-02-26 10:00:00,Sarah Brown,,4.0,1.0,
+TCK00049,AC012,SUB00404,feature_request,,closed,2024-04-07 00:00:00,2024-04-08 05:00:00,2024-04-17 05:00:00,,,48.0,5.0,follow up needed
+TCK00050,AC118,SUB00412,billing,,reopened,2023-05-03 00:00:00,2023-05-05 02:00:00,2023-05-12 17:00:00,,EMAIL,,2.0,customer angry
+TCK00051,AC138,SUB01227,technical,medium,open,2024-02-15 00:00:00,2024-02-15 21:00:00,2024-02-24 12:00:00,A. Kowalska,email,48.0,2.0,follow up needed
+TCK00052,AC032,SUB00189,billing,low,closed,2024-05-04 00:00:00,2024-05-05 16:00:00,2024-05-15 11:00:00,,web,,3.0,
+TCK00053,AC097,SUB00230,other,,closed,2023-06-17 00:00:00,2023-06-17 01:00:00,2023-06-23 17:00:00,John Miller,web,8.0,2.0,billing escalation
+TCK00054,AC021,SUB01536,billing,high,reopened,2023-08-26 00:00:00,2023-08-26 12:00:00,2023-09-01 13:00:00,Tom Wilson,web,24.0,4.0,
+TCK00055,AC142,SUB01001,feature_request,medium,reopened,2023-08-09 00:00:00,2023-08-09 04:00:00,,A. Kowalska,email,48.0,3.0,follow up needed
+TCK00056,AC076,SUB02319,account,high,resolved,2022-02-20 00:00:00,2022-02-21 10:00:00,2022-02-21 16:00:00,Emily Davis,web,4.0,2.0,follow up needed
+TCK00057,AC161,SUB00738,account,urgent,reopened,2022-11-04 00:00:00,2022-11-06 08:00:00,2022-11-09 19:00:00,John Miller,chat,48.0,2.0,
+TCK00058,AC159,,billing,,pending,2024-01-29 00:00:00,2024-01-31 18:00:00,2024-02-09 13:00:00,John Miller,phone,,4.0,follow up needed
+TCK00059,AC093,,technical,medium,open,2024-03-10 00:00:00,2024-03-13 00:00:00,,Marek Nowak,email,48.0,1.0,
+TCK00060,AC148,SUB02539,feature_request,low,resolved ,2023-12-23 00:00:00,2023-12-24 23:00:00,2023-12-30 09:00:00,Anna Kowalska,chat,24.0,4.0,billing escalation
+TCK00061,AC050,SUB02039,account,medium,resolved,2023-04-02 00:00:00,2023-04-04 12:00:00,2023-04-08 06:00:00,John Miller,phone,4.0,4.0,customer angry
+TCK00062,AC018,SUB00587,technical,medium,resolved,2022-06-16 00:00:00,2022-06-17 03:00:00,2022-06-24 01:00:00,A. Kowalska,EMAIL,4.0,,customer angry
+TCK00063,AC012,SUB01041,technical,high,reopened,2023-05-01 00:00:00,2023-05-01 22:00:00,2023-05-02 01:00:00,Emily Davis,,24.0,4.0,
+TCK00064,AC170,SUB00039,,,reopened,2024-05-22 00:00:00,2024-05-23 08:00:00,2024-05-26 14:00:00,A. Kowalska,EMAIL,4.0,1.0,billing escalation
+TCK00065,AC059,SUB01906,other,high,resolved,2023-11-10 00:00:00,2023-11-11 23:00:00,2023-11-18 08:00:00,John Miller,web,4.0,3.0,
+TCK00066,AC075,SUB02239,,high,pending,2023-10-18 00:00:00,2023-10-19 11:00:00,2023-10-27 02:00:00,Sarah Brown,EMAIL,8.0,1.0,billing escalation
+TCK00067,AC021,,feature_request,high,resolved,2023-02-18 00:00:00,2023-02-18 17:00:00,2023-02-25 17:00:00,A. Kowalska,web,48.0,,customer angry
+TCK00068,AC060,SUB01416,technical,,resolved ,2023-08-21 00:00:00,2023-08-22 00:00:00,2023-08-29 15:00:00,,,24.0,5.0,
+TCK00069,AC026,SUB01226,billing,urgent,pending,2024-05-15 00:00:00,2024-05-17 23:00:00,,Emily Davis,,,2.0,
+TCK00070,AC098,SUB01738,account,medium,resolved ,2023-11-02 00:00:00,,,Emily Davis,web,24.0,3.0,
+TCK00071,AC072,SUB01872,,,reopened,2023-08-23 00:00:00,2023-08-23 15:00:00,2023-09-01 21:00:00,John Miller,web,8.0,5.0,customer angry
+TCK00072,AC117,SUB00816,technical,medium,pending,2024-06-07 00:00:00,2024-06-09 19:00:00,2024-06-10 09:00:00,Tom Wilson,web,,4.0,follow up needed
+TCK00073,AC163,SUB01980,account,medium,resolved,2022-11-20 00:00:00,2022-11-20 23:00:00,2022-11-26 04:00:00,Anna Kowalska,email,48.0,3.0,follow up needed
+TCK00074,AC094,,billing,medium,reopened,2024-02-19 00:00:00,2024-02-19 20:00:00,2024-02-28 00:00:00,A. Kowalska,,48.0,4.0,
+TCK00075,AC042,SUB01471,account,low,resolved,2023-05-04 00:00:00,2023-05-04 04:00:00,2023-05-12 00:00:00,,chat,4.0,,customer angry
+TCK00076,AC095,SUB01210,account,medium,open,2023-10-04 00:00:00,2023-10-05 04:00:00,2023-10-08 21:00:00,A. Kowalska,EMAIL,,3.0,follow up needed
+TCK00077,AC091,,,,reopened,2022-03-08 00:00:00,2022-03-09 14:00:00,2022-03-14 11:00:00,,phone,48.0,,follow up needed
+TCK00078,AC054,SUB01622,technical,urgent,open,2022-12-17 00:00:00,2022-12-19 14:00:00,2022-12-21 15:00:00,Marek Nowak,chat,8.0,2.0,customer angry
+TCK00079,AC172,SUB02319,billing,urgent,resolved ,2023-08-27 00:00:00,2023-08-27 15:00:00,2023-09-03 14:00:00,Emily Davis,EMAIL,,1.0,billing escalation
+TCK00080,AC069,SUB00201,billing,urgent,closed,2022-02-19 00:00:00,2022-02-19 02:00:00,,A. Kowalska,email,,3.0,
+TCK00081,AC180,SUB02035,billing,,resolved,2023-12-20 00:00:00,2023-12-20 01:00:00,2023-12-27 03:00:00,Sarah Brown,web,4.0,5.0,billing escalation
+TCK00082,AC175,SUB01173,technical,high,reopened,2022-05-01 00:00:00,2022-05-01 13:00:00,2022-05-08 01:00:00,Marek Nowak,phone,48.0,3.0,follow up needed
+TCK00083,AC166,SUB00943,account,medium,open,2022-02-10 00:00:00,2022-02-11 02:00:00,2022-02-16 06:00:00,Anna Kowalska,,4.0,1.0,billing escalation
+TCK00084,AC019,SUB01444,,low,resolved,2023-11-17 00:00:00,2023-11-17 11:00:00,2023-11-18 07:00:00,Marek Nowak,web,24.0,3.0,
+TCK00085,AC156,SUB00779,technical,low,resolved,2022-02-21 00:00:00,,,Tom Wilson,,24.0,4.0,customer angry
+TCK00086,AC163,SUB00561,technical,medium,resolved,2022-04-08 00:00:00,2022-04-08 05:00:00,,Tom Wilson,web,,3.0,customer angry
+TCK00087,AC044,SUB02571,feature_request,urgent,resolved,2023-01-17 00:00:00,2023-01-17 23:00:00,,A. Kowalska,,48.0,4.0,follow up needed
+TCK00088,AC137,SUB01266,technical,low,closed,2022-04-26 00:00:00,2022-04-26 07:00:00,2022-05-05 08:00:00,,EMAIL,48.0,2.0,billing escalation
+TCK00089,AC063,SUB00137,,medium,closed,2023-01-24 00:00:00,2023-01-24 03:00:00,2023-02-02 13:00:00,,email,48.0,4.0,customer angry
+TCK00090,AC042,SUB00539,,,resolved ,2022-03-06 00:00:00,2022-03-07 16:00:00,,Marek Nowak,,24.0,5.0,billing escalation
+TCK00091,AC119,,technical,urgent,resolved,2023-12-06 00:00:00,2023-12-06 12:00:00,2023-12-14 07:00:00,A. Kowalska,chat,,5.0,customer angry
+TCK00092,AC098,SUB01702,feature_request,medium,open,2022-01-12 00:00:00,2022-01-12 20:00:00,2022-01-17 21:00:00,,phone,8.0,3.0,
+TCK00093,AC070,,technical,low,closed,2022-02-21 00:00:00,2022-02-23 22:00:00,2022-02-28 06:00:00,,EMAIL,48.0,1.0,
+TCK00094,AC164,,billing,urgent,closed,2023-04-03 00:00:00,2023-04-05 15:00:00,2023-04-05 20:00:00,Anna Kowalska,EMAIL,,1.0,customer angry
+TCK00095,AC177,SUB01499,technical,urgent,resolved,2024-03-21 00:00:00,2024-03-22 14:00:00,2024-03-28 14:00:00,Tom Wilson,email,8.0,4.0,
+TCK00096,AC143,SUB01117,,urgent,open,2023-07-28 00:00:00,2023-07-30 12:00:00,2023-08-03 10:00:00,John Miller,,8.0,1.0,
+TCK00097,AC057,SUB01053,,low,open,2022-12-30 00:00:00,2022-12-31 13:00:00,2023-01-04 13:00:00,Sarah Brown,web,8.0,,
+TCK00098,AC176,SUB01974,feature_request,medium,closed,2022-04-20 00:00:00,2022-04-21 01:00:00,,Marek Nowak,,24.0,1.0,
+TCK00099,AC084,SUB01209,feature_request,,reopened,2022-02-17 00:00:00,2022-02-17 15:00:00,2022-02-22 11:00:00,Sarah Brown,web,4.0,5.0,customer angry
+TCK00100,AC015,SUB01388,technical,,pending,2023-07-21 00:00:00,2023-07-23 13:00:00,2023-07-31 21:00:00,Sarah Brown,email,48.0,,billing escalation
+TCK00101,AC059,SUB01919,other,medium,resolved,2023-09-13 00:00:00,2023-09-15 16:00:00,2023-09-20 04:00:00,A. Kowalska,phone,24.0,4.0,follow up needed
+TCK00102,AC009,SUB00577,other,high,resolved ,2022-05-22 00:00:00,2022-05-24 17:00:00,2022-06-01 05:00:00,,,8.0,2.0,follow up needed
+TCK00103,AC081,SUB00925,,medium,reopened,2023-10-02 00:00:00,2023-10-03 20:00:00,2023-10-05 06:00:00,,,24.0,,customer angry
+TCK00104,AC103,SUB01628,,urgent,resolved ,2024-02-19 00:00:00,2024-02-21 13:00:00,2024-02-28 16:00:00,,phone,48.0,1.0,billing escalation
+TCK00105,AC069,SUB02283,technical,low,resolved ,2022-04-20 00:00:00,,,Anna Kowalska,chat,24.0,2.0,
+TCK00106,AC017,SUB01617,technical,,open,2023-12-01 00:00:00,2023-12-01 07:00:00,2023-12-04 11:00:00,Tom Wilson,web,4.0,5.0,billing escalation
+TCK00107,AC055,,,high,resolved ,2024-06-04 00:00:00,2024-06-06 23:00:00,2024-06-12 10:00:00,Anna Kowalska,web,48.0,4.0,
+TCK00108,AC146,SUB01863,,high,pending,2023-07-20 00:00:00,,,,chat,24.0,5.0,billing escalation
+TCK00109,AC081,SUB01074,,low,pending,2024-01-27 00:00:00,2024-01-28 00:00:00,2024-01-29 22:00:00,Sarah Brown,,,1.0,
+TCK00110,AC055,SUB01522,other,high,open,2022-02-11 00:00:00,2022-02-13 23:00:00,2022-02-15 17:00:00,Tom Wilson,web,8.0,1.0,follow up needed
+TCK00111,AC168,,other,high,open,2022-11-27 00:00:00,2022-11-28 14:00:00,2022-12-04 17:00:00,Tom Wilson,EMAIL,8.0,2.0,billing escalation
+TCK00112,AC128,SUB00103,feature_request,low,resolved,2022-03-11 00:00:00,2022-03-11 20:00:00,2022-03-17 14:00:00,Marek Nowak,chat,24.0,3.0,
+TCK00113,AC102,SUB02300,,low,open,2022-10-28 00:00:00,2022-10-30 19:00:00,2022-11-05 19:00:00,Tom Wilson,web,8.0,,billing escalation
+TCK00114,AC165,SUB02499,feature_request,low,closed,2023-09-29 00:00:00,2023-09-29 05:00:00,2023-10-02 16:00:00,Emily Davis,EMAIL,24.0,1.0,billing escalation
+TCK00115,AC118,SUB00259,feature_request,low,resolved,2024-04-21 00:00:00,2024-04-23 17:00:00,2024-04-28 12:00:00,Marek Nowak,phone,,1.0,customer angry
+TCK00116,AC037,SUB01902,billing,medium,resolved ,2022-06-21 00:00:00,2022-06-23 20:00:00,2022-06-30 13:00:00,Marek Nowak,,48.0,1.0,follow up needed
+TCK00117,AC068,SUB01238,,medium,open,2023-07-05 00:00:00,2023-07-07 07:00:00,2023-07-08 02:00:00,,,24.0,1.0,customer angry
+TCK00118,AC036,SUB00478,account,,open,2022-03-17 00:00:00,,,Marek Nowak,phone,48.0,4.0,
+TCK00119,AC064,,,low,reopened,2023-10-08 00:00:00,2023-10-09 16:00:00,,Anna Kowalska,,,1.0,billing escalation
+TCK00120,AC144,SUB01247,billing,high,resolved ,2022-02-16 00:00:00,2022-02-16 09:00:00,2022-02-21 18:00:00,Emily Davis,EMAIL,4.0,3.0,
+TCK00121,AC138,SUB00476,technical,medium,resolved ,2023-01-26 00:00:00,2023-01-26 03:00:00,2023-01-31 20:00:00,A. Kowalska,EMAIL,24.0,,follow up needed
+TCK00122,AC068,,other,,pending,2022-11-02 00:00:00,2022-11-03 23:00:00,2022-11-04 02:00:00,John Miller,email,4.0,5.0,billing escalation
+TCK00123,AC150,SUB00556,,high,pending,2023-02-08 00:00:00,2023-02-08 10:00:00,2023-02-16 10:00:00,A. Kowalska,,,2.0,follow up needed
+TCK00124,AC110,SUB01520,technical,,open,2022-07-08 00:00:00,2022-07-09 08:00:00,,,web,,1.0,
+TCK00125,AC150,SUB02213,billing,medium,resolved ,2023-11-19 00:00:00,,,,phone,24.0,2.0,follow up needed
+TCK00126,AC103,SUB00633,feature_request,urgent,resolved,2022-04-13 00:00:00,2022-04-13 08:00:00,2022-04-16 18:00:00,Emily Davis,,,2.0,billing escalation
+TCK00127,AC093,SUB00406,billing,high,pending,2023-08-04 00:00:00,2023-08-05 16:00:00,2023-08-07 12:00:00,Marek Nowak,,48.0,3.0,
+TCK00128,AC057,SUB02522,feature_request,high,resolved,2022-05-18 00:00:00,2022-05-19 18:00:00,2022-05-24 17:00:00,,EMAIL,4.0,2.0,billing escalation
+TCK00129,AC036,SUB01146,account,low,resolved ,2022-03-25 00:00:00,2022-03-25 17:00:00,2022-03-27 20:00:00,John Miller,email,,,customer angry
+TCK00130,AC131,,billing,,resolved,2024-04-12 00:00:00,2024-04-14 03:00:00,2024-04-16 10:00:00,,EMAIL,48.0,,follow up needed
+TCK00131,AC127,SUB01817,other,,open,2023-01-10 00:00:00,2023-01-11 13:00:00,,A. Kowalska,phone,,1.0,follow up needed
+TCK00132,AC024,SUB00968,feature_request,medium,pending,2024-05-18 00:00:00,2024-05-18 21:00:00,2024-05-20 09:00:00,Sarah Brown,,48.0,3.0,customer angry
+TCK00133,AC013,SUB00407,account,medium,open,2022-08-13 00:00:00,2022-08-14 05:00:00,,Marek Nowak,EMAIL,24.0,4.0,
+TCK00134,AC029,SUB01505,billing,,resolved ,2023-04-11 00:00:00,2023-04-11 05:00:00,2023-04-14 16:00:00,Emily Davis,,24.0,5.0,billing escalation
+TCK00135,AC040,SUB01470,billing,,resolved,2023-08-07 00:00:00,2023-08-09 00:00:00,2023-08-16 00:00:00,A. Kowalska,chat,,4.0,
+TCK00136,AC161,,other,low,reopened,2024-04-16 00:00:00,2024-04-18 14:00:00,2024-04-28 02:00:00,Sarah Brown,web,8.0,2.0,customer angry
+TCK00137,AC041,SUB00501,technical,high,reopened,2023-06-11 00:00:00,2023-06-12 03:00:00,,John Miller,,8.0,4.0,
+TCK00138,AC175,SUB01863,technical,urgent,open,2024-01-08 00:00:00,2024-01-10 13:00:00,2024-01-16 21:00:00,Marek Nowak,email,8.0,5.0,billing escalation
+TCK00139,AC109,,other,medium,open,2022-06-14 00:00:00,2022-06-16 17:00:00,,Sarah Brown,phone,8.0,5.0,
+TCK00140,AC153,SUB02446,,high,open,2023-09-06 00:00:00,2023-09-06 02:00:00,2023-09-13 21:00:00,Marek Nowak,web,,4.0,
+TCK00141,AC017,SUB00208,other,medium,reopened,2022-06-24 00:00:00,2022-06-26 04:00:00,2022-07-04 16:00:00,,phone,8.0,,
+TCK00142,AC099,SUB00998,technical,low,open,2023-04-10 00:00:00,2023-04-10 08:00:00,2023-04-14 11:00:00,Marek Nowak,EMAIL,,,
+TCK00143,AC098,SUB02313,other,,open,2024-04-26 00:00:00,2024-04-26 12:00:00,,,EMAIL,4.0,1.0,
+TCK00144,AC153,SUB02271,,urgent,reopened,2023-11-07 00:00:00,2023-11-09 21:00:00,2023-11-19 11:00:00,A. Kowalska,phone,4.0,,billing escalation
+TCK00145,AC120,SUB00885,account,,resolved ,2023-03-16 00:00:00,2023-03-18 13:00:00,2023-03-22 15:00:00,John Miller,web,8.0,3.0,
+TCK00146,AC136,SUB00955,other,urgent,resolved,2024-02-24 00:00:00,2024-02-24 10:00:00,2024-03-04 19:00:00,Marek Nowak,email,4.0,5.0,billing escalation
+TCK00147,AC065,SUB00605,account,urgent,resolved,2022-05-01 00:00:00,2022-05-03 00:00:00,2022-05-10 09:00:00,John Miller,chat,48.0,,billing escalation
+TCK00148,AC142,SUB02442,other,high,resolved ,2022-09-17 00:00:00,2022-09-19 20:00:00,2022-09-23 18:00:00,A. Kowalska,chat,48.0,5.0,billing escalation
+TCK00149,AC003,,account,,resolved,2023-05-10 00:00:00,2023-05-12 23:00:00,2023-05-15 16:00:00,A. Kowalska,,8.0,,customer angry
+TCK00150,AC175,SUB00593,other,urgent,resolved,2024-02-05 00:00:00,2024-02-05 20:00:00,,,EMAIL,4.0,2.0,
+TCK00151,AC030,SUB02213,billing,medium,closed,2023-10-14 00:00:00,,,A. Kowalska,email,4.0,3.0,follow up needed
+TCK00152,AC175,SUB00715,billing,urgent,closed,2023-01-15 00:00:00,,,,phone,,1.0,follow up needed
+TCK00153,AC138,,other,high,pending,2023-10-18 00:00:00,2023-10-18 01:00:00,2023-10-25 02:00:00,Anna Kowalska,EMAIL,,5.0,follow up needed
+TCK00154,AC069,SUB00540,billing,medium,open,2023-09-22 00:00:00,2023-09-22 04:00:00,2023-09-29 04:00:00,Emily Davis,web,24.0,,
+TCK00155,AC165,,,low,open,2023-02-20 00:00:00,2023-02-22 18:00:00,,,phone,,5.0,
+TCK00156,AC088,SUB00975,feature_request,urgent,reopened,2022-12-22 00:00:00,2022-12-23 11:00:00,2022-12-25 13:00:00,Anna Kowalska,phone,8.0,4.0,billing escalation
+TCK00157,AC029,SUB00065,other,high,reopened,2022-04-20 00:00:00,2022-04-22 16:00:00,2022-04-23 22:00:00,Emily Davis,,48.0,4.0,billing escalation
+TCK00158,AC076,,,urgent,reopened,2023-05-11 00:00:00,2023-05-12 19:00:00,2023-05-17 17:00:00,Anna Kowalska,web,4.0,3.0,customer angry
+TCK00159,AC112,,account,urgent,resolved,2023-01-27 00:00:00,2023-01-28 04:00:00,2023-01-30 15:00:00,,EMAIL,4.0,,
+TCK00160,AC041,SUB02155,account,low,reopened,2022-09-12 00:00:00,2022-09-14 03:00:00,2022-09-22 22:00:00,Sarah Brown,web,24.0,3.0,follow up needed
+TCK00161,AC117,,technical,medium,resolved,2023-08-11 00:00:00,2023-08-12 00:00:00,2023-08-14 04:00:00,Marek Nowak,chat,8.0,2.0,billing escalation
+TCK00162,AC001,,billing,urgent,reopened,2022-12-31 00:00:00,2022-12-31 13:00:00,,Anna Kowalska,EMAIL,4.0,4.0,
+TCK00163,AC068,SUB01483,other,high,closed,2023-09-28 00:00:00,2023-09-29 11:00:00,2023-10-07 15:00:00,Marek Nowak,EMAIL,8.0,1.0,billing escalation
+TCK00164,AC129,SUB00447,account,urgent,resolved ,2024-03-29 00:00:00,2024-03-31 21:00:00,,Sarah Brown,web,4.0,,billing escalation
+TCK00165,AC046,SUB00908,technical,urgent,reopened,2023-04-17 00:00:00,2023-04-17 01:00:00,,John Miller,phone,24.0,5.0,
+TCK00166,AC130,SUB00178,account,high,pending,2022-07-11 00:00:00,2022-07-12 06:00:00,2022-07-18 19:00:00,,web,8.0,4.0,
+TCK00167,AC028,SUB02136,technical,,resolved ,2023-01-09 00:00:00,2023-01-10 11:00:00,2023-01-16 14:00:00,Marek Nowak,email,24.0,2.0,billing escalation
+TCK00168,AC161,SUB00128,,medium,closed,2023-03-19 00:00:00,2023-03-20 01:00:00,,Anna Kowalska,chat,48.0,4.0,follow up needed
+TCK00169,AC077,,feature_request,high,resolved,2024-05-19 00:00:00,2024-05-21 20:00:00,2024-05-30 06:00:00,,EMAIL,4.0,4.0,customer angry
+TCK00170,AC164,SUB01646,,low,closed,2023-12-09 00:00:00,2023-12-10 03:00:00,2023-12-15 05:00:00,Tom Wilson,phone,24.0,3.0,billing escalation
+TCK00171,AC130,SUB00443,billing,high,resolved ,2023-07-25 00:00:00,2023-07-26 08:00:00,2023-07-30 18:00:00,Marek Nowak,EMAIL,,,billing escalation
+TCK00172,AC156,SUB01817,other,urgent,resolved ,2022-06-28 00:00:00,2022-06-29 12:00:00,2022-07-06 17:00:00,,email,48.0,5.0,
+TCK00173,AC051,,account,urgent,resolved ,2023-04-20 00:00:00,2023-04-20 18:00:00,2023-04-27 14:00:00,A. Kowalska,email,4.0,2.0,
+TCK00174,AC040,,,urgent,resolved,2022-08-22 00:00:00,2022-08-23 13:00:00,2022-08-30 00:00:00,,phone,,5.0,
+TCK00175,AC096,SUB00270,technical,high,resolved ,2023-02-28 00:00:00,2023-02-28 02:00:00,,John Miller,chat,8.0,4.0,customer angry
+TCK00176,AC042,,feature_request,,open,2022-04-08 00:00:00,,,Anna Kowalska,web,,1.0,customer angry
+TCK00177,AC139,SUB02398,feature_request,high,pending,2022-09-26 00:00:00,2022-09-26 10:00:00,2022-10-05 21:00:00,Marek Nowak,,24.0,4.0,follow up needed
+TCK00178,AC136,SUB01332,,high,resolved,2022-05-15 00:00:00,2022-05-15 21:00:00,,,web,,3.0,billing escalation
+TCK00179,AC001,SUB02447,other,urgent,resolved ,2023-04-01 00:00:00,2023-04-03 21:00:00,,A. Kowalska,EMAIL,,3.0,
+TCK00180,AC154,SUB01859,feature_request,high,pending,2023-05-09 00:00:00,2023-05-09 11:00:00,2023-05-13 09:00:00,Emily Davis,email,4.0,5.0,follow up needed
+TCK00181,AC083,SUB01763,feature_request,urgent,resolved,2022-12-19 00:00:00,2022-12-21 20:00:00,,Anna Kowalska,web,24.0,5.0,follow up needed
+TCK00182,AC126,,account,medium,closed,2024-03-26 00:00:00,,,,web,48.0,2.0,follow up needed
+TCK00183,AC005,SUB02259,account,low,closed,2024-01-03 00:00:00,2024-01-05 01:00:00,2024-01-07 10:00:00,Marek Nowak,EMAIL,,,
+TCK00184,AC029,SUB00881,technical,low,pending,2022-10-19 00:00:00,2022-10-21 20:00:00,2022-10-26 06:00:00,Sarah Brown,phone,4.0,,
+TCK00185,AC093,SUB00936,billing,medium,open,2023-09-25 00:00:00,2023-09-27 14:00:00,,,email,8.0,1.0,
+TCK00186,AC079,SUB01858,billing,medium,open,2022-10-03 00:00:00,2022-10-05 08:00:00,2022-10-07 20:00:00,,chat,24.0,4.0,
+TCK00187,AC062,SUB00390,billing,high,open,2024-03-15 00:00:00,2024-03-16 23:00:00,2024-03-25 10:00:00,Sarah Brown,email,24.0,4.0,customer angry
+TCK00188,AC015,SUB01281,feature_request,low,open,2023-07-11 00:00:00,2023-07-12 00:00:00,2023-07-14 17:00:00,Marek Nowak,web,48.0,2.0,customer angry
+TCK00189,AC062,SUB01534,feature_request,urgent,resolved ,2022-07-23 00:00:00,2022-07-23 12:00:00,2022-07-25 18:00:00,Emily Davis,phone,8.0,,customer angry
+TCK00190,AC146,SUB01943,feature_request,high,pending,2024-02-02 00:00:00,2024-02-04 18:00:00,,Tom Wilson,email,8.0,1.0,follow up needed
+TCK00191,AC021,,account,,open,2023-10-11 00:00:00,2023-10-11 01:00:00,,A. Kowalska,chat,4.0,1.0,billing escalation
+TCK00192,AC022,SUB00382,technical,medium,closed,2024-03-13 00:00:00,2024-03-13 19:00:00,2024-03-14 18:00:00,John Miller,,,3.0,customer angry
+TCK00193,AC125,SUB01527,billing,medium,closed,2022-03-03 00:00:00,2022-03-03 19:00:00,2022-03-12 06:00:00,Marek Nowak,phone,,,
+TCK00194,AC018,SUB02279,feature_request,high,resolved ,2024-04-04 00:00:00,2024-04-05 00:00:00,,Sarah Brown,phone,4.0,4.0,
+TCK00195,AC137,,technical,,resolved,2023-07-27 00:00:00,2023-07-29 14:00:00,,Tom Wilson,,48.0,3.0,billing escalation
+TCK00196,AC033,SUB02301,account,high,reopened,2024-05-31 00:00:00,2024-05-31 08:00:00,2024-06-05 04:00:00,Tom Wilson,web,4.0,,billing escalation
+TCK00197,AC033,SUB00501,other,medium,resolved,2023-01-24 00:00:00,2023-01-24 02:00:00,2023-01-28 00:00:00,John Miller,,,4.0,follow up needed
+TCK00198,AC169,SUB01733,account,high,closed,2023-06-21 00:00:00,2023-06-23 22:00:00,,Tom Wilson,email,4.0,5.0,customer angry
+TCK00199,AC122,SUB00211,billing,medium,open,2022-02-14 00:00:00,2022-02-14 16:00:00,,,chat,4.0,1.0,billing escalation
+TCK00200,AC141,SUB02460,other,high,open,2023-10-20 00:00:00,2023-10-22 14:00:00,2023-10-30 02:00:00,Tom Wilson,chat,,,customer angry
+TCK00201,AC043,SUB00425,billing,urgent,resolved ,2022-01-14 00:00:00,2022-01-15 02:00:00,2022-01-25 00:00:00,Anna Kowalska,phone,,,
+TCK00202,AC068,SUB00872,other,low,resolved ,2024-04-21 00:00:00,2024-04-21 07:00:00,2024-04-24 04:00:00,John Miller,phone,4.0,2.0,billing escalation
+TCK00203,AC136,,technical,,resolved ,2022-04-10 00:00:00,2022-04-11 05:00:00,2022-04-13 06:00:00,Marek Nowak,EMAIL,8.0,5.0,billing escalation
+TCK00204,AC156,SUB00444,,urgent,open,2023-03-02 00:00:00,2023-03-03 21:00:00,2023-03-11 09:00:00,Sarah Brown,chat,,4.0,billing escalation
+TCK00205,AC109,SUB02279,account,high,reopened,2022-12-12 00:00:00,2022-12-14 20:00:00,2022-12-19 14:00:00,Tom Wilson,phone,48.0,,
+TCK00206,AC055,SUB01142,feature_request,,resolved ,2024-04-25 00:00:00,2024-04-26 06:00:00,2024-04-28 13:00:00,Emily Davis,phone,48.0,4.0,
+TCK00207,AC139,SUB01758,technical,high,open,2022-01-01 00:00:00,2022-01-02 12:00:00,2022-01-08 01:00:00,Emily Davis,chat,8.0,3.0,customer angry
+TCK00208,AC177,SUB02547,other,,reopened,2024-03-01 00:00:00,2024-03-02 11:00:00,2024-03-07 22:00:00,Sarah Brown,email,4.0,4.0,
+TCK00209,AC052,SUB02281,technical,high,resolved,2022-06-09 00:00:00,2022-06-10 22:00:00,2022-06-13 14:00:00,John Miller,EMAIL,48.0,5.0,follow up needed
+TCK00210,AC080,,account,urgent,pending,2024-01-22 00:00:00,,,,,,1.0,billing escalation
+TCK00211,AC103,SUB01096,billing,high,resolved,2023-10-20 00:00:00,2023-10-22 00:00:00,,A. Kowalska,web,4.0,2.0,billing escalation
+TCK00212,AC172,,other,low,resolved,2022-01-12 00:00:00,2022-01-14 00:00:00,,,EMAIL,8.0,3.0,billing escalation
+TCK00213,AC167,SUB01266,feature_request,,reopened,2023-12-16 00:00:00,2023-12-16 06:00:00,2023-12-20 11:00:00,,email,8.0,4.0,
+TCK00214,AC096,SUB01438,other,low,reopened,2024-03-16 00:00:00,2024-03-16 16:00:00,2024-03-21 18:00:00,A. Kowalska,phone,4.0,4.0,billing escalation
+TCK00215,AC113,,other,medium,closed,2023-03-21 00:00:00,2023-03-21 16:00:00,2023-03-26 20:00:00,A. Kowalska,,,2.0,billing escalation
+TCK00216,AC133,SUB02320,account,urgent,resolved,2023-09-23 00:00:00,2023-09-25 19:00:00,2023-09-26 14:00:00,John Miller,email,48.0,4.0,
+TCK00217,AC116,SUB00286,account,medium,resolved,2022-12-23 00:00:00,2022-12-24 20:00:00,2022-12-25 03:00:00,,EMAIL,8.0,4.0,customer angry
+TCK00218,AC031,,,low,open,2024-04-17 00:00:00,2024-04-18 23:00:00,,Anna Kowalska,chat,,2.0,
+TCK00219,AC064,SUB00126,billing,high,pending,2022-01-15 00:00:00,2022-01-15 14:00:00,2022-01-20 15:00:00,,chat,8.0,5.0,billing escalation
+TCK00220,AC058,,,low,closed,2024-02-08 00:00:00,2024-02-10 13:00:00,2024-02-12 02:00:00,,email,24.0,2.0,customer angry
+TCK00221,AC017,SUB01541,,low,open,2022-10-18 00:00:00,2022-10-19 10:00:00,,A. Kowalska,,24.0,,
+TCK00222,AC087,SUB01397,feature_request,medium,closed,2024-06-04 00:00:00,2024-06-05 13:00:00,2024-06-12 12:00:00,,,4.0,3.0,
+TCK00223,AC006,,other,urgent,reopened,2024-06-06 00:00:00,2024-06-06 11:00:00,,Anna Kowalska,email,8.0,5.0,
+TCK00224,AC151,SUB01329,,high,resolved,2022-12-08 00:00:00,2022-12-08 20:00:00,,Emily Davis,chat,,3.0,customer angry
+TCK00225,AC142,SUB02325,billing,,resolved,2023-10-03 00:00:00,2023-10-05 01:00:00,2023-10-13 18:00:00,Marek Nowak,chat,24.0,4.0,follow up needed
+TCK00226,AC059,SUB00216,,medium,closed,2022-03-31 00:00:00,2022-04-02 18:00:00,2022-04-09 07:00:00,Marek Nowak,EMAIL,8.0,4.0,
+TCK00227,AC151,,,medium,reopened,2023-09-12 00:00:00,2023-09-14 21:00:00,,,,8.0,2.0,
+TCK00228,AC057,SUB00204,technical,,pending,2023-12-07 00:00:00,2023-12-09 19:00:00,2023-12-14 10:00:00,Tom Wilson,email,,5.0,customer angry
+TCK00229,AC002,SUB01115,account,urgent,closed,2022-07-08 00:00:00,2022-07-08 18:00:00,2022-07-16 22:00:00,Emily Davis,web,24.0,2.0,follow up needed
+TCK00230,AC019,SUB01737,other,high,reopened,2022-04-20 00:00:00,2022-04-20 03:00:00,2022-04-26 16:00:00,Marek Nowak,EMAIL,8.0,2.0,customer angry
+TCK00231,AC162,SUB01811,feature_request,medium,reopened,2023-01-03 00:00:00,,,,,24.0,2.0,
+TCK00232,AC016,SUB00883,billing,urgent,open,2023-05-19 00:00:00,2023-05-19 20:00:00,,Emily Davis,web,8.0,,follow up needed
+TCK00233,AC059,SUB00467,other,urgent,resolved ,2024-02-15 00:00:00,2024-02-15 22:00:00,2024-02-20 15:00:00,Tom Wilson,web,8.0,4.0,
+TCK00234,AC018,SUB00455,,urgent,resolved ,2024-03-05 00:00:00,,,Tom Wilson,web,,,billing escalation
+TCK00235,AC009,SUB02430,feature_request,low,pending,2023-09-01 00:00:00,2023-09-01 04:00:00,2023-09-06 00:00:00,,EMAIL,48.0,,customer angry
+TCK00236,AC085,SUB01264,feature_request,urgent,resolved,2023-07-26 00:00:00,2023-07-26 06:00:00,,Emily Davis,web,8.0,4.0,
+TCK00237,AC019,,,urgent,open,2023-09-20 00:00:00,2023-09-22 18:00:00,2023-09-27 17:00:00,,email,8.0,5.0,billing escalation
+TCK00238,AC132,SUB02455,feature_request,,resolved ,2022-05-19 00:00:00,2022-05-20 17:00:00,2022-05-22 15:00:00,Marek Nowak,web,4.0,3.0,
+TCK00239,AC061,,billing,low,resolved ,2023-12-10 00:00:00,2023-12-10 20:00:00,2023-12-12 04:00:00,,,24.0,1.0,billing escalation
+TCK00240,AC072,SUB00866,feature_request,,closed,2023-12-26 00:00:00,2023-12-28 17:00:00,2023-12-30 10:00:00,Anna Kowalska,chat,24.0,5.0,follow up needed
+TCK00241,AC172,SUB01047,feature_request,high,resolved,2022-06-16 00:00:00,2022-06-16 22:00:00,2022-06-17 12:00:00,,phone,8.0,1.0,follow up needed
+TCK00242,AC125,SUB00492,account,low,closed,2022-07-27 00:00:00,,,,web,,1.0,billing escalation
+TCK00243,AC055,,billing,,reopened,2023-05-21 00:00:00,2023-05-23 12:00:00,2023-05-28 06:00:00,Anna Kowalska,chat,,3.0,billing escalation
+TCK00244,AC139,SUB00720,technical,low,resolved ,2023-10-06 00:00:00,2023-10-07 02:00:00,,Tom Wilson,email,8.0,1.0,billing escalation
+TCK00245,AC034,,billing,urgent,pending,2024-05-08 00:00:00,2024-05-09 18:00:00,2024-05-10 07:00:00,Sarah Brown,,24.0,5.0,billing escalation
+TCK00246,AC147,SUB00943,other,high,open,2023-08-10 00:00:00,2023-08-10 22:00:00,2023-08-18 22:00:00,John Miller,phone,24.0,3.0,
+TCK00247,AC148,SUB01451,feature_request,,open,2024-04-19 00:00:00,,,Emily Davis,web,8.0,1.0,
+TCK00248,AC122,,other,low,open,2022-12-04 00:00:00,2022-12-06 19:00:00,2022-12-09 01:00:00,,email,48.0,,billing escalation
+TCK00249,AC063,SUB00174,account,high,reopened,2024-03-18 00:00:00,2024-03-19 12:00:00,2024-03-28 14:00:00,Tom Wilson,chat,,5.0,
+TCK00250,AC122,SUB01884,other,medium,resolved ,2023-06-17 00:00:00,2023-06-19 15:00:00,2023-06-21 14:00:00,Emily Davis,chat,4.0,1.0,customer angry
+TCK00251,AC105,SUB01283,other,urgent,closed,2023-04-22 00:00:00,2023-04-22 15:00:00,2023-04-24 21:00:00,Anna Kowalska,phone,24.0,5.0,follow up needed
+TCK00252,AC049,SUB02349,account,high,reopened,2022-01-12 00:00:00,2022-01-13 12:00:00,2022-01-14 06:00:00,,phone,4.0,1.0,
+TCK00253,AC025,SUB01711,technical,medium,resolved,2022-12-16 00:00:00,2022-12-19 00:00:00,2022-12-19 08:00:00,Tom Wilson,,48.0,4.0,customer angry
+TCK00254,AC025,SUB01660,other,high,closed,2023-10-24 00:00:00,2023-10-24 19:00:00,2023-11-03 08:00:00,A. Kowalska,,4.0,5.0,
+TCK00255,AC169,,technical,,resolved ,2023-08-02 00:00:00,2023-08-03 16:00:00,2023-08-03 21:00:00,Tom Wilson,phone,4.0,2.0,
+TCK00256,AC111,SUB02532,feature_request,,pending,2024-05-10 00:00:00,,,A. Kowalska,chat,,1.0,
+TCK00257,AC091,SUB01483,feature_request,medium,resolved,2023-12-24 00:00:00,2023-12-24 04:00:00,2023-12-25 03:00:00,,phone,8.0,5.0,
+TCK00258,AC109,,billing,urgent,reopened,2022-06-29 00:00:00,2022-06-29 04:00:00,2022-07-08 22:00:00,Anna Kowalska,web,,2.0,follow up needed
+TCK00259,AC106,SUB00997,technical,low,reopened,2022-12-15 00:00:00,2022-12-17 19:00:00,2022-12-21 07:00:00,Sarah Brown,chat,4.0,4.0,
+TCK00260,AC120,SUB01641,billing,,open,2024-01-01 00:00:00,2024-01-01 14:00:00,,Tom Wilson,web,4.0,1.0,billing escalation
+TCK00261,AC014,SUB01622,account,medium,resolved,2024-02-24 00:00:00,2024-02-25 15:00:00,,Marek Nowak,chat,24.0,3.0,billing escalation
+TCK00262,AC173,SUB01391,account,low,open,2022-11-23 00:00:00,2022-11-23 15:00:00,2022-11-25 08:00:00,,EMAIL,4.0,2.0,billing escalation
+TCK00263,AC168,SUB00689,,high,reopened,2022-12-25 00:00:00,2022-12-26 10:00:00,,Marek Nowak,chat,4.0,3.0,billing escalation
+TCK00264,AC166,,feature_request,low,open,2022-12-13 00:00:00,2022-12-13 06:00:00,,A. Kowalska,email,4.0,4.0,
+TCK00265,AC026,SUB02174,account,medium,resolved ,2022-07-03 00:00:00,2022-07-05 09:00:00,2022-07-08 17:00:00,,email,48.0,5.0,follow up needed
+TCK00266,AC016,SUB01432,account,urgent,closed,2022-04-06 00:00:00,2022-04-08 11:00:00,,Marek Nowak,chat,8.0,5.0,
+TCK00267,AC104,SUB00605,account,urgent,closed,2023-01-08 00:00:00,2023-01-09 18:00:00,2023-01-19 04:00:00,Anna Kowalska,email,48.0,1.0,
+TCK00268,AC087,SUB00600,other,,pending,2023-05-06 00:00:00,2023-05-06 21:00:00,2023-05-10 15:00:00,,email,48.0,,customer angry
+TCK00269,AC028,SUB00711,feature_request,urgent,reopened,2022-11-30 00:00:00,2022-11-30 09:00:00,2022-12-06 02:00:00,A. Kowalska,chat,,2.0,billing escalation
+TCK00270,AC064,SUB00309,technical,,closed,2022-06-12 00:00:00,2022-06-14 01:00:00,,A. Kowalska,EMAIL,24.0,5.0,follow up needed
+TCK00271,AC050,,other,urgent,open,2022-06-27 00:00:00,2022-06-27 09:00:00,2022-07-05 00:00:00,,phone,,1.0,
+TCK00272,AC049,SUB02024,billing,,closed,2022-06-30 00:00:00,2022-07-02 03:00:00,,Tom Wilson,web,4.0,1.0,follow up needed
+TCK00273,AC138,SUB02310,technical,urgent,reopened,2024-04-16 00:00:00,2024-04-16 00:00:00,2024-04-23 02:00:00,Emily Davis,web,,5.0,
+TCK00274,AC115,SUB01839,,high,closed,2022-07-20 00:00:00,2022-07-21 16:00:00,2022-07-30 04:00:00,Tom Wilson,email,,1.0,billing escalation
+TCK00275,AC036,SUB02313,account,,open,2023-06-07 00:00:00,2023-06-07 16:00:00,2023-06-08 08:00:00,Anna Kowalska,,,3.0,customer angry
+TCK00276,AC109,SUB02559,other,urgent,resolved ,2024-05-31 00:00:00,2024-05-31 03:00:00,2024-06-07 15:00:00,Tom Wilson,,48.0,4.0,
+TCK00277,AC047,SUB02570,other,urgent,resolved,2023-03-22 00:00:00,2023-03-22 22:00:00,2023-03-24 23:00:00,A. Kowalska,chat,24.0,,follow up needed
+TCK00278,AC072,SUB01802,,low,pending,2022-05-18 00:00:00,,,,,48.0,2.0,customer angry
+TCK00279,AC119,,,,closed,2022-05-21 00:00:00,2022-05-23 05:00:00,2022-06-01 18:00:00,Sarah Brown,web,,4.0,billing escalation
+TCK00280,AC064,SUB01241,other,low,reopened,2024-04-19 00:00:00,2024-04-20 21:00:00,2024-04-25 10:00:00,,,8.0,,billing escalation
+TCK00281,AC020,SUB02423,billing,,closed,2022-10-03 00:00:00,2022-10-05 21:00:00,2022-10-06 06:00:00,Tom Wilson,email,,4.0,customer angry
+TCK00282,AC114,,account,urgent,reopened,2022-05-26 00:00:00,2022-05-28 19:00:00,2022-06-05 20:00:00,John Miller,EMAIL,,1.0,follow up needed
+TCK00283,AC141,SUB01272,other,high,reopened,2023-04-29 00:00:00,2023-04-29 09:00:00,2023-05-05 04:00:00,Anna Kowalska,phone,,1.0,
+TCK00284,AC026,SUB00155,feature_request,high,resolved,2023-04-10 00:00:00,2023-04-12 12:00:00,2023-04-16 01:00:00,Emily Davis,chat,4.0,,billing escalation
+TCK00285,AC013,,feature_request,,pending,2024-02-07 00:00:00,2024-02-10 00:00:00,2024-02-16 18:00:00,Anna Kowalska,,24.0,,billing escalation
+TCK00286,AC167,SUB00315,billing,high,resolved,2022-01-28 00:00:00,2022-01-28 10:00:00,,Sarah Brown,EMAIL,24.0,3.0,
+TCK00287,AC139,SUB00370,technical,urgent,resolved,2022-01-15 00:00:00,2022-01-15 22:00:00,2022-01-23 20:00:00,Sarah Brown,phone,8.0,4.0,follow up needed
+TCK00288,AC004,SUB02077,technical,,pending,2024-03-29 00:00:00,2024-03-29 04:00:00,2024-03-30 02:00:00,,web,48.0,2.0,
+TCK00289,AC024,SUB02378,account,low,resolved ,2024-01-14 00:00:00,2024-01-15 02:00:00,2024-01-24 02:00:00,Emily Davis,email,4.0,2.0,
+TCK00290,AC061,SUB00169,other,medium,closed,2023-02-13 00:00:00,2023-02-15 12:00:00,2023-02-23 13:00:00,A. Kowalska,web,24.0,2.0,billing escalation
+TCK00291,AC043,SUB02342,feature_request,high,reopened,2024-06-10 00:00:00,2024-06-11 12:00:00,2024-06-16 07:00:00,Anna Kowalska,email,,,
+TCK00292,AC105,SUB01317,billing,high,resolved ,2024-05-14 00:00:00,2024-05-15 10:00:00,2024-05-18 07:00:00,A. Kowalska,web,8.0,,billing escalation
+TCK00293,AC125,SUB02054,account,,open,2024-02-28 00:00:00,2024-02-29 19:00:00,2024-03-02 18:00:00,Anna Kowalska,email,4.0,4.0,customer angry
+TCK00294,AC124,,account,high,pending,2023-06-22 00:00:00,2023-06-24 09:00:00,2023-07-02 03:00:00,Anna Kowalska,email,,1.0,customer angry
+TCK00295,AC055,,billing,low,open,2023-09-01 00:00:00,2023-09-02 03:00:00,2023-09-08 23:00:00,Sarah Brown,web,,2.0,customer angry
+TCK00296,AC103,,billing,urgent,resolved,2023-12-14 00:00:00,2023-12-15 13:00:00,2023-12-25 13:00:00,A. Kowalska,,24.0,3.0,follow up needed
+TCK00297,AC016,SUB01407,billing,urgent,closed,2024-03-10 00:00:00,,,Tom Wilson,email,24.0,3.0,follow up needed
+TCK00298,AC043,SUB00346,technical,,closed,2023-03-28 00:00:00,,,Sarah Brown,,48.0,1.0,follow up needed
+TCK00299,AC098,SUB00707,feature_request,high,open,2023-07-08 00:00:00,2023-07-09 03:00:00,2023-07-10 07:00:00,Anna Kowalska,email,4.0,5.0,
+TCK00300,AC001,,,low,open,2024-03-06 00:00:00,2024-03-08 15:00:00,,A. Kowalska,phone,8.0,,
+TCK00301,AC100,SUB01800,feature_request,urgent,closed,2023-02-05 00:00:00,2023-02-07 17:00:00,2023-02-15 23:00:00,A. Kowalska,,4.0,5.0,follow up needed
+TCK00302,AC068,SUB02498,other,high,resolved,2022-01-04 00:00:00,2022-01-06 13:00:00,,Emily Davis,web,4.0,,customer angry
+TCK00303,AC117,,feature_request,high,resolved ,2023-01-10 00:00:00,2023-01-11 19:00:00,,Marek Nowak,chat,,1.0,
+TCK00304,AC074,SUB01159,,high,closed,2023-11-08 00:00:00,2023-11-10 01:00:00,2023-11-16 19:00:00,John Miller,,48.0,,follow up needed
+TCK00305,AC109,SUB01386,billing,,pending,2022-05-24 00:00:00,,,,web,4.0,5.0,
+TCK00306,AC179,SUB00215,billing,high,open,2023-05-27 00:00:00,2023-05-29 09:00:00,2023-05-29 14:00:00,Tom Wilson,,4.0,4.0,customer angry
+TCK00307,AC143,SUB01371,other,medium,resolved ,2022-08-05 00:00:00,2022-08-07 18:00:00,2022-08-15 00:00:00,Marek Nowak,email,4.0,,follow up needed
+TCK00308,AC170,,billing,medium,resolved ,2023-05-16 00:00:00,2023-05-18 12:00:00,2023-05-25 03:00:00,Sarah Brown,email,8.0,,customer angry
+TCK00309,AC125,,other,low,open,2022-11-11 00:00:00,2022-11-11 12:00:00,2022-11-13 08:00:00,John Miller,web,,5.0,follow up needed
+TCK00310,AC040,SUB01164,,urgent,resolved,2022-03-06 00:00:00,2022-03-08 06:00:00,2022-03-17 04:00:00,John Miller,,,5.0,follow up needed
+TCK00311,AC049,SUB02469,technical,high,open,2022-11-26 00:00:00,2022-11-27 03:00:00,2022-12-03 11:00:00,John Miller,phone,8.0,4.0,follow up needed
+TCK00312,AC076,SUB01366,other,low,pending,2023-12-15 00:00:00,2023-12-15 21:00:00,2023-12-25 18:00:00,John Miller,,,4.0,follow up needed
+TCK00313,AC056,,technical,low,resolved ,2022-01-17 00:00:00,2022-01-17 10:00:00,,Emily Davis,web,48.0,,follow up needed
+TCK00314,AC015,SUB01433,technical,medium,reopened,2022-07-31 00:00:00,2022-08-01 10:00:00,2022-08-05 20:00:00,Anna Kowalska,EMAIL,8.0,,
+TCK00315,AC149,SUB01606,other,medium,pending,2023-09-19 00:00:00,2023-09-20 14:00:00,2023-09-20 16:00:00,John Miller,EMAIL,4.0,5.0,
+TCK00316,AC139,,,medium,resolved,2024-06-02 00:00:00,2024-06-04 21:00:00,2024-06-09 20:00:00,Anna Kowalska,chat,4.0,2.0,
+TCK00317,AC016,SUB00348,account,high,pending,2023-05-25 00:00:00,2023-05-25 05:00:00,,A. Kowalska,phone,24.0,5.0,
+TCK00318,AC081,SUB01543,technical,low,closed,2022-02-14 00:00:00,2022-02-14 06:00:00,2022-02-16 04:00:00,,email,4.0,2.0,
+TCK00319,AC015,SUB01346,,high,pending,2023-08-30 00:00:00,2023-09-01 05:00:00,,John Miller,phone,8.0,1.0,follow up needed
+TCK00320,AC013,SUB02157,billing,urgent,reopened,2024-01-26 00:00:00,2024-01-27 01:00:00,2024-01-29 10:00:00,,email,48.0,2.0,follow up needed
+TCK00321,AC150,,,medium,resolved ,2023-09-17 00:00:00,2023-09-19 01:00:00,2023-09-23 23:00:00,Tom Wilson,phone,8.0,3.0,follow up needed
+TCK00322,AC123,SUB02083,feature_request,urgent,closed,2022-02-02 00:00:00,2022-02-02 07:00:00,2022-02-03 12:00:00,Sarah Brown,phone,8.0,3.0,billing escalation
+TCK00323,AC129,SUB01486,technical,low,closed,2022-06-10 00:00:00,2022-06-10 21:00:00,2022-06-16 19:00:00,,web,8.0,5.0,
+TCK00324,AC136,SUB00878,technical,medium,resolved,2024-05-07 00:00:00,2024-05-07 01:00:00,2024-05-14 22:00:00,A. Kowalska,EMAIL,8.0,5.0,follow up needed
+TCK00325,AC041,SUB01992,feature_request,,open,2023-08-11 00:00:00,2023-08-13 05:00:00,2023-08-13 16:00:00,A. Kowalska,EMAIL,48.0,4.0,customer angry
+TCK00326,AC015,,,urgent,pending,2023-04-09 00:00:00,2023-04-09 10:00:00,2023-04-09 14:00:00,Sarah Brown,phone,24.0,2.0,customer angry
+TCK00327,AC131,SUB00635,feature_request,,resolved ,2022-01-17 00:00:00,2022-01-18 15:00:00,,Anna Kowalska,web,48.0,2.0,
+TCK00328,AC021,,,low,resolved ,2022-07-09 00:00:00,2022-07-10 23:00:00,2022-07-18 12:00:00,John Miller,web,24.0,5.0,customer angry
+TCK00329,AC048,SUB00415,other,,pending,2022-10-31 00:00:00,2022-11-01 10:00:00,2022-11-07 23:00:00,John Miller,EMAIL,24.0,,customer angry
+TCK00330,AC018,SUB02211,feature_request,high,closed,2023-06-12 00:00:00,2023-06-13 22:00:00,2023-06-15 03:00:00,Anna Kowalska,phone,24.0,2.0,billing escalation
+TCK00331,AC153,SUB02157,,medium,pending,2023-12-23 00:00:00,,,Tom Wilson,chat,,1.0,
+TCK00332,AC018,,technical,high,resolved,2024-01-26 00:00:00,2024-01-27 02:00:00,2024-02-04 05:00:00,Emily Davis,EMAIL,48.0,3.0,customer angry
+TCK00333,AC173,SUB02532,billing,urgent,resolved ,2022-03-06 00:00:00,2022-03-08 09:00:00,2022-03-14 00:00:00,,,,3.0,
+TCK00334,AC061,,feature_request,low,open,2023-09-28 00:00:00,2023-09-28 08:00:00,,A. Kowalska,chat,24.0,1.0,customer angry
+TCK00335,AC104,SUB00665,technical,,resolved ,2022-06-18 00:00:00,2022-06-18 18:00:00,2022-06-28 02:00:00,Anna Kowalska,phone,48.0,,billing escalation
+TCK00336,AC031,,billing,high,pending,2022-05-16 00:00:00,2022-05-18 05:00:00,2022-05-25 03:00:00,John Miller,email,8.0,5.0,
+TCK00337,AC146,SUB02559,,,reopened,2023-02-26 00:00:00,2023-02-27 17:00:00,2023-03-06 20:00:00,,web,24.0,5.0,follow up needed
+TCK00338,AC064,SUB00679,account,low,pending,2024-03-19 00:00:00,2024-03-20 09:00:00,2024-03-24 09:00:00,Tom Wilson,phone,48.0,2.0,billing escalation
+TCK00339,AC149,SUB00179,technical,medium,pending,2022-06-14 00:00:00,2022-06-15 12:00:00,,Marek Nowak,email,4.0,3.0,billing escalation
+TCK00340,AC153,SUB00973,other,low,resolved ,2022-05-10 00:00:00,2022-05-11 23:00:00,,Tom Wilson,phone,8.0,3.0,
+TCK00341,AC011,SUB02501,billing,urgent,closed,2023-07-07 00:00:00,2023-07-09 20:00:00,2023-07-19 16:00:00,Sarah Brown,web,24.0,2.0,customer angry
+TCK00342,AC159,SUB01839,account,urgent,resolved,2024-01-27 00:00:00,2024-01-29 16:00:00,2024-02-06 05:00:00,Sarah Brown,EMAIL,48.0,3.0,customer angry
+TCK00343,AC021,SUB00980,other,low,resolved,2024-01-20 00:00:00,2024-01-20 05:00:00,,Anna Kowalska,web,,2.0,
+TCK00344,AC108,SUB01922,billing,,resolved ,2023-01-01 00:00:00,,,Marek Nowak,EMAIL,,2.0,
+TCK00345,AC169,SUB00795,other,urgent,resolved ,2022-07-20 00:00:00,,,John Miller,EMAIL,48.0,2.0,
+TCK00346,AC150,SUB02337,,high,closed,2022-11-22 00:00:00,2022-11-24 17:00:00,2022-12-04 10:00:00,Sarah Brown,,48.0,3.0,
+TCK00347,AC145,SUB01892,account,high,resolved,2023-01-17 00:00:00,,,,EMAIL,4.0,2.0,
+TCK00348,AC134,SUB01565,,urgent,resolved ,2024-01-30 00:00:00,2024-02-01 08:00:00,2024-02-09 23:00:00,A. Kowalska,chat,,5.0,customer angry
+TCK00349,AC081,SUB01715,account,low,reopened,2022-05-28 00:00:00,2022-05-30 12:00:00,2022-06-05 03:00:00,A. Kowalska,email,4.0,4.0,
+TCK00350,AC067,SUB00818,technical,medium,pending,2023-03-01 00:00:00,2023-03-03 11:00:00,2023-03-11 13:00:00,A. Kowalska,phone,,4.0,customer angry
+TCK00351,AC053,SUB00567,feature_request,medium,open,2024-04-22 00:00:00,2024-04-23 14:00:00,2024-05-01 12:00:00,Anna Kowalska,chat,24.0,3.0,
+TCK00352,AC172,SUB00214,,medium,open,2022-05-08 00:00:00,2022-05-09 12:00:00,2022-05-14 18:00:00,John Miller,phone,48.0,1.0,billing escalation
+TCK00353,AC081,SUB01521,account,urgent,resolved ,2024-02-03 00:00:00,2024-02-05 13:00:00,2024-02-14 20:00:00,John Miller,phone,,,billing escalation
+TCK00354,AC062,SUB00421,account,urgent,resolved ,2022-01-18 00:00:00,2022-01-18 20:00:00,2022-01-20 10:00:00,Sarah Brown,phone,8.0,1.0,
+TCK00355,AC068,SUB02114,account,,resolved ,2023-01-05 00:00:00,2023-01-06 21:00:00,,John Miller,EMAIL,8.0,,follow up needed
+TCK00356,AC102,SUB01168,technical,,resolved,2024-02-23 00:00:00,,,Tom Wilson,,24.0,3.0,
+TCK00357,AC034,,technical,,resolved,2022-04-09 00:00:00,2022-04-10 21:00:00,2022-04-11 01:00:00,Tom Wilson,web,48.0,3.0,follow up needed
+TCK00358,AC172,,other,,resolved ,2022-04-15 00:00:00,2022-04-17 16:00:00,2022-04-19 17:00:00,,EMAIL,,,customer angry
+TCK00359,AC166,SUB02103,technical,low,closed,2023-03-04 00:00:00,2023-03-04 09:00:00,,Tom Wilson,phone,24.0,2.0,
+TCK00360,AC077,,account,low,resolved ,2023-09-04 00:00:00,2023-09-05 19:00:00,,John Miller,chat,8.0,,follow up needed
+TCK00361,AC118,SUB00910,feature_request,low,open,2023-12-06 00:00:00,2023-12-06 16:00:00,2023-12-07 13:00:00,Anna Kowalska,web,48.0,1.0,follow up needed
+TCK00362,AC081,SUB01432,,,reopened,2022-04-21 00:00:00,,,Anna Kowalska,web,4.0,3.0,customer angry
+TCK00363,AC019,SUB01700,billing,,pending,2022-03-09 00:00:00,2022-03-09 01:00:00,2022-03-17 10:00:00,Marek Nowak,chat,24.0,1.0,customer angry
+TCK00364,AC003,,account,medium,reopened,2022-05-30 00:00:00,2022-05-31 11:00:00,2022-06-04 05:00:00,Marek Nowak,EMAIL,,1.0,customer angry
+TCK00365,AC118,SUB00966,technical,high,pending,2024-04-19 00:00:00,2024-04-19 01:00:00,2024-04-26 17:00:00,,email,4.0,2.0,billing escalation
+TCK00366,AC160,SUB00335,feature_request,low,pending,2024-05-21 00:00:00,2024-05-22 22:00:00,2024-05-24 22:00:00,Tom Wilson,web,48.0,2.0,billing escalation
+TCK00367,AC145,SUB00116,billing,,pending,2022-08-22 00:00:00,2022-08-23 16:00:00,,,phone,24.0,5.0,customer angry
+TCK00368,AC026,SUB00406,other,high,resolved ,2022-03-26 00:00:00,2022-03-26 14:00:00,2022-03-31 11:00:00,,chat,,4.0,
+TCK00369,AC019,SUB01374,feature_request,high,pending,2024-05-25 00:00:00,2024-05-25 08:00:00,2024-06-02 22:00:00,Anna Kowalska,,48.0,,customer angry
+TCK00370,AC138,SUB00564,feature_request,urgent,resolved ,2023-02-10 00:00:00,2023-02-10 10:00:00,,John Miller,,8.0,1.0,
+TCK00371,AC055,,feature_request,urgent,resolved,2022-07-23 00:00:00,2022-07-25 03:00:00,,Emily Davis,,48.0,3.0,
+TCK00372,AC130,SUB01936,account,medium,closed,2023-11-14 00:00:00,2023-11-16 03:00:00,2023-11-21 14:00:00,John Miller,email,24.0,4.0,
+TCK00373,AC068,SUB00569,,low,open,2022-08-25 00:00:00,2022-08-25 17:00:00,,,,4.0,2.0,
+TCK00374,AC034,SUB01922,billing,low,resolved ,2023-09-12 00:00:00,2023-09-12 19:00:00,2023-09-19 11:00:00,,web,48.0,2.0,
+TCK00375,AC090,SUB00022,other,,open,2023-11-09 00:00:00,2023-11-11 16:00:00,2023-11-15 08:00:00,Anna Kowalska,web,4.0,4.0,
+TCK00376,AC018,SUB00078,technical,,resolved ,2022-11-19 00:00:00,2022-11-21 08:00:00,2022-11-21 17:00:00,Emily Davis,,8.0,4.0,
+TCK00377,AC063,SUB00613,other,urgent,resolved ,2022-05-18 00:00:00,2022-05-20 01:00:00,2022-05-21 06:00:00,,,,5.0,
+TCK00378,AC095,SUB02494,account,urgent,reopened,2023-05-03 00:00:00,2023-05-03 20:00:00,2023-05-08 01:00:00,A. Kowalska,EMAIL,24.0,3.0,
+TCK00379,AC073,SUB00456,billing,medium,resolved,2022-03-04 00:00:00,,,Tom Wilson,,,1.0,
+TCK00380,AC041,SUB00974,account,high,closed,2023-01-25 00:00:00,,,Tom Wilson,email,8.0,2.0,follow up needed
+TCK00381,AC113,SUB00196,account,low,resolved,2023-10-26 00:00:00,2023-10-26 10:00:00,2023-10-27 03:00:00,Sarah Brown,email,,3.0,customer angry
+TCK00382,AC140,SUB02552,feature_request,high,open,2023-04-17 00:00:00,2023-04-19 06:00:00,2023-04-28 21:00:00,,EMAIL,4.0,3.0,
+TCK00383,AC078,SUB00455,,medium,resolved,2023-08-08 00:00:00,2023-08-08 12:00:00,2023-08-09 14:00:00,,EMAIL,24.0,2.0,billing escalation
+TCK00384,AC157,SUB02048,billing,,pending,2022-11-03 00:00:00,2022-11-05 07:00:00,2022-11-12 02:00:00,Emily Davis,phone,4.0,3.0,billing escalation
+TCK00385,AC168,SUB00068,billing,,resolved,2023-02-16 00:00:00,2023-02-16 11:00:00,2023-02-22 16:00:00,Emily Davis,email,,5.0,
+TCK00386,AC136,SUB02356,other,high,closed,2023-03-14 00:00:00,2023-03-14 09:00:00,2023-03-17 15:00:00,,phone,8.0,4.0,
+TCK00387,AC003,SUB00589,technical,low,resolved ,2022-09-15 00:00:00,2022-09-17 10:00:00,2022-09-23 07:00:00,,chat,,4.0,follow up needed
+TCK00388,AC171,SUB00007,other,,closed,2023-11-08 00:00:00,2023-11-10 11:00:00,2023-11-17 07:00:00,Anna Kowalska,EMAIL,8.0,3.0,
+TCK00389,AC142,SUB00986,account,low,resolved ,2022-06-01 00:00:00,2022-06-02 14:00:00,2022-06-07 00:00:00,Marek Nowak,web,24.0,3.0,follow up needed
+TCK00390,AC077,SUB00768,technical,medium,open,2022-09-20 00:00:00,2022-09-21 06:00:00,2022-09-22 12:00:00,Marek Nowak,phone,48.0,4.0,billing escalation
+TCK00391,AC170,SUB00351,technical,low,resolved,2023-03-23 00:00:00,2023-03-23 04:00:00,2023-03-26 02:00:00,Emily Davis,,,2.0,customer angry
+TCK00392,AC027,SUB01478,billing,high,reopened,2024-01-10 00:00:00,2024-01-10 02:00:00,,Emily Davis,email,48.0,3.0,customer angry
+TCK00393,AC035,,,,open,2023-02-11 00:00:00,2023-02-11 17:00:00,2023-02-17 20:00:00,,,,5.0,
+TCK00394,AC068,SUB02079,account,high,reopened,2023-05-24 00:00:00,2023-05-25 06:00:00,2023-06-02 12:00:00,A. Kowalska,,8.0,4.0,follow up needed
+TCK00395,AC030,SUB02080,feature_request,high,reopened,2022-05-28 00:00:00,2022-05-29 03:00:00,2022-06-02 20:00:00,Anna Kowalska,web,,3.0,customer angry
+TCK00396,AC028,SUB01600,technical,high,closed,2022-11-21 00:00:00,2022-11-23 12:00:00,2022-11-26 12:00:00,Tom Wilson,phone,4.0,,billing escalation
+TCK00397,AC142,SUB00179,,medium,resolved,2022-02-05 00:00:00,2022-02-05 06:00:00,2022-02-13 16:00:00,,web,24.0,,
+TCK00398,AC040,SUB01530,feature_request,urgent,open,2024-04-11 00:00:00,2024-04-13 20:00:00,2024-04-23 00:00:00,A. Kowalska,phone,24.0,1.0,follow up needed
+TCK00399,AC070,SUB00067,account,urgent,open,2022-11-01 00:00:00,2022-11-01 20:00:00,2022-11-08 14:00:00,Emily Davis,email,48.0,4.0,
+TCK00400,AC073,SUB00277,billing,medium,resolved ,2024-05-11 00:00:00,2024-05-13 06:00:00,2024-05-22 00:00:00,Emily Davis,EMAIL,4.0,3.0,
+TCK00401,AC155,SUB02574,,low,open,2023-09-09 00:00:00,2023-09-11 22:00:00,2023-09-16 19:00:00,Sarah Brown,,48.0,,follow up needed
+TCK00402,AC054,,billing,medium,pending,2022-01-04 00:00:00,2022-01-05 15:00:00,2022-01-06 13:00:00,,,8.0,5.0,
+TCK00403,AC088,SUB01362,technical,high,pending,2024-03-22 00:00:00,2024-03-24 09:00:00,2024-04-01 06:00:00,Tom Wilson,phone,8.0,1.0,
+TCK00404,AC053,,other,medium,open,2023-01-12 00:00:00,2023-01-14 00:00:00,2023-01-23 11:00:00,Anna Kowalska,EMAIL,,,follow up needed
+TCK00405,AC176,SUB01387,technical,low,closed,2022-04-02 00:00:00,2022-04-03 01:00:00,2022-04-12 04:00:00,A. Kowalska,EMAIL,24.0,2.0,customer angry
+TCK00406,AC163,SUB00718,,,closed,2023-01-12 00:00:00,2023-01-15 00:00:00,,,,48.0,1.0,follow up needed
+TCK00407,AC068,SUB01904,feature_request,medium,closed,2024-01-01 00:00:00,2024-01-02 10:00:00,2024-01-07 17:00:00,Marek Nowak,EMAIL,8.0,3.0,follow up needed
+TCK00408,AC130,SUB01961,account,medium,reopened,2023-03-05 00:00:00,2023-03-05 18:00:00,,,chat,24.0,5.0,
+TCK00409,AC126,SUB00553,technical,high,resolved ,2022-03-29 00:00:00,,,A. Kowalska,,8.0,,
+TCK00410,AC065,,other,low,open,2023-12-27 00:00:00,2023-12-28 08:00:00,,Tom Wilson,chat,48.0,3.0,billing escalation
+TCK00411,AC014,SUB01875,other,,closed,2023-11-18 00:00:00,2023-11-18 05:00:00,,Emily Davis,web,24.0,2.0,billing escalation
+TCK00412,AC024,,feature_request,high,closed,2022-02-12 00:00:00,2022-02-13 09:00:00,,Sarah Brown,email,24.0,,billing escalation
+TCK00413,AC163,SUB00818,feature_request,high,resolved ,2023-03-20 00:00:00,2023-03-20 14:00:00,2023-03-21 23:00:00,Tom Wilson,web,24.0,3.0,billing escalation
+TCK00414,AC109,SUB01293,technical,high,resolved ,2024-04-29 00:00:00,2024-04-30 09:00:00,2024-05-05 01:00:00,,chat,,,
+TCK00415,AC071,SUB02112,feature_request,high,pending,2022-02-24 00:00:00,2022-02-24 06:00:00,2022-02-24 16:00:00,,web,4.0,4.0,customer angry
+TCK00416,AC012,SUB02225,billing,medium,open,2023-03-29 00:00:00,2023-03-31 23:00:00,2023-04-06 06:00:00,Tom Wilson,email,8.0,3.0,follow up needed
+TCK00417,AC001,SUB00150,,,pending,2024-05-04 00:00:00,2024-05-06 17:00:00,2024-05-12 18:00:00,Anna Kowalska,EMAIL,,2.0,
+TCK00418,AC086,SUB00783,account,low,resolved,2022-03-20 00:00:00,2022-03-22 15:00:00,2022-04-01 03:00:00,John Miller,web,24.0,5.0,customer angry
+TCK00419,AC034,SUB00196,,urgent,closed,2024-05-07 00:00:00,2024-05-07 03:00:00,,Emily Davis,EMAIL,4.0,3.0,customer angry
+TCK00420,AC164,SUB01360,,,pending,2023-11-03 00:00:00,2023-11-05 09:00:00,2023-11-13 05:00:00,Marek Nowak,email,24.0,3.0,customer angry
+TCK00421,AC068,SUB01508,other,urgent,open,2024-02-01 00:00:00,,,A. Kowalska,phone,8.0,2.0,
+TCK00422,AC042,SUB01639,technical,medium,closed,2022-04-02 00:00:00,,,A. Kowalska,phone,8.0,1.0,
+TCK00423,AC114,SUB01584,technical,high,resolved ,2023-05-18 00:00:00,2023-05-19 15:00:00,2023-05-26 02:00:00,John Miller,phone,,2.0,
+TCK00424,AC142,SUB00766,feature_request,low,closed,2023-04-02 00:00:00,2023-04-04 12:00:00,2023-04-10 22:00:00,Tom Wilson,EMAIL,8.0,4.0,
+TCK00425,AC110,SUB02038,account,urgent,resolved ,2022-04-06 00:00:00,,,Marek Nowak,,8.0,4.0,billing escalation
+TCK00426,AC144,SUB02127,billing,urgent,resolved,2023-10-07 00:00:00,2023-10-07 10:00:00,2023-10-12 02:00:00,Sarah Brown,chat,24.0,2.0,billing escalation
+TCK00427,AC003,SUB00339,billing,,open,2023-03-14 00:00:00,2023-03-14 06:00:00,2023-03-24 01:00:00,,web,48.0,1.0,
+TCK00428,AC029,SUB00324,billing,,open,2023-11-08 00:00:00,2023-11-09 08:00:00,2023-11-15 14:00:00,John Miller,,48.0,2.0,follow up needed
+TCK00429,AC020,SUB00740,account,high,reopened,2024-05-13 00:00:00,2024-05-13 10:00:00,2024-05-20 23:00:00,,,48.0,5.0,
+TCK00430,AC177,SUB01316,,,resolved,2022-12-16 00:00:00,2022-12-16 23:00:00,2022-12-17 20:00:00,John Miller,web,,1.0,customer angry
+TCK00431,AC039,,,urgent,resolved ,2023-02-09 00:00:00,2023-02-09 21:00:00,2023-02-14 19:00:00,,phone,,5.0,
+TCK00432,AC140,SUB01211,technical,medium,open,2023-12-09 00:00:00,2023-12-11 02:00:00,2023-12-12 01:00:00,Marek Nowak,email,4.0,,follow up needed
+TCK00433,AC010,SUB02469,feature_request,medium,resolved ,2024-05-29 00:00:00,,,Marek Nowak,web,,2.0,customer angry
+TCK00434,AC095,SUB00683,billing,medium,pending,2022-11-05 00:00:00,2022-11-05 18:00:00,2022-11-06 00:00:00,,web,48.0,1.0,
+TCK00435,AC150,SUB01440,feature_request,low,resolved,2023-08-23 00:00:00,2023-08-24 13:00:00,2023-09-02 11:00:00,Anna Kowalska,email,48.0,4.0,
+TCK00436,AC142,SUB01445,feature_request,urgent,closed,2024-01-25 00:00:00,2024-01-27 22:00:00,2024-01-28 08:00:00,,EMAIL,,,
+TCK00437,AC038,SUB01782,other,high,reopened,2022-08-26 00:00:00,2022-08-28 19:00:00,,John Miller,phone,48.0,4.0,customer angry
+TCK00438,AC111,SUB00235,billing,medium,resolved,2023-05-22 00:00:00,2023-05-23 20:00:00,2023-05-28 12:00:00,Marek Nowak,web,24.0,4.0,follow up needed
+TCK00439,AC033,,,urgent,pending,2023-06-04 00:00:00,2023-06-05 19:00:00,2023-06-14 22:00:00,Emily Davis,,48.0,4.0,
+TCK00440,AC011,SUB01489,,low,resolved ,2024-03-26 00:00:00,2024-03-26 20:00:00,2024-03-29 21:00:00,,chat,8.0,2.0,follow up needed
+TCK00441,AC079,SUB00656,account,medium,pending,2023-09-13 00:00:00,2023-09-15 05:00:00,2023-09-20 12:00:00,,email,4.0,3.0,
+TCK00442,AC094,SUB00585,other,low,open,2023-01-01 00:00:00,2023-01-01 22:00:00,2023-01-11 11:00:00,Tom Wilson,web,4.0,5.0,follow up needed
+TCK00443,AC011,SUB01795,account,low,reopened,2022-05-04 00:00:00,2022-05-06 14:00:00,2022-05-10 06:00:00,Emily Davis,chat,,5.0,customer angry
+TCK00444,AC092,,feature_request,urgent,open,2023-12-25 00:00:00,,,John Miller,EMAIL,,1.0,billing escalation
+TCK00445,AC054,,technical,high,pending,2022-02-12 00:00:00,2022-02-12 21:00:00,2022-02-22 04:00:00,Emily Davis,,48.0,5.0,
+TCK00446,AC175,SUB01501,technical,low,pending,2024-01-21 00:00:00,2024-01-21 19:00:00,2024-01-25 09:00:00,,web,4.0,2.0,
+TCK00447,AC064,SUB02324,account,urgent,resolved,2022-12-16 00:00:00,2022-12-16 21:00:00,,Marek Nowak,chat,,4.0,follow up needed
+TCK00448,AC171,,feature_request,,resolved ,2022-05-22 00:00:00,2022-05-24 04:00:00,2022-06-02 18:00:00,Tom Wilson,email,48.0,2.0,customer angry
+TCK00449,AC027,,account,urgent,pending,2024-01-05 00:00:00,2024-01-05 08:00:00,,A. Kowalska,email,48.0,1.0,follow up needed
+TCK00450,AC091,SUB01520,,,resolved,2023-08-12 00:00:00,,,A. Kowalska,web,,3.0,
+TCK00451,AC144,SUB00315,account,,reopened,2022-12-19 00:00:00,,,Sarah Brown,,48.0,4.0,follow up needed
+TCK00452,AC105,SUB02169,,urgent,pending,2023-07-12 00:00:00,2023-07-14 08:00:00,2023-07-23 20:00:00,Emily Davis,email,4.0,5.0,
+TCK00453,AC159,SUB01288,account,medium,open,2023-02-04 00:00:00,2023-02-04 16:00:00,2023-02-10 11:00:00,,EMAIL,24.0,5.0,
+TCK00454,AC040,SUB01023,other,,resolved,2024-02-15 00:00:00,2024-02-15 02:00:00,,Marek Nowak,phone,48.0,5.0,customer angry
+TCK00455,AC061,SUB00107,account,high,resolved ,2024-01-20 00:00:00,,,,phone,4.0,1.0,customer angry
+TCK00456,AC042,SUB02045,,,reopened,2023-04-05 00:00:00,2023-04-05 00:00:00,2023-04-07 13:00:00,,EMAIL,8.0,3.0,
+TCK00457,AC046,SUB02301,,medium,open,2022-10-19 00:00:00,2022-10-19 17:00:00,2022-10-25 07:00:00,Tom Wilson,EMAIL,,2.0,
+TCK00458,AC106,,,urgent,closed,2023-04-11 00:00:00,,,John Miller,email,4.0,4.0,follow up needed
+TCK00459,AC007,SUB01828,feature_request,,reopened,2023-05-03 00:00:00,2023-05-03 09:00:00,2023-05-09 00:00:00,,web,24.0,5.0,
+TCK00460,AC046,SUB02507,,urgent,pending,2023-10-14 00:00:00,2023-10-16 08:00:00,2023-10-21 14:00:00,Sarah Brown,EMAIL,8.0,4.0,
+TCK00461,AC086,SUB02012,,medium,closed,2022-05-13 00:00:00,2022-05-15 17:00:00,2022-05-17 00:00:00,,email,8.0,5.0,
+TCK00462,AC106,SUB00556,account,,resolved,2022-05-02 00:00:00,2022-05-04 04:00:00,,Anna Kowalska,EMAIL,8.0,1.0,
+TCK00463,AC172,SUB01852,technical,medium,reopened,2022-11-09 00:00:00,2022-11-10 14:00:00,2022-11-10 22:00:00,A. Kowalska,email,24.0,3.0,follow up needed
+TCK00464,AC064,,other,high,open,2022-07-07 00:00:00,2022-07-09 14:00:00,,Anna Kowalska,web,48.0,5.0,
+TCK00465,AC069,SUB00360,,,pending,2023-08-03 00:00:00,2023-08-04 19:00:00,2023-08-09 21:00:00,Sarah Brown,EMAIL,48.0,4.0,
+TCK00466,AC041,SUB01310,other,,closed,2022-06-02 00:00:00,2022-06-03 17:00:00,,A. Kowalska,chat,48.0,3.0,billing escalation
+TCK00467,AC180,SUB00266,billing,medium,resolved ,2022-02-16 00:00:00,2022-02-18 08:00:00,2022-02-25 06:00:00,Anna Kowalska,EMAIL,24.0,5.0,customer angry
+TCK00468,AC028,SUB01190,other,low,reopened,2023-10-22 00:00:00,2023-10-23 00:00:00,2023-10-28 19:00:00,,chat,48.0,5.0,customer angry
+TCK00469,AC098,SUB00646,billing,high,pending,2022-05-04 00:00:00,2022-05-06 20:00:00,,Marek Nowak,,,4.0,customer angry
+TCK00470,AC010,SUB00714,feature_request,low,resolved,2024-04-06 00:00:00,2024-04-07 17:00:00,2024-04-08 05:00:00,A. Kowalska,chat,48.0,1.0,billing escalation
+TCK00471,AC121,SUB02084,billing,,pending,2022-11-21 00:00:00,2022-11-21 11:00:00,,Emily Davis,chat,8.0,3.0,customer angry
+TCK00472,AC057,SUB00824,other,high,pending,2022-06-07 00:00:00,2022-06-09 04:00:00,2022-06-09 20:00:00,Anna Kowalska,,4.0,3.0,
+TCK00473,AC052,SUB00970,feature_request,low,open,2022-04-12 00:00:00,2022-04-14 04:00:00,2022-04-16 23:00:00,Marek Nowak,chat,,5.0,follow up needed
+TCK00474,AC118,SUB00108,account,low,resolved,2023-05-20 00:00:00,2023-05-22 16:00:00,2023-05-23 22:00:00,,EMAIL,48.0,1.0,
+TCK00475,AC090,SUB02345,account,,reopened,2022-01-30 00:00:00,2022-01-31 05:00:00,2022-01-31 10:00:00,John Miller,chat,,,follow up needed
+TCK00476,AC079,SUB02260,,,pending,2022-11-08 00:00:00,2022-11-10 09:00:00,,Sarah Brown,phone,,2.0,follow up needed
+TCK00477,AC059,,feature_request,,resolved,2023-07-05 00:00:00,2023-07-07 23:00:00,2023-07-08 00:00:00,Sarah Brown,email,4.0,4.0,
+TCK00478,AC058,SUB00270,,medium,reopened,2023-09-05 00:00:00,2023-09-07 00:00:00,2023-09-16 00:00:00,,phone,4.0,2.0,billing escalation
+TCK00479,AC007,SUB01961,billing,urgent,resolved ,2023-07-31 00:00:00,,,John Miller,chat,,3.0,
+TCK00480,AC169,SUB01678,,high,resolved ,2022-08-04 00:00:00,2022-08-05 16:00:00,2022-08-09 08:00:00,,phone,8.0,,
+TCK00481,AC050,SUB00303,,medium,resolved ,2022-12-16 00:00:00,2022-12-17 18:00:00,,Anna Kowalska,EMAIL,48.0,1.0,customer angry
+TCK00482,AC103,,feature_request,urgent,reopened,2023-11-20 00:00:00,2023-11-22 23:00:00,2023-11-30 12:00:00,John Miller,,4.0,5.0,customer angry
+TCK00483,AC085,SUB00304,feature_request,,resolved,2024-05-02 00:00:00,2024-05-04 08:00:00,2024-05-08 03:00:00,A. Kowalska,chat,4.0,1.0,
+TCK00484,AC072,SUB02120,,low,resolved,2023-01-15 00:00:00,2023-01-17 08:00:00,,Tom Wilson,chat,4.0,5.0,
+TCK00485,AC018,SUB02259,billing,high,closed,2024-04-07 00:00:00,2024-04-08 05:00:00,2024-04-12 02:00:00,Marek Nowak,email,8.0,,
+TCK00486,AC072,SUB00746,other,medium,resolved ,2022-04-24 00:00:00,2022-04-27 00:00:00,2022-04-28 20:00:00,Sarah Brown,email,,2.0,customer angry
+TCK00487,AC090,SUB00529,other,high,pending,2022-05-11 00:00:00,2022-05-14 00:00:00,2022-05-23 10:00:00,Anna Kowalska,,,5.0,
+TCK00488,AC165,SUB00227,feature_request,low,resolved,2023-11-29 00:00:00,2023-12-01 10:00:00,,A. Kowalska,web,24.0,1.0,billing escalation
+TCK00489,AC131,SUB02123,,medium,open,2023-04-23 00:00:00,2023-04-25 18:00:00,2023-05-05 05:00:00,Emily Davis,web,,4.0,
+TCK00490,AC103,,other,low,resolved ,2022-01-06 00:00:00,2022-01-07 18:00:00,,Marek Nowak,,48.0,1.0,follow up needed
+TCK00491,AC174,,,low,open,2022-07-21 00:00:00,2022-07-22 15:00:00,,,web,4.0,5.0,
+TCK00492,AC138,SUB00924,billing,high,reopened,2024-05-10 00:00:00,2024-05-10 13:00:00,2024-05-14 05:00:00,Marek Nowak,email,,5.0,
+TCK00493,AC085,SUB02126,feature_request,,open,2024-02-22 00:00:00,,,John Miller,email,4.0,4.0,
+TCK00494,AC008,SUB00324,feature_request,low,resolved,2024-05-18 00:00:00,2024-05-18 16:00:00,,A. Kowalska,email,4.0,,customer angry
+TCK00495,AC030,SUB02257,feature_request,urgent,open,2023-07-27 00:00:00,,,A. Kowalska,chat,,,billing escalation
+TCK00496,AC067,SUB02561,other,,open,2022-01-11 00:00:00,2022-01-13 11:00:00,2022-01-22 21:00:00,Tom Wilson,,4.0,4.0,billing escalation
+TCK00497,AC046,SUB02186,other,low,reopened,2022-12-03 00:00:00,2022-12-03 13:00:00,,Marek Nowak,EMAIL,8.0,,billing escalation
+TCK00498,AC149,,technical,medium,pending,2022-09-20 00:00:00,2022-09-22 13:00:00,2022-09-27 07:00:00,Anna Kowalska,email,8.0,3.0,billing escalation
+TCK00499,AC068,SUB02425,other,medium,pending,2023-03-23 00:00:00,2023-03-24 21:00:00,2023-04-03 08:00:00,,phone,,3.0,
+TCK00500,AC010,SUB00632,technical,low,pending,2023-01-13 00:00:00,2023-01-15 18:00:00,2023-01-23 00:00:00,,EMAIL,4.0,4.0,
+TCK00501,AC028,,technical,urgent,resolved ,2022-07-20 00:00:00,2022-07-21 01:00:00,2022-07-24 17:00:00,,EMAIL,24.0,5.0,billing escalation
+TCK00502,AC153,SUB02479,feature_request,low,closed,2022-12-10 00:00:00,2022-12-12 05:00:00,2022-12-13 08:00:00,Marek Nowak,email,8.0,,follow up needed
+TCK00503,AC112,SUB02309,account,urgent,pending,2023-04-23 00:00:00,2023-04-24 06:00:00,2023-05-02 11:00:00,A. Kowalska,chat,4.0,3.0,customer angry
+TCK00504,AC089,,account,urgent,pending,2022-03-17 00:00:00,2022-03-19 23:00:00,,Tom Wilson,email,4.0,2.0,follow up needed
+TCK00505,AC081,SUB00333,other,medium,pending,2022-10-18 00:00:00,2022-10-19 09:00:00,2022-10-23 00:00:00,Marek Nowak,email,8.0,3.0,customer angry
+TCK00506,AC112,,billing,high,pending,2022-01-22 00:00:00,2022-01-22 17:00:00,2022-01-31 03:00:00,Emily Davis,web,8.0,3.0,
+TCK00507,AC156,SUB02363,feature_request,low,open,2023-11-08 00:00:00,2023-11-10 19:00:00,2023-11-17 11:00:00,Sarah Brown,chat,8.0,2.0,billing escalation
+TCK00508,AC131,SUB00864,technical,low,reopened,2023-01-23 00:00:00,2023-01-24 16:00:00,2023-01-31 11:00:00,Marek Nowak,EMAIL,24.0,2.0,
+TCK00509,AC030,SUB01707,account,medium,reopened,2022-09-11 00:00:00,,,,chat,4.0,4.0,billing escalation
+TCK00510,AC099,SUB00125,other,high,closed,2022-03-08 00:00:00,2022-03-10 01:00:00,2022-03-16 23:00:00,,web,8.0,3.0,
+TCK00511,AC148,SUB02569,feature_request,,resolved ,2023-06-23 00:00:00,2023-06-25 15:00:00,2023-07-01 20:00:00,Anna Kowalska,chat,8.0,2.0,
+TCK00512,AC049,SUB01238,feature_request,,pending,2024-06-02 00:00:00,2024-06-03 03:00:00,2024-06-12 15:00:00,Tom Wilson,phone,,1.0,follow up needed
+TCK00513,AC066,SUB01664,feature_request,,resolved,2024-02-09 00:00:00,,,Marek Nowak,EMAIL,4.0,4.0,billing escalation
+TCK00514,AC012,SUB00299,account,urgent,resolved,2023-09-29 00:00:00,2023-10-01 09:00:00,2023-10-05 18:00:00,Emily Davis,web,4.0,2.0,
+TCK00515,AC112,SUB00648,account,,reopened,2022-08-28 00:00:00,2022-08-28 09:00:00,2022-08-29 07:00:00,,,4.0,3.0,follow up needed
+TCK00516,AC001,SUB01984,technical,high,pending,2022-04-11 00:00:00,2022-04-12 22:00:00,,Tom Wilson,phone,24.0,,
+TCK00517,AC134,SUB01394,,,resolved,2022-07-15 00:00:00,2022-07-15 17:00:00,2022-07-23 18:00:00,Anna Kowalska,phone,24.0,3.0,
+TCK00518,AC138,SUB01281,technical,urgent,pending,2023-02-20 00:00:00,2023-02-20 01:00:00,2023-02-25 13:00:00,Marek Nowak,,8.0,4.0,follow up needed
+TCK00519,AC176,SUB01308,feature_request,high,open,2023-06-13 00:00:00,2023-06-15 22:00:00,2023-06-23 15:00:00,Tom Wilson,chat,48.0,,
+TCK00520,AC172,SUB01415,technical,,pending,2022-08-03 00:00:00,2022-08-05 23:00:00,,Emily Davis,,4.0,4.0,
+TCK00521,AC051,SUB00536,,,resolved,2022-12-14 00:00:00,2022-12-16 06:00:00,2022-12-20 14:00:00,Tom Wilson,EMAIL,4.0,5.0,customer angry
+TCK00522,AC094,SUB02110,other,,reopened,2022-05-23 00:00:00,2022-05-24 18:00:00,2022-06-02 07:00:00,A. Kowalska,web,8.0,4.0,customer angry
+TCK00523,AC111,SUB01308,other,urgent,resolved ,2023-07-02 00:00:00,2023-07-04 12:00:00,,Emily Davis,email,8.0,1.0,billing escalation
+TCK00524,AC018,SUB00502,,,closed,2022-07-01 00:00:00,,,Anna Kowalska,chat,8.0,1.0,
+TCK00525,AC171,SUB01016,feature_request,low,resolved,2022-10-18 00:00:00,2022-10-19 13:00:00,2022-10-20 07:00:00,,email,8.0,3.0,
+TCK00526,AC085,,feature_request,urgent,resolved ,2023-02-05 00:00:00,2023-02-05 14:00:00,,John Miller,web,8.0,2.0,follow up needed
+TCK00527,AC160,,other,high,reopened,2022-11-14 00:00:00,2022-11-16 12:00:00,,Marek Nowak,EMAIL,48.0,3.0,follow up needed
+TCK00528,AC081,SUB02521,feature_request,,pending,2022-01-08 00:00:00,2022-01-10 09:00:00,,,phone,,4.0,
+TCK00529,AC170,SUB00655,feature_request,high,resolved ,2023-04-19 00:00:00,2023-04-19 11:00:00,2023-04-28 21:00:00,Emily Davis,web,,2.0,
+TCK00530,AC032,SUB02367,,medium,resolved ,2022-09-13 00:00:00,2022-09-15 07:00:00,2022-09-25 01:00:00,John Miller,web,4.0,2.0,follow up needed
+TCK00531,AC077,SUB00778,billing,medium,closed,2022-10-08 00:00:00,2022-10-10 20:00:00,2022-10-20 15:00:00,A. Kowalska,EMAIL,4.0,3.0,customer angry
+TCK00532,AC130,SUB02041,account,medium,reopened,2024-02-13 00:00:00,2024-02-14 17:00:00,2024-02-16 12:00:00,Anna Kowalska,web,4.0,1.0,
+TCK00533,AC080,SUB01913,billing,low,resolved,2023-01-26 00:00:00,2023-01-28 03:00:00,2023-02-01 09:00:00,John Miller,,8.0,3.0,
+TCK00534,AC171,SUB01264,,urgent,pending,2023-05-12 00:00:00,2023-05-12 10:00:00,2023-05-15 01:00:00,,phone,8.0,2.0,customer angry
+TCK00535,AC105,SUB00369,,urgent,pending,2023-09-14 00:00:00,2023-09-15 13:00:00,,John Miller,,4.0,,
+TCK00536,AC084,SUB02071,,,pending,2022-06-07 00:00:00,2022-06-07 22:00:00,2022-06-08 07:00:00,,,4.0,,billing escalation
+TCK00537,AC104,SUB00987,feature_request,low,reopened,2023-10-19 00:00:00,2023-10-19 13:00:00,2023-10-22 20:00:00,Anna Kowalska,email,48.0,2.0,follow up needed
+TCK00538,AC179,SUB01446,feature_request,low,open,2023-01-19 00:00:00,2023-01-20 01:00:00,,Tom Wilson,chat,4.0,2.0,customer angry
+TCK00539,AC076,,feature_request,,open,2024-03-27 00:00:00,2024-03-27 21:00:00,2024-03-28 09:00:00,Tom Wilson,phone,,,follow up needed
+TCK00540,AC142,SUB02448,billing,medium,pending,2023-10-02 00:00:00,2023-10-04 21:00:00,2023-10-09 11:00:00,John Miller,phone,24.0,2.0,customer angry
+TCK00541,AC033,SUB01928,technical,low,resolved ,2023-02-16 00:00:00,2023-02-16 01:00:00,2023-02-20 23:00:00,Emily Davis,,,3.0,customer angry
+TCK00542,AC050,SUB00034,feature_request,low,resolved ,2022-03-10 00:00:00,2022-03-12 04:00:00,2022-03-18 14:00:00,,EMAIL,8.0,3.0,customer angry
+TCK00543,AC108,SUB01766,,medium,resolved,2023-09-07 00:00:00,2023-09-09 01:00:00,2023-09-17 07:00:00,Sarah Brown,,24.0,,
+TCK00544,AC171,,,medium,reopened,2022-03-11 00:00:00,2022-03-13 09:00:00,2022-03-20 05:00:00,Anna Kowalska,chat,4.0,5.0,customer angry
+TCK00545,AC098,SUB01499,billing,low,pending,2022-11-13 00:00:00,2022-11-15 06:00:00,2022-11-21 21:00:00,Tom Wilson,web,24.0,2.0,follow up needed
+TCK00546,AC174,SUB01499,other,urgent,resolved ,2023-01-20 00:00:00,2023-01-20 04:00:00,2023-01-27 22:00:00,Tom Wilson,chat,24.0,3.0,customer angry
+TCK00547,AC045,,billing,medium,resolved ,2023-06-18 00:00:00,2023-06-20 05:00:00,2023-06-23 07:00:00,Tom Wilson,phone,8.0,2.0,billing escalation
+TCK00548,AC158,,,medium,reopened,2022-02-25 00:00:00,2022-02-26 07:00:00,2022-03-05 18:00:00,A. Kowalska,EMAIL,24.0,2.0,
+TCK00549,AC146,SUB01485,feature_request,low,pending,2023-10-07 00:00:00,,,Anna Kowalska,,8.0,2.0,follow up needed
+TCK00550,AC078,SUB00302,technical,medium,reopened,2022-04-04 00:00:00,2022-04-06 22:00:00,2022-04-16 21:00:00,John Miller,web,48.0,3.0,follow up needed
+TCK00551,AC104,SUB01845,technical,high,resolved,2024-01-09 00:00:00,2024-01-11 06:00:00,,,,8.0,3.0,
+TCK00552,AC141,SUB01146,feature_request,urgent,closed,2022-03-23 00:00:00,2022-03-24 22:00:00,2022-03-26 17:00:00,,EMAIL,48.0,2.0,
+TCK00553,AC001,SUB02553,account,,reopened,2022-01-21 00:00:00,2022-01-23 06:00:00,2022-01-31 09:00:00,Sarah Brown,EMAIL,8.0,3.0,
+TCK00554,AC078,SUB00487,feature_request,low,resolved,2023-04-20 00:00:00,2023-04-21 12:00:00,2023-04-28 00:00:00,Sarah Brown,,48.0,2.0,follow up needed
+TCK00555,AC074,,other,high,closed,2022-07-14 00:00:00,,,A. Kowalska,web,48.0,,
+TCK00556,AC054,,billing,urgent,reopened,2023-01-29 00:00:00,2023-01-29 09:00:00,2023-01-29 19:00:00,Sarah Brown,chat,48.0,3.0,
+TCK00557,AC111,SUB01389,feature_request,urgent,resolved ,2023-06-06 00:00:00,2023-06-07 23:00:00,2023-06-14 22:00:00,Marek Nowak,chat,48.0,1.0,
+TCK00558,AC149,SUB01498,technical,high,reopened,2023-10-09 00:00:00,2023-10-09 03:00:00,2023-10-16 01:00:00,,,8.0,3.0,follow up needed
+TCK00559,AC156,SUB00816,billing,urgent,closed,2023-09-09 00:00:00,2023-09-09 20:00:00,,John Miller,EMAIL,8.0,4.0,follow up needed
+TCK00560,AC168,SUB01645,,urgent,reopened,2024-04-29 00:00:00,2024-04-30 14:00:00,2024-05-06 07:00:00,Emily Davis,,48.0,,customer angry
+TCK00561,AC083,SUB00186,,medium,resolved ,2022-04-22 00:00:00,2022-04-23 20:00:00,2022-04-26 17:00:00,A. Kowalska,,24.0,1.0,follow up needed
+TCK00562,AC120,,,urgent,reopened,2024-04-15 00:00:00,2024-04-15 12:00:00,,A. Kowalska,,24.0,,
+TCK00563,AC114,SUB01941,feature_request,medium,reopened,2022-06-24 00:00:00,2022-06-24 23:00:00,2022-06-27 02:00:00,John Miller,web,,2.0,follow up needed
+TCK00564,AC114,SUB00611,technical,medium,resolved,2022-07-25 00:00:00,,,A. Kowalska,web,,1.0,follow up needed
+TCK00565,AC173,SUB02112,billing,high,open,2022-03-23 00:00:00,2022-03-25 00:00:00,,Marek Nowak,web,48.0,,customer angry
+TCK00566,AC055,,billing,,open,2022-01-10 00:00:00,,,John Miller,chat,,1.0,
+TCK00567,AC131,SUB01305,account,,closed,2023-09-10 00:00:00,2023-09-11 10:00:00,2023-09-16 12:00:00,Tom Wilson,phone,24.0,3.0,follow up needed
+TCK00568,AC122,,account,low,open,2023-01-05 00:00:00,2023-01-07 00:00:00,2023-01-10 20:00:00,,,48.0,,follow up needed
+TCK00569,AC044,SUB01226,technical,high,closed,2022-01-27 00:00:00,2022-01-29 19:00:00,2022-02-06 07:00:00,,EMAIL,48.0,,follow up needed
+TCK00570,AC169,SUB02078,account,low,resolved ,2022-01-04 00:00:00,2022-01-05 17:00:00,,Tom Wilson,,48.0,2.0,billing escalation
+TCK00571,AC022,SUB02181,feature_request,low,resolved ,2023-05-12 00:00:00,2023-05-12 10:00:00,2023-05-22 09:00:00,A. Kowalska,phone,,2.0,follow up needed
+TCK00572,AC073,SUB02306,feature_request,low,resolved,2024-06-09 00:00:00,2024-06-11 16:00:00,,,web,8.0,4.0,customer angry
+TCK00573,AC132,SUB00069,,low,open,2023-05-09 00:00:00,2023-05-10 06:00:00,2023-05-12 02:00:00,A. Kowalska,,4.0,2.0,
+TCK00574,AC170,SUB00449,feature_request,low,resolved ,2023-01-28 00:00:00,2023-01-29 04:00:00,2023-02-05 07:00:00,Sarah Brown,EMAIL,48.0,1.0,
+TCK00575,AC163,SUB02391,,urgent,resolved ,2024-06-11 00:00:00,2024-06-11 08:00:00,2024-06-15 09:00:00,,web,8.0,2.0,
+TCK00576,AC159,SUB02578,,,pending,2022-04-29 00:00:00,2022-04-29 14:00:00,,John Miller,EMAIL,24.0,2.0,
+TCK00577,AC086,,other,medium,closed,2023-01-25 00:00:00,2023-01-25 00:00:00,2023-01-31 08:00:00,A. Kowalska,phone,24.0,,follow up needed
+TCK00578,AC024,SUB02370,billing,,closed,2023-06-17 00:00:00,2023-06-18 04:00:00,,Tom Wilson,chat,24.0,2.0,
+TCK00579,AC061,SUB00211,,low,reopened,2023-11-28 00:00:00,2023-11-29 12:00:00,,Tom Wilson,phone,,,customer angry
+TCK00580,AC173,SUB00699,feature_request,high,resolved ,2022-10-08 00:00:00,2022-10-10 13:00:00,2022-10-12 21:00:00,A. Kowalska,email,24.0,2.0,follow up needed
+TCK00581,AC080,SUB02539,technical,urgent,resolved ,2024-05-18 00:00:00,2024-05-19 04:00:00,2024-05-19 18:00:00,A. Kowalska,phone,8.0,1.0,billing escalation
+TCK00582,AC058,SUB01558,feature_request,urgent,open,2023-02-06 00:00:00,2023-02-08 12:00:00,2023-02-16 14:00:00,,,24.0,3.0,follow up needed
+TCK00583,AC051,,account,,open,2023-12-19 00:00:00,2023-12-21 02:00:00,,Emily Davis,web,8.0,5.0,follow up needed
+TCK00584,AC038,SUB00130,technical,medium,resolved ,2023-03-29 00:00:00,2023-03-30 13:00:00,2023-04-01 19:00:00,Anna Kowalska,phone,,1.0,follow up needed
+TCK00585,AC007,SUB00451,billing,low,resolved,2023-01-21 00:00:00,2023-01-23 06:00:00,2023-01-25 02:00:00,,chat,4.0,1.0,billing escalation
+TCK00586,AC012,,,urgent,pending,2023-10-28 00:00:00,2023-10-30 07:00:00,2023-11-06 00:00:00,Anna Kowalska,email,8.0,4.0,
+TCK00587,AC063,SUB01716,,low,closed,2022-11-06 00:00:00,2022-11-06 22:00:00,2022-11-10 23:00:00,A. Kowalska,phone,48.0,3.0,customer angry
+TCK00588,AC122,,other,medium,open,2022-05-03 00:00:00,2022-05-03 15:00:00,2022-05-10 19:00:00,,phone,4.0,5.0,follow up needed
+TCK00589,AC157,SUB01681,billing,high,open,2023-01-29 00:00:00,2023-01-31 07:00:00,2023-02-01 16:00:00,,chat,48.0,,customer angry
+TCK00590,AC019,SUB02505,feature_request,low,reopened,2023-02-08 00:00:00,2023-02-10 20:00:00,2023-02-16 12:00:00,,,4.0,2.0,customer angry
+TCK00591,AC117,SUB00256,feature_request,high,open,2022-07-05 00:00:00,2022-07-05 23:00:00,,Anna Kowalska,chat,,2.0,follow up needed
+TCK00592,AC107,SUB02125,billing,,resolved,2022-03-31 00:00:00,2022-03-31 04:00:00,,Tom Wilson,EMAIL,8.0,4.0,customer angry
+TCK00593,AC162,SUB01332,,,closed,2022-09-12 00:00:00,2022-09-14 18:00:00,2022-09-17 22:00:00,Sarah Brown,EMAIL,48.0,,
+TCK00594,AC148,SUB01960,technical,low,resolved ,2023-06-20 00:00:00,2023-06-21 21:00:00,2023-06-27 08:00:00,Anna Kowalska,chat,4.0,2.0,follow up needed
+TCK00595,AC050,SUB01286,other,medium,reopened,2022-11-03 00:00:00,2022-11-04 03:00:00,2022-11-10 14:00:00,Tom Wilson,phone,8.0,,billing escalation
+TCK00596,AC179,SUB01883,account,high,closed,2023-03-09 00:00:00,,,Sarah Brown,web,48.0,1.0,
+TCK00597,AC099,SUB01403,,high,resolved ,2023-11-24 00:00:00,2023-11-24 18:00:00,2023-11-25 13:00:00,Marek Nowak,,24.0,5.0,billing escalation
+TCK00598,AC127,SUB01083,feature_request,urgent,open,2023-09-12 00:00:00,2023-09-12 19:00:00,2023-09-21 05:00:00,Marek Nowak,email,24.0,1.0,billing escalation
+TCK00599,AC103,SUB00788,,low,resolved,2022-04-23 00:00:00,2022-04-25 04:00:00,,Tom Wilson,phone,8.0,2.0,
+TCK00600,AC063,SUB01143,technical,urgent,open,2022-01-11 00:00:00,,,John Miller,chat,,,
+TCK00601,AC038,SUB00922,account,,resolved,2023-08-26 00:00:00,2023-08-28 14:00:00,,,phone,,1.0,customer angry
+TCK00602,AC168,SUB01220,,,reopened,2022-06-24 00:00:00,2022-06-26 01:00:00,,A. Kowalska,web,,2.0,
+TCK00603,AC177,SUB00850,feature_request,,resolved ,2022-01-10 00:00:00,2022-01-10 19:00:00,2022-01-12 08:00:00,Emily Davis,email,24.0,,follow up needed
+TCK00604,AC002,SUB02003,account,urgent,reopened,2023-11-26 00:00:00,2023-11-28 10:00:00,,Emily Davis,phone,48.0,5.0,follow up needed
+TCK00605,AC028,SUB01429,account,low,resolved ,2022-11-09 00:00:00,2022-11-09 11:00:00,2022-11-13 20:00:00,John Miller,email,8.0,1.0,follow up needed
+TCK00606,AC109,SUB01121,,high,reopened,2023-08-13 00:00:00,,,,email,48.0,,billing escalation
+TCK00607,AC057,SUB02349,other,low,closed,2024-01-19 00:00:00,2024-01-21 15:00:00,2024-01-28 21:00:00,Anna Kowalska,EMAIL,8.0,,customer angry
+TCK00608,AC046,SUB01556,,,resolved ,2024-01-02 00:00:00,2024-01-04 20:00:00,2024-01-07 11:00:00,Anna Kowalska,EMAIL,48.0,2.0,billing escalation
+TCK00609,AC179,SUB01617,account,low,closed,2022-08-19 00:00:00,2022-08-20 22:00:00,2022-08-26 10:00:00,,web,8.0,3.0,customer angry
+TCK00610,AC133,SUB00600,billing,high,resolved,2022-12-13 00:00:00,2022-12-14 07:00:00,2022-12-23 09:00:00,,phone,24.0,2.0,customer angry
+TCK00611,AC119,SUB01179,,,open,2024-01-26 00:00:00,2024-01-28 02:00:00,2024-01-31 09:00:00,,EMAIL,48.0,1.0,
+TCK00612,AC013,SUB00324,billing,high,resolved ,2022-01-07 00:00:00,2022-01-08 18:00:00,2022-01-09 22:00:00,Sarah Brown,web,24.0,1.0,customer angry
+TCK00613,AC143,SUB01812,technical,urgent,open,2023-03-18 00:00:00,2023-03-18 10:00:00,2023-03-28 01:00:00,,email,8.0,,
+TCK00614,AC064,SUB01963,technical,,resolved,2022-08-20 00:00:00,2022-08-21 23:00:00,2022-08-26 13:00:00,John Miller,web,48.0,2.0,follow up needed
+TCK00615,AC032,SUB02207,,medium,open,2022-12-29 00:00:00,2022-12-29 00:00:00,2023-01-07 07:00:00,Marek Nowak,phone,4.0,2.0,
+TCK00616,AC117,SUB02303,technical,urgent,resolved ,2023-03-08 00:00:00,2023-03-08 04:00:00,,Emily Davis,email,48.0,4.0,billing escalation
+TCK00617,AC035,SUB00563,feature_request,,resolved ,2023-05-23 00:00:00,2023-05-23 16:00:00,2023-05-31 20:00:00,A. Kowalska,chat,4.0,1.0,customer angry
+TCK00618,AC119,,,medium,open,2022-05-10 00:00:00,2022-05-12 16:00:00,,Tom Wilson,web,,,customer angry
+TCK00619,AC171,SUB00981,feature_request,medium,reopened,2023-03-21 00:00:00,2023-03-22 12:00:00,2023-03-30 15:00:00,Sarah Brown,,,2.0,follow up needed
+TCK00620,AC136,SUB02176,,urgent,pending,2022-10-15 00:00:00,2022-10-16 09:00:00,2022-10-19 01:00:00,,,4.0,,billing escalation
+TCK00621,AC144,SUB00954,feature_request,low,resolved,2023-09-18 00:00:00,2023-09-18 19:00:00,2023-09-20 05:00:00,Marek Nowak,chat,48.0,1.0,billing escalation
+TCK00622,AC153,,billing,urgent,closed,2022-07-24 00:00:00,,,,phone,8.0,2.0,
+TCK00623,AC082,SUB01935,account,low,resolved,2023-03-13 00:00:00,2023-03-15 17:00:00,2023-03-16 07:00:00,Tom Wilson,phone,24.0,,
+TCK00624,AC114,,billing,low,resolved ,2022-09-10 00:00:00,2022-09-10 06:00:00,,Tom Wilson,chat,24.0,4.0,
+TCK00625,AC157,SUB00022,account,high,resolved,2023-09-14 00:00:00,2023-09-14 23:00:00,2023-09-20 05:00:00,John Miller,email,4.0,,billing escalation
+TCK00626,AC130,SUB00647,account,,reopened,2024-02-28 00:00:00,2024-02-29 18:00:00,2024-03-09 10:00:00,Tom Wilson,chat,24.0,2.0,billing escalation
+TCK00627,AC110,SUB01949,billing,medium,resolved ,2023-01-29 00:00:00,,,John Miller,email,,,follow up needed
+TCK00628,AC141,SUB00817,other,,resolved,2022-07-17 00:00:00,2022-07-17 12:00:00,,Emily Davis,,48.0,2.0,billing escalation
+TCK00629,AC115,SUB01177,other,high,reopened,2024-01-09 00:00:00,2024-01-09 16:00:00,,Tom Wilson,phone,48.0,,customer angry
+TCK00630,AC041,SUB00243,feature_request,,reopened,2023-03-23 00:00:00,,,Anna Kowalska,chat,,3.0,follow up needed
+TCK00631,AC122,SUB00367,other,low,resolved ,2022-10-24 00:00:00,,,Marek Nowak,,48.0,4.0,billing escalation
+TCK00632,AC116,SUB00952,other,urgent,reopened,2024-06-10 00:00:00,2024-06-10 09:00:00,,A. Kowalska,web,,3.0,follow up needed
+TCK00633,AC067,SUB00153,other,medium,reopened,2022-07-08 00:00:00,,,Anna Kowalska,EMAIL,48.0,5.0,billing escalation
+TCK00634,AC064,SUB00718,other,low,pending,2022-09-23 00:00:00,2022-09-24 04:00:00,2022-09-27 01:00:00,Marek Nowak,email,,2.0,
+TCK00635,AC164,SUB00721,billing,medium,pending,2022-02-10 00:00:00,2022-02-11 11:00:00,2022-02-14 09:00:00,,email,4.0,,
+TCK00636,AC071,SUB00149,other,high,resolved ,2023-10-10 00:00:00,2023-10-11 23:00:00,2023-10-19 12:00:00,Sarah Brown,web,,3.0,
+TCK00637,AC134,SUB01627,,high,pending,2022-02-28 00:00:00,2022-02-28 01:00:00,2022-03-02 10:00:00,Emily Davis,email,,,billing escalation
+TCK00638,AC125,SUB00764,,,reopened,2022-04-19 00:00:00,2022-04-21 00:00:00,2022-04-23 18:00:00,Marek Nowak,web,8.0,3.0,
+TCK00639,AC161,SUB01186,technical,urgent,resolved,2022-07-28 00:00:00,2022-07-30 02:00:00,,Sarah Brown,web,4.0,4.0,follow up needed
+TCK00640,AC062,SUB00038,feature_request,medium,resolved ,2023-04-16 00:00:00,2023-04-16 22:00:00,,Emily Davis,email,24.0,2.0,follow up needed
+TCK00641,AC071,SUB02469,billing,urgent,pending,2024-04-17 00:00:00,2024-04-18 00:00:00,,,,48.0,1.0,billing escalation
+TCK00642,AC113,,feature_request,low,open,2022-05-21 00:00:00,2022-05-21 01:00:00,2022-05-25 02:00:00,Anna Kowalska,,4.0,2.0,follow up needed
+TCK00643,AC020,SUB01166,technical,,open,2024-02-28 00:00:00,,,Anna Kowalska,email,,,
+TCK00644,AC074,SUB02226,other,urgent,pending,2024-05-23 00:00:00,2024-05-24 01:00:00,,Emily Davis,phone,48.0,2.0,follow up needed
+TCK00645,AC061,SUB00550,billing,low,open,2022-02-27 00:00:00,2022-02-28 10:00:00,2022-03-01 18:00:00,,phone,4.0,5.0,
+TCK00646,AC070,SUB01918,technical,low,pending,2022-05-26 00:00:00,,,A. Kowalska,web,8.0,3.0,
+TCK00647,AC086,SUB00462,billing,urgent,pending,2022-08-20 00:00:00,2022-08-22 01:00:00,2022-08-29 17:00:00,John Miller,chat,4.0,3.0,
+TCK00648,AC082,SUB01880,billing,low,reopened,2022-03-20 00:00:00,2022-03-20 15:00:00,2022-03-30 12:00:00,Sarah Brown,chat,48.0,5.0,
+TCK00649,AC139,SUB00763,,high,reopened,2023-09-07 00:00:00,2023-09-09 06:00:00,,Emily Davis,phone,4.0,3.0,
+TCK00650,AC021,,billing,low,pending,2023-11-09 00:00:00,2023-11-10 09:00:00,2023-11-18 00:00:00,Sarah Brown,phone,8.0,4.0,
+TCK00651,AC036,SUB01209,other,urgent,resolved ,2024-01-09 00:00:00,2024-01-11 13:00:00,2024-01-12 18:00:00,Emily Davis,chat,4.0,3.0,follow up needed
+TCK00652,AC039,SUB00792,feature_request,urgent,reopened,2022-07-06 00:00:00,2022-07-07 21:00:00,2022-07-12 10:00:00,Tom Wilson,chat,8.0,4.0,
+TCK00653,AC060,,technical,urgent,open,2023-07-17 00:00:00,2023-07-19 20:00:00,2023-07-25 14:00:00,A. Kowalska,EMAIL,,,follow up needed
+TCK00654,AC099,SUB01661,account,low,pending,2023-12-21 00:00:00,,,Anna Kowalska,phone,,4.0,follow up needed
+TCK00655,AC178,SUB02111,account,high,pending,2022-04-23 00:00:00,,,Emily Davis,web,8.0,5.0,
+TCK00656,AC040,SUB01642,technical,low,resolved ,2022-09-06 00:00:00,2022-09-07 04:00:00,,Sarah Brown,web,4.0,,
+TCK00657,AC055,SUB00757,billing,,open,2023-01-16 00:00:00,,,,EMAIL,8.0,1.0,follow up needed
+TCK00658,AC017,SUB01956,other,urgent,pending,2023-01-10 00:00:00,2023-01-11 07:00:00,,Sarah Brown,web,8.0,,billing escalation
+TCK00659,AC107,SUB01017,feature_request,low,resolved,2023-12-17 00:00:00,2023-12-19 12:00:00,2023-12-23 03:00:00,John Miller,chat,4.0,,customer angry
+TCK00660,AC105,,feature_request,urgent,resolved ,2023-09-11 00:00:00,2023-09-13 16:00:00,,,EMAIL,24.0,5.0,billing escalation
+TCK00661,AC085,SUB01830,billing,,closed,2022-11-10 00:00:00,2022-11-12 06:00:00,2022-11-15 04:00:00,Sarah Brown,,8.0,4.0,billing escalation
+TCK00662,AC139,SUB01351,other,low,resolved ,2022-02-27 00:00:00,2022-02-27 23:00:00,2022-03-05 23:00:00,,web,24.0,,
+TCK00663,AC120,SUB02347,feature_request,medium,resolved,2024-04-27 00:00:00,2024-04-27 06:00:00,2024-05-04 04:00:00,John Miller,email,4.0,3.0,billing escalation
+TCK00664,AC107,,other,low,open,2024-03-08 00:00:00,2024-03-08 03:00:00,2024-03-09 21:00:00,Marek Nowak,EMAIL,4.0,3.0,follow up needed
+TCK00665,AC016,SUB00968,other,,open,2023-07-19 00:00:00,2023-07-19 04:00:00,2023-07-20 02:00:00,,email,4.0,3.0,customer angry
+TCK00666,AC053,,account,high,closed,2022-11-13 00:00:00,,,,chat,24.0,4.0,
+TCK00667,AC108,,,,open,2022-05-13 00:00:00,2022-05-13 12:00:00,2022-05-23 02:00:00,,chat,4.0,5.0,
+TCK00668,AC100,SUB01661,,urgent,open,2023-05-04 00:00:00,2023-05-04 04:00:00,2023-05-05 19:00:00,John Miller,,8.0,2.0,follow up needed
+TCK00669,AC150,SUB01274,other,,resolved,2024-02-27 00:00:00,2024-02-29 16:00:00,2024-03-08 11:00:00,,chat,24.0,3.0,
+TCK00670,AC179,SUB01209,,urgent,pending,2023-10-01 00:00:00,2023-10-03 07:00:00,,Marek Nowak,EMAIL,,1.0,follow up needed
+TCK00671,AC006,SUB00905,billing,medium,resolved,2023-08-04 00:00:00,2023-08-06 15:00:00,,,email,48.0,1.0,
+TCK00672,AC148,SUB00548,account,,resolved,2022-11-18 00:00:00,2022-11-19 13:00:00,,Tom Wilson,email,4.0,2.0,
+TCK00673,AC098,SUB01864,,medium,open,2022-09-22 00:00:00,2022-09-23 08:00:00,2022-09-28 02:00:00,,email,24.0,3.0,
+TCK00674,AC123,SUB02482,other,high,resolved,2023-02-23 00:00:00,2023-02-23 16:00:00,2023-03-01 04:00:00,John Miller,,48.0,5.0,
+TCK00675,AC002,SUB02250,billing,medium,resolved ,2022-09-27 00:00:00,2022-09-27 05:00:00,2022-10-04 02:00:00,,email,8.0,1.0,
+TCK00676,AC091,SUB02202,feature_request,urgent,resolved ,2023-01-20 00:00:00,2023-01-22 03:00:00,2023-01-24 13:00:00,John Miller,phone,48.0,4.0,billing escalation
+TCK00677,AC077,SUB00895,billing,urgent,closed,2024-04-17 00:00:00,2024-04-17 10:00:00,,Marek Nowak,web,24.0,1.0,
+TCK00678,AC100,SUB02441,feature_request,low,resolved,2022-12-17 00:00:00,2022-12-19 14:00:00,2022-12-27 12:00:00,,email,,2.0,
+TCK00679,AC108,SUB00336,feature_request,low,resolved,2022-05-30 00:00:00,2022-05-31 16:00:00,2022-06-07 02:00:00,A. Kowalska,web,8.0,1.0,follow up needed
+TCK00680,AC138,SUB02164,,urgent,resolved,2024-06-07 00:00:00,,,Emily Davis,,8.0,1.0,follow up needed
+TCK00681,AC140,SUB00320,feature_request,urgent,reopened,2022-03-12 00:00:00,2022-03-12 10:00:00,2022-03-20 01:00:00,Marek Nowak,,24.0,2.0,customer angry
+TCK00682,AC155,SUB00460,account,medium,pending,2022-04-05 00:00:00,2022-04-07 06:00:00,2022-04-15 07:00:00,Tom Wilson,web,48.0,4.0,billing escalation
+TCK00683,AC057,,other,urgent,open,2023-12-07 00:00:00,2023-12-09 07:00:00,2023-12-16 17:00:00,,EMAIL,8.0,1.0,billing escalation
+TCK00684,AC125,SUB02071,feature_request,medium,closed,2023-09-24 00:00:00,2023-09-25 16:00:00,,Tom Wilson,email,48.0,3.0,billing escalation
+TCK00685,AC057,SUB02199,feature_request,medium,resolved ,2024-01-10 00:00:00,,,,,,1.0,customer angry
+TCK00686,AC070,,technical,,closed,2022-08-12 00:00:00,2022-08-13 00:00:00,2022-08-18 20:00:00,Marek Nowak,phone,8.0,2.0,billing escalation
+TCK00687,AC112,SUB02132,account,,open,2022-01-15 00:00:00,2022-01-16 22:00:00,,,,48.0,4.0,
+TCK00688,AC125,SUB00842,account,low,pending,2022-12-27 00:00:00,2022-12-29 21:00:00,2023-01-07 01:00:00,,web,24.0,2.0,billing escalation
+TCK00689,AC008,SUB02003,,urgent,resolved ,2023-09-02 00:00:00,2023-09-04 07:00:00,2023-09-13 08:00:00,Emily Davis,,,1.0,customer angry
+TCK00690,AC100,,feature_request,low,closed,2024-04-05 00:00:00,2024-04-05 11:00:00,2024-04-12 01:00:00,,email,48.0,5.0,billing escalation
+TCK00691,AC087,SUB00228,account,urgent,pending,2024-04-05 00:00:00,,,Marek Nowak,web,,4.0,customer angry
+TCK00692,AC172,SUB02103,feature_request,urgent,resolved ,2022-07-20 00:00:00,2022-07-20 15:00:00,2022-07-29 03:00:00,A. Kowalska,email,24.0,2.0,billing escalation
+TCK00693,AC174,SUB02310,feature_request,medium,open,2022-10-18 00:00:00,2022-10-19 09:00:00,2022-10-29 01:00:00,A. Kowalska,email,4.0,1.0,follow up needed
+TCK00694,AC104,,account,high,pending,2024-03-20 00:00:00,2024-03-22 18:00:00,2024-03-29 04:00:00,A. Kowalska,chat,,4.0,follow up needed
+TCK00695,AC043,SUB01263,feature_request,medium,resolved ,2023-09-24 00:00:00,2023-09-24 06:00:00,2023-09-30 10:00:00,A. Kowalska,,8.0,4.0,
+TCK00696,AC120,SUB01622,technical,,open,2023-06-14 00:00:00,2023-06-15 05:00:00,,A. Kowalska,,24.0,5.0,follow up needed
+TCK00697,AC033,SUB00013,billing,,pending,2022-11-27 00:00:00,2022-11-27 11:00:00,,Anna Kowalska,EMAIL,,1.0,billing escalation
+TCK00698,AC160,SUB02369,,medium,closed,2023-01-27 00:00:00,,,Tom Wilson,chat,8.0,,follow up needed
+TCK00699,AC137,,feature_request,high,resolved ,2022-11-01 00:00:00,2022-11-02 07:00:00,2022-11-10 22:00:00,Anna Kowalska,phone,4.0,2.0,customer angry
+TCK00700,AC007,SUB00262,other,low,open,2023-10-16 00:00:00,2023-10-16 13:00:00,,Sarah Brown,phone,24.0,2.0,customer angry
+TCK00701,AC101,SUB00247,feature_request,low,closed,2022-03-21 00:00:00,2022-03-22 22:00:00,2022-03-25 04:00:00,Anna Kowalska,web,4.0,4.0,customer angry
+TCK00702,AC152,SUB00283,feature_request,medium,pending,2022-08-04 00:00:00,2022-08-06 00:00:00,2022-08-12 19:00:00,Emily Davis,email,8.0,,billing escalation
+TCK00703,AC145,SUB01934,account,high,closed,2023-10-09 00:00:00,2023-10-09 04:00:00,,,email,8.0,5.0,
+TCK00704,AC170,,other,medium,pending,2022-05-05 00:00:00,2022-05-05 03:00:00,2022-05-10 16:00:00,Tom Wilson,email,8.0,1.0,
+TCK00705,AC007,SUB00555,technical,low,resolved,2022-05-22 00:00:00,2022-05-22 16:00:00,2022-05-27 20:00:00,,,24.0,4.0,
+TCK00706,AC022,SUB01722,technical,medium,resolved ,2023-03-23 00:00:00,2023-03-25 03:00:00,2023-03-27 20:00:00,Emily Davis,web,4.0,5.0,billing escalation
+TCK00707,AC165,SUB01567,feature_request,urgent,closed,2022-11-16 00:00:00,2022-11-17 02:00:00,2022-11-22 07:00:00,Emily Davis,phone,,1.0,billing escalation
+TCK00708,AC110,SUB01547,,low,closed,2023-01-28 00:00:00,2023-01-31 00:00:00,2023-02-09 14:00:00,Sarah Brown,email,,3.0,billing escalation
+TCK00709,AC035,SUB02209,billing,medium,resolved,2023-02-24 00:00:00,2023-02-26 19:00:00,2023-02-27 03:00:00,A. Kowalska,chat,24.0,2.0,customer angry
+TCK00710,AC119,,account,low,open,2022-08-09 00:00:00,2022-08-10 23:00:00,,Tom Wilson,,4.0,,
+TCK00711,AC047,SUB00486,billing,urgent,resolved,2022-08-07 00:00:00,2022-08-08 17:00:00,2022-08-14 17:00:00,Marek Nowak,EMAIL,8.0,1.0,billing escalation
+TCK00712,AC013,,feature_request,urgent,resolved,2022-10-12 00:00:00,2022-10-12 09:00:00,2022-10-19 07:00:00,Tom Wilson,chat,8.0,1.0,
+TCK00713,AC067,SUB02167,account,urgent,open,2023-05-26 00:00:00,,,John Miller,web,8.0,5.0,
+TCK00714,AC098,,other,low,closed,2023-08-29 00:00:00,2023-08-29 02:00:00,2023-09-04 23:00:00,Emily Davis,chat,48.0,1.0,billing escalation
+TCK00715,AC084,SUB00015,,low,open,2023-06-25 00:00:00,,,,email,48.0,,
+TCK00716,AC055,SUB01223,account,urgent,reopened,2022-10-09 00:00:00,2022-10-10 20:00:00,2022-10-16 19:00:00,Anna Kowalska,web,24.0,,
+TCK00717,AC117,SUB02231,billing,low,pending,2023-05-21 00:00:00,2023-05-21 15:00:00,2023-05-28 06:00:00,Anna Kowalska,email,8.0,1.0,
+TCK00718,AC084,SUB01554,technical,high,reopened,2024-06-01 00:00:00,2024-06-03 07:00:00,2024-06-04 06:00:00,Anna Kowalska,,4.0,3.0,customer angry
+TCK00719,AC087,SUB01014,account,low,resolved,2022-04-24 00:00:00,,,Tom Wilson,,,4.0,
+TCK00720,AC098,SUB00636,technical,high,pending,2023-12-17 00:00:00,2023-12-17 17:00:00,2023-12-19 00:00:00,A. Kowalska,,48.0,,customer angry
+TCK00721,AC072,SUB00463,account,urgent,pending,2023-06-19 00:00:00,2023-06-21 13:00:00,2023-06-24 13:00:00,John Miller,phone,24.0,,customer angry
+TCK00722,AC108,,technical,low,open,2022-12-28 00:00:00,2022-12-29 07:00:00,2023-01-06 04:00:00,,email,8.0,1.0,follow up needed
+TCK00723,AC065,SUB02519,technical,,reopened,2023-04-25 00:00:00,2023-04-26 00:00:00,2023-04-29 16:00:00,,phone,24.0,,
+TCK00724,AC021,SUB00065,technical,medium,resolved,2023-11-03 00:00:00,2023-11-05 16:00:00,,A. Kowalska,web,,5.0,follow up needed
+TCK00725,AC121,SUB00276,,high,reopened,2024-03-09 00:00:00,2024-03-09 08:00:00,2024-03-11 03:00:00,John Miller,chat,48.0,1.0,customer angry
+TCK00726,AC005,,feature_request,medium,resolved,2022-09-04 00:00:00,,,Anna Kowalska,web,,4.0,
+TCK00727,AC139,,feature_request,medium,pending,2022-09-29 00:00:00,2022-10-01 22:00:00,,A. Kowalska,EMAIL,48.0,5.0,
+TCK00728,AC014,SUB00200,,urgent,resolved ,2022-02-24 00:00:00,2022-02-25 23:00:00,,A. Kowalska,chat,24.0,2.0,
+TCK00729,AC090,SUB00182,feature_request,low,resolved ,2022-06-30 00:00:00,2022-07-02 19:00:00,2022-07-08 08:00:00,Anna Kowalska,,8.0,1.0,follow up needed
+TCK00730,AC058,SUB00960,billing,,resolved,2022-04-28 00:00:00,,,Marek Nowak,email,,1.0,
+TCK00731,AC167,SUB00232,technical,high,closed,2022-08-20 00:00:00,2022-08-22 03:00:00,2022-08-23 05:00:00,Marek Nowak,chat,8.0,3.0,
+TCK00732,AC018,,other,,closed,2023-12-24 00:00:00,2023-12-24 00:00:00,,Emily Davis,,8.0,2.0,
+TCK00733,AC167,SUB00960,technical,high,closed,2023-11-29 00:00:00,,,Sarah Brown,email,48.0,4.0,
+TCK00734,AC011,SUB02360,,low,reopened,2022-01-22 00:00:00,2022-01-23 09:00:00,2022-01-25 05:00:00,Tom Wilson,web,,1.0,
+TCK00735,AC008,SUB02450,billing,,resolved ,2024-06-13 00:00:00,2024-06-13 14:00:00,,Emily Davis,chat,,5.0,follow up needed
+TCK00736,AC064,SUB01314,,high,closed,2024-02-13 00:00:00,2024-02-13 12:00:00,,,,24.0,5.0,
+TCK00737,AC052,SUB00587,account,high,resolved ,2023-11-11 00:00:00,2023-11-12 22:00:00,2023-11-21 18:00:00,Tom Wilson,EMAIL,,4.0,customer angry
+TCK00738,AC006,SUB02136,feature_request,medium,resolved ,2022-10-04 00:00:00,2022-10-04 02:00:00,,Sarah Brown,phone,48.0,1.0,follow up needed
+TCK00739,AC160,SUB01231,billing,medium,closed,2023-08-15 00:00:00,2023-08-17 07:00:00,2023-08-25 06:00:00,John Miller,phone,,4.0,billing escalation
+TCK00740,AC040,SUB02281,other,urgent,resolved,2022-06-29 00:00:00,2022-06-30 20:00:00,2022-07-05 01:00:00,Emily Davis,chat,4.0,5.0,billing escalation
+TCK00741,AC062,SUB00718,other,high,resolved,2023-12-20 00:00:00,2023-12-20 15:00:00,2023-12-25 12:00:00,John Miller,email,48.0,,follow up needed
+TCK00742,AC033,SUB01750,other,medium,resolved,2023-04-23 00:00:00,2023-04-25 18:00:00,2023-05-02 10:00:00,,phone,4.0,3.0,customer angry
+TCK00743,AC122,SUB00193,account,,open,2023-04-10 00:00:00,,,Anna Kowalska,web,24.0,1.0,
+TCK00744,AC172,SUB01562,technical,high,resolved,2022-12-27 00:00:00,2022-12-27 00:00:00,,,,,2.0,customer angry
+TCK00745,AC030,SUB01306,billing,high,pending,2024-01-01 00:00:00,2024-01-02 01:00:00,2024-01-11 21:00:00,Anna Kowalska,web,24.0,2.0,
+TCK00746,AC145,SUB01673,account,,resolved,2023-03-09 00:00:00,2023-03-09 12:00:00,2023-03-19 08:00:00,Sarah Brown,EMAIL,48.0,,
+TCK00747,AC056,,other,medium,resolved,2024-04-03 00:00:00,2024-04-04 01:00:00,2024-04-08 12:00:00,Emily Davis,email,24.0,5.0,
+TCK00748,AC120,SUB02204,other,urgent,resolved ,2023-07-13 00:00:00,2023-07-15 07:00:00,,Tom Wilson,EMAIL,24.0,4.0,
+TCK00749,AC180,SUB00924,other,low,closed,2023-03-14 00:00:00,2023-03-16 04:00:00,2023-03-25 22:00:00,John Miller,chat,,3.0,follow up needed
+TCK00750,AC066,SUB00592,other,high,open,2023-08-18 00:00:00,2023-08-18 16:00:00,2023-08-28 07:00:00,A. Kowalska,chat,48.0,,customer angry
+TCK00751,AC095,SUB00237,billing,low,resolved,2023-04-19 00:00:00,2023-04-21 18:00:00,2023-04-22 08:00:00,John Miller,phone,,1.0,
+TCK00752,AC043,SUB01707,,,resolved ,2023-08-03 00:00:00,2023-08-04 18:00:00,2023-08-06 02:00:00,,,4.0,,follow up needed
+TCK00753,AC156,SUB00550,,medium,resolved,2023-06-13 00:00:00,2023-06-15 15:00:00,,Emily Davis,,4.0,4.0,billing escalation
+TCK00754,AC156,SUB01045,other,low,reopened,2023-12-06 00:00:00,2023-12-06 08:00:00,,John Miller,chat,8.0,1.0,
+TCK00755,AC030,SUB00324,billing,high,closed,2022-01-26 00:00:00,2022-01-28 08:00:00,2022-02-07 06:00:00,,chat,8.0,5.0,
+TCK00756,AC042,SUB01520,billing,urgent,pending,2024-04-21 00:00:00,2024-04-23 08:00:00,2024-04-29 22:00:00,Anna Kowalska,chat,8.0,,follow up needed
+TCK00757,AC080,,account,high,resolved ,2022-06-24 00:00:00,2022-06-26 21:00:00,2022-07-02 00:00:00,John Miller,EMAIL,48.0,3.0,
+TCK00758,AC028,SUB00781,feature_request,medium,open,2023-02-05 00:00:00,2023-02-05 13:00:00,2023-02-14 06:00:00,Emily Davis,web,4.0,5.0,
+TCK00759,AC149,,,,closed,2022-01-12 00:00:00,2022-01-12 04:00:00,2022-01-21 17:00:00,Anna Kowalska,phone,8.0,4.0,
+TCK00760,AC007,SUB02478,technical,high,reopened,2022-10-11 00:00:00,,,,chat,24.0,,billing escalation
+TCK00761,AC080,SUB00299,,,resolved,2023-02-04 00:00:00,2023-02-04 22:00:00,2023-02-08 17:00:00,,,8.0,3.0,
+TCK00762,AC148,,,urgent,closed,2023-02-08 00:00:00,,,,EMAIL,8.0,5.0,billing escalation
+TCK00763,AC174,SUB02290,account,,reopened,2024-03-05 00:00:00,2024-03-06 09:00:00,,Tom Wilson,EMAIL,,4.0,customer angry
+TCK00764,AC097,SUB00856,,medium,pending,2022-02-16 00:00:00,,,John Miller,,4.0,4.0,
+TCK00765,AC102,SUB01364,technical,urgent,closed,2022-11-28 00:00:00,2022-11-29 06:00:00,,John Miller,email,,3.0,customer angry
+TCK00766,AC051,SUB00063,other,low,pending,2022-02-08 00:00:00,2022-02-08 09:00:00,2022-02-12 09:00:00,Tom Wilson,email,48.0,4.0,follow up needed
+TCK00767,AC020,SUB00779,feature_request,urgent,resolved ,2023-10-15 00:00:00,2023-10-16 01:00:00,,Emily Davis,chat,8.0,,follow up needed
+TCK00768,AC152,SUB00481,billing,low,pending,2023-03-21 00:00:00,2023-03-22 00:00:00,,Anna Kowalska,chat,4.0,3.0,
+TCK00769,AC177,SUB01962,,,closed,2023-08-05 00:00:00,2023-08-05 09:00:00,2023-08-12 16:00:00,Marek Nowak,chat,,4.0,billing escalation
+TCK00770,AC161,SUB02476,billing,urgent,closed,2022-12-27 00:00:00,2022-12-29 23:00:00,2023-01-07 13:00:00,A. Kowalska,email,,1.0,follow up needed
+TCK00771,AC063,SUB01625,technical,low,reopened,2024-03-12 00:00:00,2024-03-12 12:00:00,,,phone,4.0,2.0,
+TCK00772,AC027,SUB02262,technical,high,open,2024-04-28 00:00:00,2024-04-29 21:00:00,,,EMAIL,8.0,5.0,billing escalation
+TCK00773,AC179,SUB01160,billing,,closed,2023-05-28 00:00:00,2023-05-28 07:00:00,2023-06-06 20:00:00,Emily Davis,,4.0,1.0,
+TCK00774,AC078,SUB02186,technical,medium,reopened,2023-03-08 00:00:00,2023-03-09 18:00:00,2023-03-10 10:00:00,Tom Wilson,,4.0,2.0,
+TCK00775,AC176,SUB01264,billing,high,open,2022-03-16 00:00:00,2022-03-19 00:00:00,2022-03-26 12:00:00,A. Kowalska,EMAIL,,1.0,billing escalation
+TCK00776,AC154,SUB02101,billing,urgent,reopened,2023-05-06 00:00:00,2023-05-07 10:00:00,2023-05-08 13:00:00,Marek Nowak,,24.0,4.0,
+TCK00777,AC031,SUB01909,billing,low,pending,2022-11-07 00:00:00,2022-11-08 05:00:00,,,EMAIL,48.0,,customer angry
+TCK00778,AC145,,technical,urgent,resolved ,2023-07-20 00:00:00,2023-07-22 01:00:00,2023-07-29 12:00:00,A. Kowalska,EMAIL,8.0,1.0,
+TCK00779,AC011,SUB01924,feature_request,low,pending,2022-05-01 00:00:00,2022-05-02 23:00:00,2022-05-06 15:00:00,Marek Nowak,email,,1.0,follow up needed
+TCK00780,AC089,SUB01312,billing,medium,open,2023-02-27 00:00:00,2023-03-01 20:00:00,2023-03-10 10:00:00,John Miller,email,8.0,4.0,follow up needed
+TCK00781,AC137,SUB01519,account,,resolved ,2022-10-17 00:00:00,,,Marek Nowak,phone,8.0,5.0,
+TCK00782,AC110,SUB00188,other,medium,closed,2023-05-06 00:00:00,2023-05-06 09:00:00,,Tom Wilson,chat,48.0,,
+TCK00783,AC170,SUB00907,other,high,resolved,2023-01-11 00:00:00,2023-01-12 13:00:00,2023-01-15 04:00:00,,EMAIL,4.0,1.0,
+TCK00784,AC095,SUB00067,technical,,pending,2023-02-25 00:00:00,2023-02-27 14:00:00,2023-03-01 19:00:00,Emily Davis,,,2.0,customer angry
+TCK00785,AC018,SUB02393,technical,urgent,resolved ,2023-01-17 00:00:00,2023-01-17 18:00:00,,,email,4.0,4.0,customer angry
+TCK00786,AC130,SUB01711,billing,high,reopened,2022-10-04 00:00:00,2022-10-06 01:00:00,2022-10-06 23:00:00,A. Kowalska,web,4.0,4.0,
+TCK00787,AC166,SUB00804,technical,urgent,pending,2023-03-31 00:00:00,,,A. Kowalska,EMAIL,4.0,,
+TCK00788,AC088,SUB01556,other,high,resolved,2022-02-02 00:00:00,2022-02-03 20:00:00,2022-02-13 13:00:00,Marek Nowak,email,24.0,,billing escalation
+TCK00789,AC004,SUB01007,feature_request,high,reopened,2023-03-21 00:00:00,2023-03-21 07:00:00,2023-03-27 05:00:00,,web,,,billing escalation
+TCK00790,AC108,SUB01383,,medium,pending,2024-02-27 00:00:00,2024-02-27 20:00:00,2024-03-03 20:00:00,Anna Kowalska,phone,24.0,1.0,follow up needed
+TCK00791,AC126,SUB02002,other,high,resolved,2024-02-29 00:00:00,2024-03-01 19:00:00,2024-03-02 05:00:00,Emily Davis,,24.0,,billing escalation
+TCK00792,AC028,SUB02010,account,medium,closed,2022-01-13 00:00:00,2022-01-16 00:00:00,2022-01-24 23:00:00,,email,48.0,1.0,
+TCK00793,AC111,SUB01443,technical,urgent,open,2022-02-07 00:00:00,2022-02-09 13:00:00,2022-02-15 12:00:00,John Miller,phone,,5.0,
+TCK00794,AC093,,account,urgent,pending,2022-03-07 00:00:00,2022-03-08 09:00:00,2022-03-11 08:00:00,Marek Nowak,,8.0,2.0,billing escalation
+TCK00795,AC163,SUB02001,billing,low,pending,2023-11-03 00:00:00,,,,web,,3.0,customer angry
+TCK00796,AC118,,account,low,resolved ,2023-07-21 00:00:00,2023-07-21 07:00:00,2023-07-24 02:00:00,Tom Wilson,EMAIL,4.0,5.0,follow up needed
+TCK00797,AC040,SUB00241,billing,medium,pending,2022-12-25 00:00:00,2022-12-27 16:00:00,2023-01-02 03:00:00,Tom Wilson,EMAIL,24.0,,
+TCK00798,AC112,SUB00305,account,,resolved,2022-03-15 00:00:00,2022-03-16 12:00:00,,Tom Wilson,web,24.0,4.0,
+TCK00799,AC046,SUB00199,account,low,resolved,2023-09-29 00:00:00,,,Sarah Brown,EMAIL,4.0,1.0,billing escalation
+TCK00800,AC134,SUB01690,other,,resolved ,2022-08-05 00:00:00,2022-08-07 17:00:00,2022-08-15 15:00:00,Tom Wilson,chat,48.0,5.0,customer angry
+TCK00801,AC167,,billing,low,pending,2023-11-04 00:00:00,2023-11-06 00:00:00,2023-11-12 23:00:00,,EMAIL,,,
+TCK00802,AC070,SUB00279,feature_request,,reopened,2023-07-06 00:00:00,2023-07-08 19:00:00,2023-07-15 07:00:00,,phone,24.0,2.0,billing escalation
+TCK00803,AC158,SUB00038,account,medium,closed,2022-10-28 00:00:00,2022-10-29 18:00:00,2022-11-06 23:00:00,Tom Wilson,,4.0,,follow up needed
+TCK00804,AC138,SUB01868,other,,open,2023-04-01 00:00:00,2023-04-03 04:00:00,2023-04-06 23:00:00,Tom Wilson,,48.0,5.0,follow up needed
+TCK00805,AC124,SUB02531,technical,,pending,2023-04-05 00:00:00,2023-04-06 05:00:00,2023-04-15 01:00:00,A. Kowalska,,,,follow up needed
+TCK00806,AC120,SUB02526,billing,urgent,closed,2023-09-13 00:00:00,2023-09-14 12:00:00,2023-09-15 19:00:00,,chat,,4.0,follow up needed
+TCK00807,AC112,SUB01999,feature_request,high,reopened,2022-07-04 00:00:00,2022-07-04 01:00:00,,,,4.0,2.0,customer angry
+TCK00808,AC152,,other,,closed,2024-05-03 00:00:00,2024-05-03 21:00:00,2024-05-05 07:00:00,A. Kowalska,phone,8.0,4.0,billing escalation
+TCK00809,AC069,SUB01685,account,,reopened,2022-09-05 00:00:00,2022-09-05 15:00:00,2022-09-14 11:00:00,John Miller,,4.0,1.0,
+TCK00810,AC083,,account,urgent,resolved ,2023-04-05 00:00:00,2023-04-07 09:00:00,2023-04-12 01:00:00,Sarah Brown,,8.0,,billing escalation
+TCK00811,AC063,SUB01126,billing,,reopened,2024-04-19 00:00:00,2024-04-19 10:00:00,,Tom Wilson,,48.0,4.0,
+TCK00812,AC023,SUB01175,technical,high,closed,2023-03-26 00:00:00,2023-03-27 11:00:00,2023-03-28 12:00:00,Tom Wilson,email,,5.0,billing escalation
+TCK00813,AC072,,account,medium,pending,2023-08-17 00:00:00,2023-08-19 06:00:00,2023-08-23 09:00:00,Anna Kowalska,,8.0,4.0,billing escalation
+TCK00814,AC116,SUB01764,account,medium,open,2022-10-12 00:00:00,2022-10-13 16:00:00,,Emily Davis,phone,48.0,4.0,follow up needed
+TCK00815,AC063,SUB00735,billing,medium,resolved ,2022-06-23 00:00:00,2022-06-24 09:00:00,2022-07-02 10:00:00,Emily Davis,chat,4.0,2.0,billing escalation
+TCK00816,AC119,,billing,,reopened,2024-05-08 00:00:00,2024-05-08 21:00:00,,Marek Nowak,email,48.0,1.0,
+TCK00817,AC146,,technical,urgent,resolved,2022-07-28 00:00:00,2022-07-30 06:00:00,2022-08-04 20:00:00,John Miller,,4.0,4.0,
+TCK00818,AC157,,,low,resolved,2023-05-21 00:00:00,2023-05-21 17:00:00,2023-05-29 13:00:00,John Miller,,8.0,,customer angry
+TCK00819,AC172,,,,resolved ,2022-12-01 00:00:00,2022-12-02 18:00:00,2022-12-09 12:00:00,John Miller,,24.0,1.0,
+TCK00820,AC098,SUB01452,other,low,resolved ,2022-04-13 00:00:00,2022-04-15 18:00:00,2022-04-24 18:00:00,Anna Kowalska,chat,8.0,5.0,
+TCK00821,AC087,SUB01626,feature_request,medium,resolved ,2024-06-12 00:00:00,2024-06-13 01:00:00,2024-06-14 16:00:00,,phone,8.0,2.0,customer angry
+TCK00822,AC008,,billing,urgent,reopened,2023-06-13 00:00:00,2023-06-14 03:00:00,,Marek Nowak,,8.0,1.0,
+TCK00823,AC127,SUB01881,,high,closed,2023-12-06 00:00:00,2023-12-08 00:00:00,2023-12-10 13:00:00,,,8.0,3.0,follow up needed
+TCK00824,AC084,SUB00926,feature_request,,resolved,2024-06-15 00:00:00,2024-06-17 14:00:00,2024-06-24 08:00:00,,web,24.0,1.0,follow up needed
+TCK00825,AC047,SUB00331,account,medium,resolved ,2022-04-26 00:00:00,2022-04-27 12:00:00,2022-05-02 07:00:00,A. Kowalska,email,8.0,4.0,
+TCK00826,AC125,SUB00130,feature_request,urgent,reopened,2023-11-08 00:00:00,2023-11-10 02:00:00,2023-11-18 09:00:00,A. Kowalska,,8.0,1.0,
+TCK00827,AC055,,account,high,resolved ,2022-10-02 00:00:00,2022-10-04 04:00:00,,Tom Wilson,web,48.0,4.0,
+TCK00828,AC091,SUB02264,technical,high,resolved ,2023-02-13 00:00:00,2023-02-13 06:00:00,2023-02-21 01:00:00,Anna Kowalska,phone,48.0,4.0,follow up needed
+TCK00829,AC067,SUB00039,billing,,reopened,2023-08-10 00:00:00,2023-08-12 20:00:00,2023-08-19 13:00:00,Tom Wilson,chat,,5.0,customer angry
+TCK00830,AC088,SUB00339,feature_request,low,resolved ,2024-01-10 00:00:00,,,Tom Wilson,phone,,1.0,customer angry
+TCK00831,AC072,SUB01778,technical,,closed,2023-06-16 00:00:00,2023-06-18 20:00:00,,Marek Nowak,phone,8.0,3.0,
+TCK00832,AC153,SUB01357,billing,,open,2023-02-28 00:00:00,2023-03-01 07:00:00,2023-03-01 17:00:00,,web,48.0,1.0,follow up needed
+TCK00833,AC180,SUB00391,technical,low,resolved,2022-10-17 00:00:00,2022-10-18 05:00:00,2022-10-25 14:00:00,John Miller,web,48.0,2.0,
+TCK00834,AC071,SUB00175,billing,,resolved ,2024-06-01 00:00:00,,,A. Kowalska,email,4.0,,billing escalation
+TCK00835,AC143,SUB02322,feature_request,medium,reopened,2023-09-12 00:00:00,2023-09-12 12:00:00,2023-09-20 23:00:00,Emily Davis,phone,48.0,5.0,customer angry
+TCK00836,AC003,SUB00191,,,closed,2022-11-06 00:00:00,2022-11-07 01:00:00,,A. Kowalska,phone,48.0,1.0,follow up needed
+TCK00837,AC133,SUB01149,other,,pending,2023-02-21 00:00:00,2023-02-23 13:00:00,2023-03-03 01:00:00,A. Kowalska,email,48.0,,
+TCK00838,AC049,SUB02309,billing,urgent,pending,2023-01-17 00:00:00,2023-01-17 13:00:00,2023-01-23 17:00:00,,phone,48.0,5.0,customer angry
+TCK00839,AC022,SUB00735,billing,,pending,2023-10-21 00:00:00,2023-10-21 18:00:00,2023-10-22 16:00:00,Marek Nowak,web,,2.0,customer angry
+TCK00840,AC062,SUB01289,other,medium,open,2022-05-25 00:00:00,2022-05-27 12:00:00,2022-06-05 11:00:00,,phone,48.0,3.0,
+TCK00841,AC105,,feature_request,low,resolved,2024-05-04 00:00:00,2024-05-05 17:00:00,2024-05-12 03:00:00,Marek Nowak,EMAIL,48.0,5.0,
+TCK00842,AC126,SUB00591,feature_request,,reopened,2022-11-17 00:00:00,2022-11-18 06:00:00,2022-11-25 20:00:00,John Miller,email,48.0,,customer angry
+TCK00843,AC143,SUB01632,,low,pending,2023-01-20 00:00:00,2023-01-20 01:00:00,,Marek Nowak,web,4.0,1.0,
+TCK00844,AC062,SUB01226,other,urgent,closed,2023-05-23 00:00:00,2023-05-25 19:00:00,2023-06-02 19:00:00,Anna Kowalska,phone,4.0,4.0,
+TCK00845,AC177,,account,,resolved ,2024-01-08 00:00:00,2024-01-09 10:00:00,2024-01-16 00:00:00,Sarah Brown,chat,24.0,5.0,follow up needed
+TCK00846,AC122,SUB01594,feature_request,urgent,pending,2024-04-02 00:00:00,2024-04-03 23:00:00,2024-04-06 16:00:00,Tom Wilson,,8.0,2.0,billing escalation
+TCK00847,AC166,SUB02215,technical,urgent,open,2024-01-03 00:00:00,2024-01-03 01:00:00,2024-01-04 23:00:00,Anna Kowalska,phone,8.0,2.0,customer angry
+TCK00848,AC126,SUB00574,feature_request,,pending,2023-07-05 00:00:00,2023-07-05 12:00:00,,John Miller,phone,,2.0,
+TCK00849,AC115,SUB00322,technical,high,resolved,2023-10-06 00:00:00,,,A. Kowalska,EMAIL,24.0,3.0,billing escalation
+TCK00850,AC005,SUB01417,,medium,open,2024-02-25 00:00:00,2024-02-26 08:00:00,2024-03-04 05:00:00,Sarah Brown,email,8.0,3.0,follow up needed
+TCK00851,AC024,,,urgent,resolved,2022-09-27 00:00:00,2022-09-27 16:00:00,2022-10-03 23:00:00,Emily Davis,,,,
+TCK00852,AC076,SUB00312,other,medium,pending,2022-08-03 00:00:00,2022-08-04 05:00:00,2022-08-05 05:00:00,Sarah Brown,web,4.0,3.0,customer angry
+TCK00853,AC057,SUB02515,account,high,reopened,2022-02-23 00:00:00,2022-02-25 08:00:00,2022-03-02 09:00:00,John Miller,chat,,4.0,
+TCK00854,AC104,SUB01625,other,high,reopened,2024-03-03 00:00:00,2024-03-05 12:00:00,2024-03-14 11:00:00,John Miller,EMAIL,8.0,2.0,
+TCK00855,AC178,SUB01337,,high,resolved ,2023-12-30 00:00:00,2024-01-01 07:00:00,2024-01-06 13:00:00,John Miller,EMAIL,48.0,,
+TCK00856,AC063,,account,urgent,resolved ,2022-07-02 00:00:00,,,Tom Wilson,,48.0,2.0,billing escalation
+TCK00857,AC079,SUB01846,,low,pending,2023-07-28 00:00:00,2023-07-29 00:00:00,2023-07-30 22:00:00,,phone,,2.0,customer angry
+TCK00858,AC170,SUB01458,account,,open,2023-08-24 00:00:00,2023-08-24 12:00:00,2023-09-03 07:00:00,Emily Davis,email,24.0,,
+TCK00859,AC149,SUB01538,,high,resolved,2023-02-12 00:00:00,,,Anna Kowalska,EMAIL,4.0,,
+TCK00860,AC095,SUB02400,,,open,2023-09-15 00:00:00,2023-09-17 14:00:00,,Anna Kowalska,phone,4.0,5.0,follow up needed
+TCK00861,AC122,SUB00352,billing,low,closed,2023-12-24 00:00:00,2023-12-24 16:00:00,,Anna Kowalska,phone,4.0,5.0,
+TCK00862,AC142,SUB01210,account,medium,reopened,2024-05-23 00:00:00,2024-05-23 02:00:00,2024-05-30 07:00:00,Tom Wilson,EMAIL,4.0,,
+TCK00863,AC136,SUB00302,other,medium,resolved ,2023-03-03 00:00:00,2023-03-03 07:00:00,,Emily Davis,email,8.0,4.0,customer angry
+TCK00864,AC089,,,low,resolved,2022-10-10 00:00:00,2022-10-12 16:00:00,2022-10-19 11:00:00,Emily Davis,EMAIL,24.0,1.0,
+TCK00865,AC109,,billing,low,open,2023-04-23 00:00:00,2023-04-23 11:00:00,2023-04-28 10:00:00,Sarah Brown,,4.0,2.0,
+TCK00866,AC141,SUB02597,billing,medium,resolved ,2023-08-29 00:00:00,2023-08-29 02:00:00,2023-09-06 12:00:00,Tom Wilson,web,4.0,,follow up needed
+TCK00867,AC085,,technical,high,open,2022-11-12 00:00:00,2022-11-13 00:00:00,2022-11-20 21:00:00,A. Kowalska,,24.0,2.0,
+TCK00868,AC091,SUB01478,account,medium,pending,2022-05-24 00:00:00,2022-05-26 04:00:00,2022-05-28 05:00:00,Emily Davis,phone,48.0,3.0,customer angry
+TCK00869,AC180,,other,urgent,resolved ,2023-05-17 00:00:00,2023-05-18 22:00:00,2023-05-25 19:00:00,Sarah Brown,email,,4.0,follow up needed
+TCK00870,AC117,,,high,pending,2023-07-05 00:00:00,2023-07-07 07:00:00,2023-07-15 23:00:00,Tom Wilson,,,5.0,
+TCK00871,AC070,SUB01475,account,low,open,2022-04-03 00:00:00,2022-04-04 02:00:00,2022-04-09 02:00:00,,,8.0,4.0,follow up needed
+TCK00872,AC079,SUB00419,other,low,resolved,2023-04-24 00:00:00,2023-04-25 23:00:00,2023-05-03 00:00:00,John Miller,,24.0,1.0,follow up needed
+TCK00873,AC065,,technical,high,resolved,2023-03-08 00:00:00,2023-03-09 19:00:00,2023-03-10 21:00:00,Sarah Brown,web,,2.0,customer angry
+TCK00874,AC060,,feature_request,urgent,closed,2023-03-26 00:00:00,2023-03-28 10:00:00,2023-04-04 20:00:00,Marek Nowak,phone,24.0,5.0,
+TCK00875,AC031,SUB02273,technical,,open,2023-05-10 00:00:00,2023-05-11 14:00:00,,A. Kowalska,web,24.0,5.0,
+TCK00876,AC050,SUB00424,other,medium,resolved,2023-08-31 00:00:00,,,,chat,,2.0,follow up needed
+TCK00877,AC081,,technical,high,closed,2023-11-11 00:00:00,2023-11-11 06:00:00,2023-11-14 14:00:00,A. Kowalska,chat,48.0,1.0,follow up needed
+TCK00878,AC031,SUB00382,technical,medium,closed,2022-07-25 00:00:00,2022-07-26 14:00:00,2022-07-28 14:00:00,John Miller,,8.0,2.0,billing escalation
+TCK00879,AC138,SUB01329,billing,urgent,reopened,2024-05-15 00:00:00,2024-05-15 00:00:00,2024-05-18 17:00:00,A. Kowalska,,8.0,4.0,
+TCK00880,AC177,SUB00051,feature_request,medium,resolved,2024-05-01 00:00:00,2024-05-02 07:00:00,2024-05-03 08:00:00,Sarah Brown,web,24.0,3.0,
+TCK00881,AC048,SUB01589,,,open,2023-09-04 00:00:00,2023-09-04 09:00:00,2023-09-11 13:00:00,Marek Nowak,EMAIL,8.0,2.0,
+TCK00882,AC050,SUB02292,feature_request,low,resolved ,2023-01-06 00:00:00,2023-01-06 00:00:00,2023-01-14 01:00:00,Marek Nowak,chat,48.0,2.0,customer angry
+TCK00883,AC056,SUB00995,technical,urgent,pending,2022-08-05 00:00:00,2022-08-05 11:00:00,2022-08-12 11:00:00,Emily Davis,phone,48.0,,
+TCK00884,AC124,SUB00695,feature_request,,open,2022-02-05 00:00:00,2022-02-07 05:00:00,,,email,24.0,,customer angry
+TCK00885,AC071,SUB00695,technical,,reopened,2023-11-03 00:00:00,2023-11-03 01:00:00,,A. Kowalska,,48.0,1.0,
+TCK00886,AC151,,account,urgent,resolved,2023-11-01 00:00:00,2023-11-03 03:00:00,2023-11-03 17:00:00,John Miller,EMAIL,48.0,5.0,
+TCK00887,AC135,SUB02020,billing,medium,closed,2024-03-10 00:00:00,2024-03-11 18:00:00,2024-03-15 16:00:00,,web,4.0,2.0,customer angry
+TCK00888,AC153,,other,urgent,closed,2022-12-12 00:00:00,2022-12-13 09:00:00,,Anna Kowalska,web,24.0,1.0,customer angry
+TCK00889,AC073,,other,high,resolved,2024-06-07 00:00:00,2024-06-08 22:00:00,,A. Kowalska,phone,24.0,1.0,billing escalation
+TCK00890,AC026,SUB01228,account,high,resolved ,2022-10-01 00:00:00,2022-10-02 21:00:00,2022-10-07 16:00:00,Anna Kowalska,EMAIL,4.0,3.0,customer angry
+TCK00891,AC050,SUB00316,other,low,pending,2023-06-29 00:00:00,2023-06-30 07:00:00,,Sarah Brown,,48.0,4.0,
+TCK00892,AC076,SUB01011,,,reopened,2022-12-20 00:00:00,2022-12-21 07:00:00,2022-12-30 23:00:00,,email,4.0,3.0,
+TCK00893,AC059,SUB02031,billing,high,resolved ,2022-02-09 00:00:00,2022-02-09 12:00:00,2022-02-17 06:00:00,Emily Davis,web,48.0,1.0,follow up needed
+TCK00894,AC093,SUB00801,billing,medium,reopened,2024-02-04 00:00:00,2024-02-04 10:00:00,2024-02-09 01:00:00,Emily Davis,phone,,5.0,billing escalation
+TCK00895,AC046,SUB00555,technical,urgent,resolved,2024-05-24 00:00:00,2024-05-24 06:00:00,2024-05-29 08:00:00,Sarah Brown,phone,,,customer angry
+TCK00896,AC078,SUB01621,billing,urgent,pending,2023-09-12 00:00:00,2023-09-12 23:00:00,2023-09-15 21:00:00,Anna Kowalska,web,8.0,3.0,
+TCK00897,AC004,SUB02541,technical,low,resolved ,2023-04-19 00:00:00,2023-04-20 16:00:00,,Tom Wilson,chat,4.0,5.0,
+TCK00898,AC137,SUB01350,other,high,reopened,2024-01-16 00:00:00,2024-01-18 10:00:00,2024-01-25 05:00:00,A. Kowalska,web,,1.0,
+TCK00899,AC033,SUB01764,,urgent,pending,2022-12-15 00:00:00,2022-12-17 08:00:00,,,,8.0,,
+TCK00900,AC071,SUB02435,account,low,pending,2022-09-19 00:00:00,2022-09-19 10:00:00,2022-09-25 10:00:00,,phone,24.0,3.0,
+TCK00901,AC012,,other,medium,reopened,2023-04-08 00:00:00,2023-04-08 03:00:00,,Tom Wilson,EMAIL,48.0,4.0,customer angry
+TCK00902,AC014,SUB00823,feature_request,,pending,2024-02-09 00:00:00,2024-02-11 23:00:00,2024-02-14 12:00:00,A. Kowalska,EMAIL,4.0,1.0,
+TCK00903,AC142,SUB00728,technical,urgent,reopened,2022-08-12 00:00:00,2022-08-12 14:00:00,2022-08-14 12:00:00,A. Kowalska,phone,8.0,4.0,billing escalation
+TCK00904,AC075,SUB01308,,high,reopened,2022-10-13 00:00:00,2022-10-14 22:00:00,2022-10-22 01:00:00,,EMAIL,48.0,2.0,
+TCK00905,AC179,SUB02593,technical,medium,closed,2023-05-22 00:00:00,2023-05-23 12:00:00,2023-05-28 08:00:00,Emily Davis,email,,3.0,
+TCK00906,AC033,SUB02359,feature_request,urgent,closed,2023-11-03 00:00:00,2023-11-03 12:00:00,2023-11-10 12:00:00,Marek Nowak,,4.0,5.0,follow up needed
+TCK00907,AC164,SUB01335,other,urgent,open,2022-05-22 00:00:00,2022-05-24 16:00:00,2022-05-31 02:00:00,Tom Wilson,EMAIL,8.0,2.0,billing escalation
+TCK00908,AC126,SUB01610,,,resolved ,2023-10-03 00:00:00,2023-10-03 11:00:00,2023-10-03 17:00:00,A. Kowalska,EMAIL,,2.0,follow up needed
+TCK00909,AC027,SUB02310,,medium,resolved,2023-04-14 00:00:00,2023-04-15 06:00:00,,Sarah Brown,phone,4.0,1.0,follow up needed
+TCK00910,AC004,,technical,medium,closed,2023-08-15 00:00:00,2023-08-16 07:00:00,2023-08-21 01:00:00,,,4.0,5.0,
+TCK00911,AC147,SUB00737,billing,low,resolved ,2024-06-12 00:00:00,2024-06-12 20:00:00,2024-06-20 13:00:00,Anna Kowalska,,48.0,5.0,
+TCK00912,AC073,SUB02254,,,open,2024-06-01 00:00:00,2024-06-03 05:00:00,2024-06-12 16:00:00,,,4.0,4.0,
+TCK00913,AC121,,,low,resolved,2024-04-27 00:00:00,2024-04-28 13:00:00,2024-05-07 10:00:00,A. Kowalska,,,,
+TCK00914,AC123,SUB00859,account,,open,2023-03-15 00:00:00,2023-03-15 13:00:00,,Sarah Brown,phone,48.0,,
+TCK00915,AC113,SUB01194,account,low,closed,2022-05-26 00:00:00,2022-05-28 13:00:00,2022-05-29 14:00:00,,chat,24.0,3.0,
+TCK00916,AC088,SUB00284,account,,open,2023-12-07 00:00:00,2023-12-09 09:00:00,2023-12-15 11:00:00,Sarah Brown,chat,,3.0,customer angry
+TCK00917,AC048,SUB01676,account,medium,reopened,2022-08-15 00:00:00,2022-08-18 00:00:00,2022-08-21 03:00:00,Emily Davis,web,48.0,,
+TCK00918,AC014,SUB00571,account,urgent,resolved,2022-06-08 00:00:00,2022-06-08 16:00:00,,Marek Nowak,email,8.0,5.0,
+TCK00919,AC065,SUB00992,,,closed,2022-06-01 00:00:00,2022-06-02 09:00:00,2022-06-07 20:00:00,,EMAIL,8.0,3.0,follow up needed
+TCK00920,AC123,SUB00632,feature_request,medium,reopened,2023-08-25 00:00:00,2023-08-26 16:00:00,2023-08-30 17:00:00,,chat,48.0,4.0,customer angry
+TCK00921,AC030,SUB01545,technical,medium,resolved,2023-11-16 00:00:00,2023-11-17 19:00:00,2023-11-20 00:00:00,John Miller,,8.0,3.0,
+TCK00922,AC017,,other,medium,resolved ,2023-04-16 00:00:00,2023-04-16 01:00:00,2023-04-25 02:00:00,Marek Nowak,phone,4.0,4.0,customer angry
+TCK00923,AC103,SUB01963,,,open,2022-12-04 00:00:00,2022-12-05 10:00:00,2022-12-11 03:00:00,Anna Kowalska,web,,5.0,follow up needed
+TCK00924,AC126,SUB02189,technical,medium,resolved ,2022-09-08 00:00:00,2022-09-08 23:00:00,2022-09-15 22:00:00,,chat,4.0,5.0,
+TCK00925,AC019,SUB01714,billing,medium,reopened,2023-07-20 00:00:00,2023-07-21 00:00:00,2023-07-30 19:00:00,Emily Davis,email,8.0,2.0,follow up needed
+TCK00926,AC148,SUB01473,billing,high,resolved ,2023-08-23 00:00:00,2023-08-25 13:00:00,2023-08-31 07:00:00,John Miller,chat,48.0,1.0,
+TCK00927,AC162,SUB02200,other,urgent,resolved,2022-03-27 00:00:00,2022-03-27 12:00:00,2022-03-29 20:00:00,Anna Kowalska,EMAIL,48.0,1.0,
+TCK00928,AC176,SUB00349,feature_request,,resolved,2024-03-07 00:00:00,2024-03-09 10:00:00,2024-03-12 03:00:00,,,8.0,3.0,billing escalation
+TCK00929,AC014,,technical,high,resolved,2023-05-10 00:00:00,2023-05-11 14:00:00,2023-05-17 07:00:00,,EMAIL,24.0,,
+TCK00930,AC039,SUB01455,other,urgent,closed,2022-04-25 00:00:00,2022-04-25 23:00:00,2022-04-29 09:00:00,Sarah Brown,chat,4.0,4.0,
+TCK00931,AC039,,other,medium,pending,2022-04-07 00:00:00,2022-04-09 08:00:00,2022-04-16 16:00:00,John Miller,chat,8.0,3.0,billing escalation
+TCK00932,AC145,SUB02307,account,,pending,2022-11-09 00:00:00,2022-11-11 19:00:00,2022-11-19 03:00:00,Sarah Brown,phone,8.0,2.0,
+TCK00933,AC078,SUB01637,account,,closed,2024-03-15 00:00:00,2024-03-15 20:00:00,2024-03-17 13:00:00,A. Kowalska,,24.0,2.0,
+TCK00934,AC022,SUB01359,account,high,resolved ,2023-04-29 00:00:00,2023-04-30 14:00:00,2023-05-03 21:00:00,Tom Wilson,web,24.0,4.0,billing escalation
+TCK00935,AC064,SUB01764,billing,urgent,resolved,2023-02-07 00:00:00,2023-02-07 00:00:00,2023-02-11 08:00:00,Sarah Brown,web,24.0,1.0,follow up needed
+TCK00936,AC031,,billing,high,closed,2022-08-02 00:00:00,2022-08-03 08:00:00,2022-08-07 08:00:00,A. Kowalska,phone,,5.0,follow up needed
+TCK00937,AC143,,billing,low,pending,2024-03-27 00:00:00,2024-03-29 16:00:00,2024-04-01 15:00:00,Sarah Brown,phone,48.0,,billing escalation
+TCK00938,AC107,SUB02125,,urgent,pending,2023-04-27 00:00:00,2023-04-27 05:00:00,2023-05-01 09:00:00,Emily Davis,EMAIL,,4.0,customer angry
+TCK00939,AC156,SUB02357,account,high,reopened,2022-04-14 00:00:00,,,Tom Wilson,web,24.0,1.0,
+TCK00940,AC153,SUB01533,,urgent,pending,2022-05-18 00:00:00,2022-05-18 09:00:00,2022-05-26 16:00:00,Sarah Brown,EMAIL,24.0,5.0,follow up needed
+TCK00941,AC159,SUB02411,technical,high,reopened,2023-07-30 00:00:00,,,,,24.0,5.0,billing escalation
+TCK00942,AC058,SUB00618,billing,high,resolved,2024-04-16 00:00:00,2024-04-16 02:00:00,,,,8.0,2.0,
+TCK00943,AC134,SUB00101,,high,resolved,2023-04-25 00:00:00,2023-04-26 22:00:00,2023-05-04 04:00:00,Anna Kowalska,chat,4.0,,
+TCK00944,AC098,SUB01211,other,low,reopened,2023-03-14 00:00:00,2023-03-16 14:00:00,2023-03-25 11:00:00,Tom Wilson,email,,4.0,customer angry
+TCK00945,AC116,SUB00352,account,,resolved,2023-06-01 00:00:00,2023-06-02 17:00:00,2023-06-07 23:00:00,John Miller,,4.0,5.0,customer angry
+TCK00946,AC114,,other,low,reopened,2023-07-26 00:00:00,2023-07-28 20:00:00,,,EMAIL,8.0,1.0,
+TCK00947,AC077,SUB00581,technical,high,open,2024-04-17 00:00:00,2024-04-19 09:00:00,2024-04-27 07:00:00,Sarah Brown,,,3.0,
+TCK00948,AC151,SUB01406,other,high,open,2023-06-25 00:00:00,2023-06-27 07:00:00,2023-07-01 14:00:00,A. Kowalska,email,4.0,2.0,
+TCK00949,AC110,SUB00848,account,,closed,2023-03-14 00:00:00,2023-03-15 04:00:00,2023-03-23 09:00:00,Marek Nowak,EMAIL,24.0,,billing escalation
+TCK00950,AC079,SUB01427,billing,low,reopened,2022-06-06 00:00:00,2022-06-06 18:00:00,2022-06-08 17:00:00,Anna Kowalska,chat,,3.0,customer angry
+TCK00951,AC146,SUB01795,account,medium,closed,2022-12-02 00:00:00,2022-12-03 05:00:00,2022-12-05 09:00:00,Emily Davis,chat,8.0,3.0,customer angry
+TCK00952,AC159,SUB01854,feature_request,low,closed,2022-05-21 00:00:00,2022-05-23 08:00:00,,Marek Nowak,web,4.0,4.0,
+TCK00953,AC016,SUB01230,billing,medium,reopened,2023-02-13 00:00:00,2023-02-15 00:00:00,2023-02-16 08:00:00,,email,8.0,2.0,customer angry
+TCK00954,AC157,,feature_request,medium,pending,2023-05-16 00:00:00,2023-05-17 21:00:00,2023-05-21 07:00:00,John Miller,EMAIL,24.0,4.0,
+TCK00955,AC026,SUB00093,feature_request,urgent,closed,2023-06-05 00:00:00,2023-06-07 10:00:00,,John Miller,phone,24.0,3.0,customer angry
+TCK00956,AC054,SUB00448,billing,urgent,closed,2023-03-21 00:00:00,2023-03-22 14:00:00,2023-03-30 02:00:00,Anna Kowalska,phone,24.0,1.0,follow up needed
+TCK00957,AC161,SUB00674,other,medium,pending,2024-05-17 00:00:00,2024-05-20 00:00:00,,,email,4.0,5.0,follow up needed
+TCK00958,AC055,SUB01000,technical,urgent,pending,2024-06-06 00:00:00,2024-06-07 13:00:00,2024-06-12 00:00:00,Sarah Brown,EMAIL,8.0,,follow up needed
+TCK00959,AC068,SUB02261,feature_request,medium,resolved,2023-01-09 00:00:00,2023-01-09 14:00:00,2023-01-09 22:00:00,A. Kowalska,,24.0,3.0,billing escalation
+TCK00960,AC170,,billing,high,open,2022-11-25 00:00:00,,,,email,8.0,4.0,customer angry
+TCK00961,AC021,SUB01893,billing,low,resolved,2023-07-07 00:00:00,2023-07-09 19:00:00,,Marek Nowak,email,48.0,1.0,customer angry
+TCK00962,AC041,SUB01660,feature_request,medium,reopened,2023-05-03 00:00:00,2023-05-05 05:00:00,2023-05-10 23:00:00,Anna Kowalska,phone,48.0,4.0,
+TCK00963,AC062,SUB00764,,low,closed,2022-05-12 00:00:00,2022-05-14 21:00:00,2022-05-21 11:00:00,,,,2.0,follow up needed
+TCK00964,AC045,SUB01771,,low,resolved ,2022-08-13 00:00:00,2022-08-13 18:00:00,2022-08-14 16:00:00,A. Kowalska,phone,,1.0,follow up needed
+TCK00965,AC142,SUB02516,,,reopened,2022-08-20 00:00:00,2022-08-21 14:00:00,2022-08-26 13:00:00,,EMAIL,24.0,2.0,
+TCK00966,AC020,SUB01842,billing,urgent,resolved ,2023-03-09 00:00:00,2023-03-09 18:00:00,2023-03-19 18:00:00,Anna Kowalska,chat,8.0,1.0,follow up needed
+TCK00967,AC041,SUB01593,technical,medium,closed,2023-10-12 00:00:00,,,Tom Wilson,email,,4.0,
+TCK00968,AC001,,feature_request,,resolved,2024-05-28 00:00:00,2024-05-30 03:00:00,2024-06-01 10:00:00,,web,4.0,,
+TCK00969,AC105,SUB01141,technical,high,resolved,2023-11-03 00:00:00,2023-11-04 19:00:00,2023-11-14 08:00:00,,EMAIL,48.0,,customer angry
+TCK00970,AC116,SUB00257,account,urgent,resolved ,2023-11-16 00:00:00,2023-11-18 18:00:00,2023-11-27 03:00:00,Anna Kowalska,EMAIL,8.0,1.0,follow up needed
+TCK00971,AC177,SUB02200,technical,high,resolved,2023-04-14 00:00:00,2023-04-14 15:00:00,2023-04-17 19:00:00,,web,,1.0,billing escalation
+TCK00972,AC153,,,medium,open,2022-07-06 00:00:00,2022-07-08 17:00:00,,Marek Nowak,,24.0,5.0,billing escalation
+TCK00973,AC121,SUB01875,other,high,reopened,2024-03-09 00:00:00,2024-03-11 19:00:00,2024-03-20 08:00:00,Marek Nowak,,,2.0,
+TCK00974,AC075,,other,medium,resolved ,2022-06-12 00:00:00,2022-06-12 21:00:00,2022-06-22 01:00:00,Sarah Brown,EMAIL,,4.0,follow up needed
+TCK00975,AC009,SUB02005,feature_request,high,closed,2022-10-13 00:00:00,,,,web,48.0,4.0,
+TCK00976,AC060,SUB01284,account,,resolved ,2022-05-20 00:00:00,2022-05-21 14:00:00,,Emily Davis,chat,,5.0,customer angry
+TCK00977,AC074,SUB02504,technical,medium,closed,2022-03-02 00:00:00,2022-03-02 17:00:00,,Sarah Brown,,48.0,4.0,billing escalation
+TCK00978,AC073,SUB00468,account,medium,closed,2022-07-18 00:00:00,2022-07-19 20:00:00,,John Miller,,,,follow up needed
+TCK00979,AC180,SUB01876,,low,reopened,2022-07-30 00:00:00,2022-07-31 11:00:00,2022-07-31 14:00:00,Emily Davis,EMAIL,4.0,,billing escalation
+TCK00980,AC117,SUB01219,other,,closed,2023-04-28 00:00:00,2023-04-30 08:00:00,2023-05-01 16:00:00,Sarah Brown,email,24.0,3.0,customer angry
+TCK00981,AC019,SUB02418,feature_request,urgent,reopened,2023-01-26 00:00:00,2023-01-27 08:00:00,,Sarah Brown,,48.0,3.0,follow up needed
+TCK00982,AC176,,,urgent,resolved ,2023-06-20 00:00:00,2023-06-21 22:00:00,2023-07-01 00:00:00,A. Kowalska,web,4.0,,customer angry
+TCK00983,AC060,,other,high,closed,2024-06-04 00:00:00,2024-06-05 11:00:00,2024-06-12 07:00:00,Emily Davis,phone,4.0,1.0,customer angry
+TCK00984,AC068,,other,urgent,resolved ,2024-01-01 00:00:00,2024-01-02 07:00:00,2024-01-04 16:00:00,Emily Davis,email,48.0,5.0,billing escalation
+TCK00985,AC161,SUB00750,feature_request,low,reopened,2024-05-07 00:00:00,2024-05-09 18:00:00,2024-05-16 21:00:00,John Miller,EMAIL,4.0,5.0,customer angry
+TCK00986,AC151,SUB00580,,,closed,2022-05-01 00:00:00,2022-05-02 06:00:00,2022-05-09 11:00:00,A. Kowalska,,4.0,3.0,
+TCK00987,AC170,SUB01714,feature_request,urgent,resolved ,2024-05-22 00:00:00,2024-05-24 18:00:00,,Anna Kowalska,chat,,2.0,customer angry
+TCK00988,AC051,SUB02355,billing,urgent,resolved,2023-10-08 00:00:00,2023-10-08 12:00:00,2023-10-12 22:00:00,Tom Wilson,,24.0,3.0,follow up needed
+TCK00989,AC109,SUB00761,,high,pending,2022-10-11 00:00:00,2022-10-11 06:00:00,2022-10-18 17:00:00,Marek Nowak,EMAIL,,,
+TCK00990,AC030,SUB02202,feature_request,low,resolved,2024-01-29 00:00:00,2024-01-30 20:00:00,2024-02-01 17:00:00,Tom Wilson,EMAIL,,,follow up needed
+TCK00991,AC140,SUB00710,,urgent,resolved,2022-11-21 00:00:00,2022-11-21 12:00:00,2022-11-22 12:00:00,,,8.0,4.0,follow up needed
+TCK00992,AC058,SUB02006,feature_request,high,pending,2022-09-29 00:00:00,2022-10-01 14:00:00,2022-10-10 05:00:00,Sarah Brown,phone,4.0,1.0,follow up needed
+TCK00993,AC166,SUB00767,account,,reopened,2023-08-19 00:00:00,2023-08-21 16:00:00,2023-08-27 16:00:00,Sarah Brown,web,,,customer angry
+TCK00994,AC039,SUB01848,,,resolved ,2022-07-23 00:00:00,,,A. Kowalska,phone,8.0,,
+TCK00995,AC069,SUB01471,,high,reopened,2023-06-30 00:00:00,2023-06-30 17:00:00,2023-07-01 20:00:00,John Miller,phone,8.0,4.0,customer angry
+TCK00996,AC037,SUB01985,technical,medium,pending,2022-09-09 00:00:00,2022-09-10 11:00:00,,Marek Nowak,web,8.0,2.0,customer angry
+TCK00997,AC019,,feature_request,urgent,reopened,2022-10-31 00:00:00,2022-10-31 02:00:00,2022-11-05 06:00:00,,EMAIL,8.0,4.0,follow up needed
+TCK00998,AC016,SUB02301,feature_request,high,resolved ,2024-05-18 00:00:00,2024-05-20 03:00:00,2024-05-29 15:00:00,Tom Wilson,phone,48.0,3.0,
+TCK00999,AC043,SUB02028,,medium,resolved,2022-08-29 00:00:00,2022-08-30 21:00:00,,Marek Nowak,EMAIL,,2.0,customer angry
+TCK01000,AC079,SUB02015,other,medium,resolved ,2024-03-14 00:00:00,2024-03-16 12:00:00,2024-03-17 15:00:00,Tom Wilson,,,2.0,
+TCK01001,AC153,SUB01819,feature_request,,closed,2022-10-03 00:00:00,2022-10-03 06:00:00,2022-10-07 23:00:00,John Miller,chat,4.0,5.0,
+TCK01002,AC146,SUB00339,technical,low,resolved ,2023-07-27 00:00:00,2023-07-28 20:00:00,2023-08-05 09:00:00,Tom Wilson,email,24.0,5.0,
+TCK01003,AC074,SUB00904,other,urgent,closed,2024-01-16 00:00:00,,,Sarah Brown,web,8.0,,
+TCK01004,AC113,SUB01126,other,urgent,pending,2022-11-14 00:00:00,2022-11-15 14:00:00,2022-11-21 16:00:00,,,,3.0,customer angry
+TCK01005,AC032,SUB01183,account,,open,2023-09-17 00:00:00,,,John Miller,EMAIL,4.0,5.0,
+TCK01006,AC120,,technical,medium,open,2024-01-18 00:00:00,2024-01-19 00:00:00,2024-01-25 10:00:00,,,4.0,3.0,customer angry
+TCK01007,AC177,SUB02029,,urgent,pending,2022-04-07 00:00:00,2022-04-09 01:00:00,2022-04-13 03:00:00,Tom Wilson,chat,4.0,3.0,
+TCK01008,AC078,SUB00464,account,urgent,pending,2022-07-01 00:00:00,2022-07-02 08:00:00,2022-07-04 08:00:00,Marek Nowak,phone,4.0,3.0,
+TCK01009,AC180,SUB01098,account,low,reopened,2024-02-09 00:00:00,,,Anna Kowalska,EMAIL,4.0,,
+TCK01010,AC104,SUB01503,account,urgent,resolved,2022-04-08 00:00:00,2022-04-10 19:00:00,,Anna Kowalska,EMAIL,,3.0,customer angry
+TCK01011,AC070,SUB00171,technical,high,open,2022-06-26 00:00:00,2022-06-28 15:00:00,,Sarah Brown,EMAIL,24.0,5.0,follow up needed
+TCK01012,AC129,SUB01808,feature_request,low,reopened,2023-03-28 00:00:00,2023-03-28 22:00:00,2023-04-06 15:00:00,Anna Kowalska,EMAIL,4.0,3.0,
+TCK01013,AC139,SUB01742,billing,urgent,pending,2022-04-21 00:00:00,2022-04-21 23:00:00,2022-04-23 18:00:00,Sarah Brown,EMAIL,24.0,4.0,billing escalation
+TCK01014,AC127,,other,low,resolved,2024-05-01 00:00:00,2024-05-03 09:00:00,2024-05-10 13:00:00,Marek Nowak,phone,8.0,2.0,
+TCK01015,AC113,SUB01014,feature_request,,open,2022-07-12 00:00:00,2022-07-12 05:00:00,2022-07-22 00:00:00,,email,24.0,5.0,billing escalation
+TCK01016,AC021,SUB00133,,medium,resolved,2023-08-12 00:00:00,2023-08-14 18:00:00,2023-08-20 14:00:00,Tom Wilson,chat,48.0,2.0,
+TCK01017,AC154,SUB01428,billing,urgent,open,2023-10-04 00:00:00,2023-10-06 07:00:00,2023-10-11 13:00:00,Tom Wilson,EMAIL,48.0,5.0,
+TCK01018,AC011,SUB00357,billing,,open,2022-11-10 00:00:00,2022-11-11 12:00:00,2022-11-18 23:00:00,Marek Nowak,email,24.0,5.0,billing escalation
+TCK01019,AC111,SUB00481,billing,low,resolved,2023-07-10 00:00:00,2023-07-11 16:00:00,2023-07-17 09:00:00,A. Kowalska,chat,24.0,5.0,customer angry
+TCK01020,AC083,SUB00971,technical,,resolved,2024-04-23 00:00:00,2024-04-25 07:00:00,2024-04-30 22:00:00,Anna Kowalska,chat,4.0,4.0,follow up needed
+TCK01021,AC155,SUB02409,technical,,resolved ,2022-08-15 00:00:00,2022-08-15 09:00:00,2022-08-20 16:00:00,Anna Kowalska,email,48.0,2.0,customer angry
+TCK01022,AC065,SUB02500,technical,high,pending,2022-10-25 00:00:00,,,A. Kowalska,chat,24.0,4.0,customer angry
+TCK01023,AC007,SUB00680,feature_request,,resolved ,2022-06-09 00:00:00,2022-06-10 07:00:00,2022-06-13 02:00:00,Emily Davis,chat,24.0,4.0,customer angry
+TCK01024,AC024,SUB00847,technical,urgent,resolved,2023-03-02 00:00:00,2023-03-04 00:00:00,2023-03-13 15:00:00,Anna Kowalska,,48.0,1.0,
+TCK01025,AC059,SUB00244,billing,low,pending,2022-05-12 00:00:00,2022-05-13 04:00:00,,,email,8.0,5.0,
+TCK01026,AC173,SUB02181,,urgent,resolved,2022-06-21 00:00:00,2022-06-22 08:00:00,2022-06-30 00:00:00,,phone,24.0,5.0,
+TCK01027,AC148,SUB02207,technical,low,reopened,2022-04-22 00:00:00,2022-04-24 02:00:00,2022-05-03 13:00:00,,chat,8.0,5.0,customer angry
+TCK01028,AC151,,feature_request,medium,open,2023-04-26 00:00:00,2023-04-26 14:00:00,2023-05-05 12:00:00,John Miller,chat,48.0,5.0,
+TCK01029,AC006,SUB01199,,,pending,2023-03-25 00:00:00,2023-03-27 08:00:00,2023-03-27 19:00:00,Marek Nowak,,24.0,1.0,billing escalation
+TCK01030,AC173,SUB01096,technical,high,closed,2022-01-15 00:00:00,2022-01-16 19:00:00,2022-01-19 12:00:00,Marek Nowak,,4.0,4.0,
+TCK01031,AC069,SUB02108,technical,medium,resolved,2022-06-06 00:00:00,2022-06-08 16:00:00,,,email,48.0,1.0,follow up needed
+TCK01032,AC148,SUB00391,other,high,open,2023-09-09 00:00:00,2023-09-11 23:00:00,,John Miller,,4.0,4.0,billing escalation
+TCK01033,AC011,,,medium,resolved ,2023-07-02 00:00:00,,,Tom Wilson,phone,4.0,2.0,customer angry
+TCK01034,AC045,SUB01686,billing,urgent,reopened,2023-12-02 00:00:00,2023-12-04 00:00:00,,John Miller,chat,4.0,5.0,billing escalation
+TCK01035,AC121,SUB01136,feature_request,,resolved ,2022-03-17 00:00:00,,,A. Kowalska,phone,,4.0,
+TCK01036,AC133,SUB00520,,urgent,closed,2024-02-06 00:00:00,2024-02-08 14:00:00,2024-02-12 07:00:00,Sarah Brown,web,,3.0,follow up needed
+TCK01037,AC167,SUB00544,account,medium,resolved,2022-05-28 00:00:00,2022-05-28 22:00:00,2022-06-02 02:00:00,Anna Kowalska,web,24.0,2.0,customer angry
+TCK01038,AC114,SUB01320,technical,high,pending,2023-04-16 00:00:00,2023-04-18 21:00:00,2023-04-23 04:00:00,A. Kowalska,web,48.0,4.0,
+TCK01039,AC072,SUB01609,,urgent,pending,2023-03-31 00:00:00,2023-04-02 11:00:00,2023-04-05 23:00:00,,chat,8.0,2.0,follow up needed
+TCK01040,AC047,SUB02366,feature_request,high,resolved ,2023-08-06 00:00:00,2023-08-07 22:00:00,2023-08-13 19:00:00,Emily Davis,chat,48.0,2.0,
+TCK01041,AC150,SUB02572,other,urgent,open,2022-04-22 00:00:00,2022-04-24 09:00:00,2022-05-03 07:00:00,Marek Nowak,chat,24.0,5.0,follow up needed
+TCK01042,AC112,SUB01852,billing,medium,closed,2023-11-07 00:00:00,2023-11-09 18:00:00,2023-11-14 12:00:00,Sarah Brown,phone,,2.0,
+TCK01043,AC163,,account,urgent,pending,2023-08-12 00:00:00,2023-08-13 01:00:00,,Sarah Brown,web,24.0,5.0,billing escalation
+TCK01044,AC126,SUB00382,billing,low,open,2023-06-28 00:00:00,2023-06-28 04:00:00,2023-07-06 14:00:00,Anna Kowalska,email,24.0,1.0,
+TCK01045,AC024,SUB01140,billing,high,reopened,2023-01-01 00:00:00,2023-01-01 19:00:00,2023-01-05 02:00:00,Tom Wilson,EMAIL,48.0,4.0,
+TCK01046,AC121,SUB01512,other,medium,pending,2023-12-22 00:00:00,2023-12-23 14:00:00,,Sarah Brown,web,4.0,5.0,billing escalation
+TCK01047,AC090,SUB02000,account,medium,open,2023-02-24 00:00:00,2023-02-26 22:00:00,2023-03-06 10:00:00,Sarah Brown,web,4.0,1.0,follow up needed
+TCK01048,AC105,SUB00011,billing,,resolved ,2023-01-26 00:00:00,2023-01-28 13:00:00,,Tom Wilson,web,,5.0,follow up needed
+TCK01049,AC086,SUB00382,account,high,open,2023-04-04 00:00:00,2023-04-06 14:00:00,2023-04-12 16:00:00,Tom Wilson,email,8.0,2.0,billing escalation
+TCK01050,AC083,SUB01878,,medium,resolved ,2022-11-04 00:00:00,2022-11-04 19:00:00,,Tom Wilson,phone,4.0,3.0,billing escalation
+TCK01051,AC172,SUB01468,account,medium,reopened,2024-03-29 00:00:00,2024-03-31 05:00:00,2024-04-04 03:00:00,Emily Davis,EMAIL,4.0,4.0,
+TCK01052,AC027,SUB02190,technical,high,resolved,2022-06-20 00:00:00,,,,web,24.0,1.0,
+TCK01053,AC042,SUB01760,other,low,pending,2024-02-07 00:00:00,2024-02-09 10:00:00,2024-02-13 00:00:00,Anna Kowalska,,,1.0,
+TCK01054,AC085,SUB02027,,high,resolved ,2023-01-25 00:00:00,2023-01-27 12:00:00,2023-01-27 22:00:00,A. Kowalska,phone,24.0,5.0,
+TCK01055,AC106,SUB01162,account,,pending,2023-02-21 00:00:00,2023-02-21 16:00:00,2023-03-01 09:00:00,,phone,24.0,1.0,
+TCK01056,AC178,SUB02368,,high,reopened,2023-11-19 00:00:00,,,John Miller,email,8.0,1.0,follow up needed
+TCK01057,AC127,,technical,low,open,2022-03-18 00:00:00,2022-03-18 08:00:00,,Anna Kowalska,,4.0,,
+TCK01058,AC074,SUB01408,,urgent,resolved ,2024-06-10 00:00:00,2024-06-10 09:00:00,,Tom Wilson,,4.0,5.0,customer angry
+TCK01059,AC170,SUB00199,billing,medium,open,2022-02-27 00:00:00,2022-02-28 01:00:00,2022-03-09 23:00:00,John Miller,email,48.0,,follow up needed
+TCK01060,AC103,,billing,urgent,resolved,2022-08-04 00:00:00,,,,chat,48.0,2.0,
+TCK01061,AC141,SUB01883,other,low,closed,2023-09-12 00:00:00,2023-09-14 12:00:00,2023-09-21 18:00:00,Sarah Brown,EMAIL,4.0,1.0,follow up needed
+TCK01062,AC010,,,low,resolved ,2022-07-22 00:00:00,2022-07-24 21:00:00,2022-07-26 22:00:00,John Miller,chat,8.0,3.0,follow up needed
+TCK01063,AC117,SUB00648,,high,pending,2022-06-16 00:00:00,2022-06-17 13:00:00,2022-06-22 23:00:00,A. Kowalska,phone,24.0,,follow up needed
+TCK01064,AC023,SUB00003,,high,resolved,2023-06-28 00:00:00,,,Sarah Brown,email,4.0,1.0,
+TCK01065,AC081,SUB01753,feature_request,low,resolved ,2022-12-19 00:00:00,2022-12-19 07:00:00,2022-12-28 01:00:00,,email,4.0,3.0,billing escalation
+TCK01066,AC065,SUB00541,,low,reopened,2024-02-29 00:00:00,2024-03-01 22:00:00,2024-03-08 10:00:00,Emily Davis,,24.0,4.0,
+TCK01067,AC083,SUB01237,feature_request,high,reopened,2024-01-31 00:00:00,2024-02-01 23:00:00,2024-02-10 03:00:00,Marek Nowak,chat,,2.0,customer angry
+TCK01068,AC030,,feature_request,urgent,closed,2023-12-09 00:00:00,2023-12-11 11:00:00,2023-12-14 23:00:00,,chat,8.0,,
+TCK01069,AC104,SUB01123,,medium,closed,2023-03-06 00:00:00,2023-03-06 17:00:00,2023-03-10 19:00:00,Tom Wilson,email,48.0,,follow up needed
+TCK01070,AC132,,feature_request,urgent,pending,2022-06-04 00:00:00,2022-06-04 23:00:00,2022-06-05 04:00:00,Emily Davis,phone,8.0,1.0,
+TCK01071,AC001,SUB00338,feature_request,,resolved ,2023-02-06 00:00:00,2023-02-08 22:00:00,2023-02-10 23:00:00,,web,48.0,2.0,
+TCK01072,AC169,SUB00678,billing,low,resolved,2023-11-13 00:00:00,,,,EMAIL,24.0,2.0,follow up needed
+TCK01073,AC139,,account,medium,resolved,2023-06-16 00:00:00,2023-06-17 03:00:00,2023-06-17 07:00:00,Emily Davis,,,4.0,billing escalation
+TCK01074,AC119,SUB00960,account,medium,resolved,2022-05-05 00:00:00,2022-05-07 19:00:00,2022-05-15 13:00:00,,email,4.0,4.0,
+TCK01075,AC106,SUB00374,account,urgent,resolved,2023-03-04 00:00:00,2023-03-05 17:00:00,2023-03-15 10:00:00,,phone,,3.0,follow up needed
+TCK01076,AC014,SUB00005,technical,medium,closed,2022-05-11 00:00:00,2022-05-12 05:00:00,2022-05-18 18:00:00,,email,24.0,5.0,customer angry
+TCK01077,AC049,SUB00320,feature_request,urgent,reopened,2023-01-29 00:00:00,2023-01-30 17:00:00,,Emily Davis,email,48.0,4.0,follow up needed
+TCK01078,AC133,,billing,urgent,pending,2024-03-21 00:00:00,2024-03-21 18:00:00,2024-03-30 02:00:00,Marek Nowak,,4.0,3.0,
+TCK01079,AC093,SUB01823,account,high,closed,2024-04-24 00:00:00,2024-04-26 23:00:00,,Tom Wilson,EMAIL,,2.0,follow up needed
+TCK01080,AC160,,technical,,reopened,2023-09-04 00:00:00,2023-09-05 13:00:00,2023-09-13 10:00:00,Emily Davis,chat,48.0,4.0,customer angry
+TCK01081,AC128,SUB00494,,urgent,open,2022-11-02 00:00:00,2022-11-02 18:00:00,2022-11-03 02:00:00,Tom Wilson,web,8.0,4.0,
+TCK01082,AC161,SUB01730,account,urgent,resolved,2023-07-23 00:00:00,2023-07-25 08:00:00,2023-07-26 12:00:00,Marek Nowak,,,4.0,
+TCK01083,AC114,SUB01957,billing,high,reopened,2022-06-16 00:00:00,2022-06-17 17:00:00,2022-06-19 01:00:00,,phone,8.0,3.0,
+TCK01084,AC014,,feature_request,high,closed,2023-07-18 00:00:00,,,Sarah Brown,phone,,1.0,
+TCK01085,AC053,SUB00420,other,low,resolved ,2022-11-28 00:00:00,2022-12-01 00:00:00,,Sarah Brown,web,4.0,1.0,follow up needed
+TCK01086,AC069,,billing,high,resolved,2022-06-05 00:00:00,2022-06-05 20:00:00,2022-06-08 09:00:00,Tom Wilson,email,48.0,3.0,customer angry
+TCK01087,AC141,SUB01226,feature_request,medium,reopened,2023-05-20 00:00:00,2023-05-20 07:00:00,2023-05-27 04:00:00,John Miller,chat,48.0,2.0,customer angry
+TCK01088,AC034,,,,open,2024-02-21 00:00:00,2024-02-22 09:00:00,2024-02-23 00:00:00,Anna Kowalska,,8.0,4.0,customer angry
+TCK01089,AC074,SUB00546,technical,,resolved,2022-02-13 00:00:00,2022-02-14 05:00:00,2022-02-23 12:00:00,Tom Wilson,web,48.0,1.0,billing escalation
+TCK01090,AC113,SUB00586,feature_request,,open,2024-02-23 00:00:00,2024-02-23 03:00:00,2024-03-01 14:00:00,Anna Kowalska,chat,,1.0,follow up needed
+TCK01091,AC179,,other,high,reopened,2022-08-24 00:00:00,2022-08-24 00:00:00,2022-08-24 21:00:00,Sarah Brown,web,8.0,2.0,billing escalation
+TCK01092,AC125,SUB02500,other,urgent,pending,2022-01-08 00:00:00,2022-01-09 12:00:00,2022-01-13 12:00:00,Marek Nowak,EMAIL,24.0,3.0,follow up needed
+TCK01093,AC032,SUB01803,account,urgent,open,2022-12-01 00:00:00,2022-12-03 02:00:00,,,EMAIL,,4.0,follow up needed
+TCK01094,AC008,SUB00873,technical,medium,reopened,2022-07-09 00:00:00,2022-07-11 01:00:00,2022-07-19 00:00:00,Emily Davis,,8.0,5.0,
+TCK01095,AC162,SUB00621,account,medium,reopened,2023-01-05 00:00:00,2023-01-06 05:00:00,2023-01-15 16:00:00,Anna Kowalska,phone,4.0,2.0,follow up needed
+TCK01096,AC156,SUB02524,,high,closed,2024-05-31 00:00:00,2024-06-02 15:00:00,2024-06-06 19:00:00,A. Kowalska,EMAIL,8.0,4.0,
+TCK01097,AC062,SUB00890,billing,low,open,2023-07-29 00:00:00,2023-07-30 07:00:00,,Anna Kowalska,email,24.0,1.0,
+TCK01098,AC041,,billing,high,pending,2023-04-01 00:00:00,2023-04-04 00:00:00,2023-04-05 01:00:00,Marek Nowak,web,24.0,1.0,
+TCK01099,AC080,,billing,high,pending,2023-03-04 00:00:00,2023-03-05 14:00:00,2023-03-15 05:00:00,Emily Davis,web,8.0,1.0,customer angry
+TCK01100,AC142,SUB02415,technical,urgent,reopened,2023-05-03 00:00:00,2023-05-03 14:00:00,,,phone,24.0,1.0,billing escalation

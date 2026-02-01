@@ -1,0 +1,65 @@
+emp_id,emp_full_nm,role_cd,dept_cd,email_addr,location_txt,employment_status_cd,hire_dt,termination_dt,mgr_emp_id,record_src_cd,created_ts,updated_ts
+E0001,Anna Brown,Service Delivery Manager,Sales,anna.brown@company.com,Warsaw,on_leave,2019-06-17,2021-05-04,,hr_system,2024-12-07,2024-03-20
+E0002,John Andersen,Data Engineer,Sales,john.andersen@company.com,London,,2018-05-16,,,hr_system,2023-04-12,2024-09-22
+E0003,Michael Nowak,Support Engineer,Support,michael.nowak@company.com,London,inactive,2018-06-24,,E0033,hr_system,2021-05-17,2024-10-31
+E0004,Kate Kowalski,Sales Ops,,,Remote,Active,2022-01-18,,,manual_upload,2021-11-14,2024-01-19
+E0005,David Nowak,Account Manager,Delivery,david.nowak@company.com,,,2022-10-11,2024-05-22,,hr_system,2023-01-22,2024-04-19
+E0006,Michael Andersen,Customer Success,Engineering,michael.andersen@company.com,,inactive,2021-01-28,,,,2024-05-24,2024-11-18
+E0007,Sophie Brown,,Engineering,sophie.brown@company.com,Remote,,2021-10-04,,E0044,manual_upload,2022-06-27,2024-09-30
+E0008,Anna Andersen,Service Delivery Manager,Sales,,London,,2018-07-05,2022-08-10,E0007,hr_system,2021-05-11,2024-10-07
+E0009,Sophie Kowalski,Customer Success,,sophie.kowalski@company.com,New York,active,2018-03-06,,,manual_upload,2022-02-20,2024-03-26
+E0010,Michael Taylor,Customer Success,,michael.taylor@company.com,London,,2020-02-04,2023-06-20,,manual_upload,2023-08-02,2024-12-08
+E0011,Laura Nowak,Data Engineer,Operations,,Remote,inactive,2022-12-05,,E0024,manual_upload,2020-04-28,2024-10-04
+E0012,Anna Smith,,Operations,anna.smith@company.com,Remote,,2023-08-05,2024-09-11,,manual_upload,2021-04-27,2024-01-12
+E0013,Michael Brown,Account Manager,Operations,michael.brown@company.com,Berlin,active,2018-06-19,2020-05-12,,,2023-03-16,2024-01-08
+E0014,Mark Müller,Data Engineer,Delivery,mark.müller@company.com,Berlin,Active,2023-12-25,2024-08-28,E0020,hr_system,2021-10-11,2024-01-28
+E0015,Kate Andersen,Customer Success,,kate.andersen@company.com,Warsaw,inactive,2019-01-24,2021-09-24,,,2024-12-01,2024-10-11
+E0016,Kate Nowak,Account Manager,,,Berlin,,2022-10-14,2025-03-18,,,2022-01-31,2024-10-13
+E0017,John Smith,Customer Success,Sales,john.smith@company.com,New York,on_leave,2018-10-08,,,,2020-09-21,2024-12-09
+E0018,Laura Müller,Sales Ops,Operations,laura.müller@company.com,Warsaw,,2020-07-24,,E0009,hr_system,2022-03-04,2024-07-20
+E0019,,Customer Success,Delivery,michael.kowalski@company.com,New York,Active,2020-05-31,,,hr_system,2021-04-16,2024-06-19
+E0020,Sophie Müller,Support Engineer,Operations,sophie.müller@company.com,London,inactive,2023-11-23,,,,2019-10-12,2024-03-31
+E0021,David Brown,Sales Ops,Engineering,,,on_leave,2020-11-12,,,manual_upload,2024-03-01,2024-12-08
+E0022,Anna Nowak,Account Manager,Engineering,,Warsaw,Active,2023-12-24,2026-11-10,E0016,,2020-01-29,2024-04-14
+E0023,Laura Taylor,,Delivery,laura.taylor@company.com,New York,on_leave,2022-08-24,2023-10-24,,manual_upload,2019-11-24,2024-01-18
+E0024,Laura Smith,Service Delivery Manager,Engineering,,Berlin,inactive,2020-06-24,,,manual_upload,2024-08-25,2024-04-17
+E0025,Kate Brown,Account Manager,Sales,kate.brown@company.com,,,2019-04-30,,,manual_upload,2023-06-04,2024-04-12
+E0026,John Brown,Sales Ops,Engineering,john.brown@company.com,New York,active,2021-10-09,,,,2022-04-15,2024-12-06
+E0027,John Kowalski,,Delivery,john.kowalski@company.com,New York,inactive,2023-08-17,,E0015,hr_system,2019-01-03,2024-05-02
+E0028,Mark Smith,,Engineering,mark.smith@company.com,Remote,Active,2023-04-15,,,hr_system,2020-12-02,2024-08-20
+E0029,David Smith,Support Engineer,Sales,david.smith@company.com,London,inactive,2022-05-20,2025-11-25,,,2021-11-14,2024-08-27
+E0030,John Nowak,Support Engineer,Support,john.nowak@company.com,Warsaw,on_leave,2023-07-13,,E0057,manual_upload,2020-10-28,2024-03-11
+E0031,Laura Andersen,Data Engineer,Delivery,laura.andersen@company.com,Berlin,inactive,2022-01-10,2025-12-27,E0005,hr_system,2019-06-27,2024-09-13
+E0032,Sophie Smith,Support Engineer,,sophie.smith@company.com,,on_leave,2022-06-06,2025-04-18,,hr_system,2024-08-01,2024-10-11
+E0033,Laura Kowalski,Data Engineer,Support,laura.kowalski@company.com,Warsaw,Active,2023-06-06,,E0048,hr_system,2019-12-24,2024-12-06
+E0034,David Andersen,Support Engineer,,david.andersen@company.com,Berlin,on_leave,2023-07-15,,,hr_system,2019-04-27,2024-02-10
+E0035,Anna Taylor,Data Engineer,Support,anna.taylor@company.com,London,on_leave,2019-09-30,,E0018,,2023-06-10,2024-06-25
+E0036,,Data Engineer,,,,Active,2020-10-14,2024-04-07,,manual_upload,2020-07-01,2024-09-07
+E0037,Mark Andersen,,Delivery,mark.andersen@company.com,New York,on_leave,,,E0027,,2023-03-30,2024-03-05
+E0038,Kate Smith,Customer Success,Engineering,,Berlin,active,2020-11-21,,,hr_system,2023-01-12,2024-01-25
+E0039,David Taylor,Customer Success,,david.taylor@company.com,,on_leave,2021-04-03,2022-10-23,,manual_upload,2019-07-13,2024-02-18
+E0040,John Müller,Service Delivery Manager,Delivery,john.müller@company.com,,,2022-08-03,,,hr_system,2023-02-12,2024-07-30
+E0041,Anna Kowalski,Account Manager,Delivery,anna.kowalski@company.com,New York,,2018-10-22,,,manual_upload,2020-09-23,2024-07-11
+E0042,Mark Taylor,Account Manager,Operations,mark.taylor@company.com,Berlin,on_leave,2020-11-01,,E0015,,2022-02-16,2024-04-10
+E0043,Kate Taylor,,,,Warsaw,active,2019-03-09,,E0002,hr_system,2022-08-21,2024-07-30
+E0044,Anna Müller,Account Manager,,anna.müller@company.com,London,inactive,2020-03-27,,,,2022-10-05,2024-07-13
+E0045,Kate Müller,Account Manager,Support,kate.müller@company.com,Warsaw,inactive,2021-06-20,2023-10-24,,,2021-11-27,2024-09-01
+E0046,Mark Nowak,Support Engineer,,mark.nowak@company.com,London,on_leave,2019-12-08,,E0045,hr_system,2022-07-28,2024-05-30
+E0047,Sophie Taylor,Service Delivery Manager,,sophie.taylor@company.com,Berlin,Active,,,,,2020-03-06,2024-03-11
+E0048,John Taylor,,Engineering,,,,2020-09-22,,E0035,,2024-06-11,2024-08-26
+E0049,Michael Müller,Support Engineer,,michael.müller@company.com,Remote,active,2022-06-02,,E0062,manual_upload,2024-04-11,2024-07-12
+E0050,David Müller,,Support,,Berlin,inactive,2023-06-11,,,,2020-05-06,2024-05-23
+E0051,Sophie Nowak,Account Manager,,sophie.nowak@company.com,,inactive,2021-12-01,,E0054,manual_upload,2021-01-22,2024-10-07
+E0052,David Kowalski,Customer Success,Sales,david.kowalski@company.com,New York,active,2023-04-19,,E0038,hr_system,2024-04-25,2024-12-13
+E0053,Michael Smith,Sales Ops,Delivery,michael.smith@company.com,,on_leave,,2021-08-16,,hr_system,2023-09-21,2024-09-24
+E0054,Mark Kowalski,Customer Success,Sales,mark.kowalski@company.com,Berlin,,2022-09-10,2025-06-16,E0052,,2021-01-22,2024-11-16
+E0055,Sophie Andersen,Sales Ops,Delivery,sophie.andersen@company.com,Warsaw,active,2020-05-02,,E0057,,2021-12-23,2024-07-01
+E0056,Laura Brown,Sales Ops,Operations,laura.brown@company.com,Warsaw,,2018-04-29,,,hr_system,2022-06-05,2024-01-15
+E0057,Emily Carter,,Operations,emily.carter@company.com,,,2018-11-18,2021-01-19,,manual_upload,2024-05-05,2024-01-12
+E0058,Robert Klein,Customer Success,Operations,,Berlin,active,2023-05-23,,E0027,,2023-05-30,2024-09-12
+E0059,Natalia Zielinska,,,,Remote,inactive,2018-04-05,2019-08-10,E0045,,2019-04-01,2024-05-10
+E0060,Thomas Weber,Sales Ops,Delivery,thomas.weber@company.com,London,on_leave,2019-06-14,2020-08-03,E0028,manual_upload,2020-12-09,2024-11-19
+E0061,Julia Fernandez,Customer Success,Operations,julia.fernandez@company.com,London,Active,,,E0063,,2021-01-03,2024-04-25
+E0062,Chris O'Neil,Customer Success,Delivery,chris.o'neil@company.com,Warsaw,inactive,2022-12-27,,,manual_upload,2020-08-26,2024-08-24
+E0063,Martin Novak,Data Engineer,,martin.novak@company.com,Berlin,Active,2022-01-25,,E0057,hr_system,2023-07-28,2024-10-20
+E0064,Elena Rossi,Sales Ops,Engineering,elena.rossi@company.com,New York,Active,2019-08-28,,,,2019-08-17,2024-03-20
