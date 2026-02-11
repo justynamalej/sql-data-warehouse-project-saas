@@ -23,7 +23,7 @@ CREATE TABLE bronze.accounts_raw_v2 (
 );
 
 IF OBJECT_ID ('bronze.employees_raw', 'U') IS NOT NULL
-	DROP TABLE bronze.accounts_raw_v2;
+	DROP TABLE bronze.employees_raw;
 
 CREATE TABLE bronze.employees_raw (
 	emp_id VARCHAR(50),
