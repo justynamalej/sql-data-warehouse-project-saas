@@ -41,3 +41,31 @@ CREATE TABLE bronze.employees_raw (
 	updated_ts DATE
 );
 
+IF OBJECT_ID ('bronze.invoices_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.invoices_raw_v2;
+
+CREATE TABLE bronze.invoices_raw_v2 (
+	subtotal_amt FLOAT,
+	billing_period_start DATE,
+	created_at DATE,
+	currency VARCHAR(50),
+	line_item_cnt FLOAT,
+	invoice_id VARCHAR(50),
+	invoice_date DATE,
+	invoice_status VARCHAR(50),
+	amount_paid FLOAT,
+	discount_amt FLOAT,
+	paid_dt DATE,
+	invoice_num VARCHAR(50),
+	writeoff_flg VARCHAR(50),
+	acct_id VARCHAR(50),
+	subscription_id INT,
+	billing_period_end DATE,
+	total_amt FLOAT,
+	amount_due FLOAT,
+	billing_freq_cd VARCHAR(50),
+	due_dt DATE,
+	proration_flg VARCHAR(50),
+	tax_amt FLOAT
+);
+
