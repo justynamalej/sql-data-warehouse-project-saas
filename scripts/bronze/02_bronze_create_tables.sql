@@ -21,3 +21,23 @@ CREATE TABLE bronze.accounts_raw_v2 (
 	acct_type_cd VARCHAR(50),
 	acct_id VARCHAR(50)
 );
+
+IF OBJECT_ID ('bronze.employees_raw', 'U') IS NOT NULL
+	DROP TABLE bronze.accounts_raw_v2;
+
+CREATE TABLE bronze.employees_raw (
+	emp_id VARCHAR(50),
+	emp_full_nm VARCHAR(50),
+	role_cd VARCHAR(50),
+	dept_cd VARCHAR(50),
+	email_addr VARCHAR(50),
+	location_txt VARCHAR(50),
+	employment_status_cd VARCHAR(50),
+	hire_dt DATE,
+	termination_dt DATE,
+	mgr_emp_id VARCHAR(50),
+	record_src_cd VARCHAR(50),
+	created_ts DATE,
+	updated_ts DATE
+);
+
