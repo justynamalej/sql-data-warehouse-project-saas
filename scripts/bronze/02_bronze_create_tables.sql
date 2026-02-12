@@ -69,3 +69,33 @@ CREATE TABLE bronze.invoices_raw_v2 (
 	tax_amt FLOAT
 );
 
+IF OBJECT_ID ('bronze.payments_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.payments_raw_v2;
+
+CREATE TABLE bronze.payments_raw_v2 (
+	pmt_id VARCHAR(50),
+	inv_id VARCHAR(50),
+	acct_id VARCHAR(50),
+	sub_id VARCHAR(50),
+	pmt_amt FLOAT,
+	pmt_ccy VARCHAR(50),
+	fx_rt FLOAT,
+	net_pmt_amt FLOAT,
+	fee_amt FLOAT,
+	pmt_method_cd VARCHAR(50),
+	pmt_provider_cd VARCHAR(50),
+	pmt_type_cd VARCHAR(50),
+	retry_flg INT,
+	attempt_nbr INT,
+	pmt_ts DATETIME,
+	settle_dt DATE,
+	fail_dt DATE,
+	refund_dt DATE,
+	pmt_status_cd VARCHAR(50),
+	reconciled_flg FLOAT,
+	manual_adj_flg INT,
+	chargeback_flg INT,
+	created_by_sys VARCHAR(50),
+	last_upd_ts DATETIME,
+	notes_txt VARCHAR(50)
+);
