@@ -99,3 +99,32 @@ CREATE TABLE bronze.payments_raw_v2 (
 	last_upd_ts DATETIME,
 	notes_txt VARCHAR(50)
 );
+
+IF OBJECT_ID ('bronze.plan_change_events_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.plan_change_events_raw_v2;
+
+CREATE TABLE bronze.plan_change_events_raw_v2 (
+	evt_id VARCHAR(50),
+	acct_id VARCHAR(50),
+	sub_id VARCHAR(50),
+	usr_id VARCHAR(50),
+	old_plan_cd VARCHAR(50),
+	new_plan_cd VARCHAR(50),
+	chg_type_cd VARCHAR(50),
+	chg_reason_cd VARCHAR(50),
+	req_channel_cd VARCHAR(50),
+	old_mrr_amt FLOAT,
+	new_mrr_amt FLOAT,
+	mrr_delta_amt FLOAT,
+	proration_amt FLOAT,
+	evt_ts DATETIME,
+	eff_dt DATE,
+	proc_ts DATETIME,
+	evt_status_cd VARCHAR(50),
+	rollback_flg INT,
+	manual_override_flg INT,
+	billing_impact_flg INT,
+	src_sys_cd VARCHAR(50),
+	notes_txt VARCHAR(50),
+	last_upd_ts DATETIME
+);
