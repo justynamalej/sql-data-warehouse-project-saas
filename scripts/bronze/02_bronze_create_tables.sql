@@ -128,3 +128,32 @@ CREATE TABLE bronze.plan_change_events_raw_v2 (
 	notes_txt VARCHAR(50),
 	last_upd_ts DATETIME
 );
+
+IF OBJECT_ID ('bronze.plans_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.plans_raw_v2;
+
+CREATE TABLE bronze.plans_raw_v2 (
+	plan_id VARCHAR(50),
+	plan_cd VARCHAR(50),
+	plan_grp_cd VARCHAR(50),
+	parent_plan_cd VARCHAR(50),
+	list_price_amt FLOAT,
+	bill_freq_cd VARCHAR(50),
+	currency_cd VARCHAR(50),
+	setup_fee_amt FLOAT,
+	overage_rate_amt FLOAT,
+	min_commit_amt FLOAT,
+	seat_limit_nbr FLOAT,
+	usage_cap_qty FLOAT,
+	trial_days_nbr FLOAT,
+	auto_renew_flg INT,
+	proration_allowed_flg INT,
+	eff_start_dt DATE,
+	eff_end_dt DATE,
+	plan_status_cd VARCHAR(50),
+	version_nbr INT,
+	grandfathered_flg INT,
+	created_sys_cd VARCHAR(50),
+	last_upd_ts DATETIME,
+	notes_txt VARCHAR(50)
+);
