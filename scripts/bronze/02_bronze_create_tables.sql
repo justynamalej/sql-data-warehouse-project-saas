@@ -157,3 +157,37 @@ CREATE TABLE bronze.plans_raw_v2 (
 	last_upd_ts DATETIME,
 	notes_txt VARCHAR(50)
 );
+
+IF OBJECT_ID ('bronze.subscriptions_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.subscriptions_raw_v2;
+
+CREATE TABLE bronze.subscriptions_raw_v2 (
+	sub_id VARCHAR(50),
+	acct_id VARCHAR(50),
+	plan_id VARCHAR(50),
+	plan_cd VARCHAR(50),
+	usr_id VARCHAR(50),
+	sub_start_dt DATE,
+	sub_end_dt DATE,
+	cancel_dt DATE,
+	trial_end_dt DATE,
+	sub_status_cd VARCHAR(50),
+	auto_renew_flg INT,
+	grace_period_flg INT,
+	billable_flg INT,
+	manual_override_flg INT,
+	mrr_amt FLOAT,
+	currency_cd VARCHAR(50),
+	billing_freq_cd VARCHAR(50),
+	seat_qty FLOAT,
+	discount_pct FLOAT,
+	contract_term_mo FLOAT,
+	last_plan_chg_dt DATE,
+	orig_plan_cd VARCHAR(50),
+	chg_cnt INT,
+	linked_sub_id VARCHAR(50),
+	created_sys_cd VARCHAR(50),
+	created_ts DATETIME,
+	last_upd_ts DATETIME,
+	notes_txt VARCHAR(50)
+);
