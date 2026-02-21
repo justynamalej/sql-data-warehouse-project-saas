@@ -191,3 +191,51 @@ CREATE TABLE bronze.subscriptions_raw_v2 (
 	last_upd_ts DATETIME,
 	notes_txt VARCHAR(50)
 );
+
+IF OBJECT_ID ('bronze.support_tickets_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.support_tickets_raw_v2;
+
+CREATE TABLE bronze.support_tickets_raw_v2 (
+	tckt_id VARCHAR(50),
+	acct_ref VARCHAR(50),
+	sub_ref VARCHAR(50),
+	tckt_cat VARCHAR(50),
+	prio_cd VARCHAR(50),
+	tckt_stat VARCHAR(50),
+	opened_ts DATETIME,
+	first_resp_ts DATETIME,
+	resolved_ts DATETIME,
+	assigned_agent VARCHAR(50),
+	contact_channel VARCHAR(50),
+	sla_hrs FLOAT,
+	csat_score FLOAT,
+	internal_note VARCHAR(50)
+);
+
+IF OBJECT_ID ('bronze.users_raw_v2', 'U') IS NOT NULL
+	DROP TABLE bronze.users_raw_v2;
+
+CREATE TABLE bronze.users_raw_v2 (
+	usr_id VARCHAR(50),
+	acct_ref VARCHAR(50),
+	sub_ref VARCHAR(50),
+	external_usr_id VARCHAR(50),
+	usr_email VARCHAR(50),
+	usr_nm VARCHAR(50),
+	usr_role_cd VARCHAR(50),
+	usr_title VARCHAR(50),
+	usr_lang VARCHAR(50),
+	created_dt DATE,
+	activated_dt DATE,
+	last_login_ts DATETIME,
+	usr_status_cd VARCHAR(50),
+	deactivated_dt DATE,
+	signup_src VARCHAR(50),
+	signup_channel VARCHAR(50),
+	geo_region VARCHAR(50),
+	timezone VARCHAR(50),
+	is_primary_flg VARCHAR(50),
+	email_verified_flg VARCHAR(50),
+	last_seen_device VARCHAR(50),
+	notes_txt VARCHAR(50)
+);
