@@ -1,3 +1,17 @@
+/*
+============================
+Create Tables
+============================
+Script purpose:
+	This script creates new tables in the 'bronze' schema of the 'DWH_saas' database.
+	If the table already exists, it's dropped.
+
+WARNING:
+	Running this script will drop all tables if they exist.
+	All data in the tables will be permanently deleted.
+	Proceed with caution and ensure you have proper backups before running this script.
+*/
+
 IF OBJECT_ID ('bronze.accounts_raw_v2', 'U') IS NOT NULL
 	DROP TABLE bronze.accounts_raw_v2;
 
